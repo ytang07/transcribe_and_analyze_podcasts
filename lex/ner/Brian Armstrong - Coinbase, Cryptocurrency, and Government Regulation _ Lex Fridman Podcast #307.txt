@@ -1,0 +1,156 @@
+PERSON Brian Armstrong 
+ORG Coinbase 
+PERSON Brian 
+DATE week 
+ORG Coinbase 
+PERSON Brian 
+ORG Bureau 
+PERSON Brian 
+DATE thirty days 
+DATE Forty fifty years ago 
+PERSON Max 
+ORG Coinbase 
+MONEY hundred dollars 
+MONEY forty thousand dollars 
+MONEY a hundred dollars 
+MONEY a hundred and one dollars 
+MONEY the hundred dollars 
+TIME ten seconds later 
+TIME an hour later 
+TIME milliseconds 
+MONEY ten dollars 
+DATE those early days 
+ORG Airbnb 
+DATE December of two thousand ten 
+LOC the bay area 
+TIME nights 
+DATE twenty nine 
+DATE thirty 
+MONEY a hundred and fifty k 
+DATE two years 
+DATE years 
+EVENT the Exxon Val spell spill 
+ORG Coinbase 
+PERSON Putin 
+PERSON Zach 
+PERSON Elon 
+PERSON elon 
+TIME late at night 
+PERSON Brian 
+PERSON Fred 
+DATE two years 
+DATE three years 
+ORG Coinbase 
+PERSON Brian 
+DATE this week 
+TIME twenty five minutes 
+TIME ten minute 
+TIME six and six down an hour 
+TIME twenty five minute 
+TIME five, ten minutes 
+DATE today 
+DATE the first six months 
+ORG Coinbase 
+DATE twenty year olds 
+MONEY twenty five million dollars 
+DATE three weeks 
+TIME midnight 
+DATE around of year 
+PERSON Elon 
+LOC South America 
+LOC South America 
+PERSON Tango 
+ORG the Argentina argentinian National team 
+DATE nineteen seventies 
+PERSON Ray dahlia 
+PERSON Nixon 
+DATE today 
+DATE today 
+ORG Coinbase 
+ORG Coinbase 
+ORG Visa 
+PERSON Michael sailor 
+DATE a decade 
+ORG Coinbase 
+ORG Coinbase 
+ORG Apple 
+DATE today 
+ORG Amazon 
+ORG Amazon 
+ORG Coinbase 
+DATE the last five years 
+DATE today 
+DATE five years ago 
+DATE just three years ago 
+DATE a few years 
+LOC Europe 
+ORG Imf 
+ORG Coinbase 
+ORG Coinbase 
+ORG Coinbase 
+ORG Coinbase 
+DATE three years 
+DATE q four last year 
+DATE any given quarter 
+DATE today 
+DATE the early two thousands 
+ORG wikipedia 
+ORG Google 
+DATE the early thousands 
+PERSON Ray Dal 
+DATE today 
+DATE twenty five thirty five year old 
+DATE September twenty twenty 
+ORG Coinbase 
+ORG Us 
+PERSON Brian 
+ORG Us 
+PERSON Brian 
+ORG Slack 
+LOC Silicon combat Valley 
+DATE eight or 
+ORG Coinbase 
+ORG New York times 
+ORG Coinbase 
+DATE tomorrow 
+DATE fifteen years ago 
+ORG Craigslist 
+ORG Coinbase 
+DATE last year 
+ORG Spacex 
+ORG Gene tech 
+ORG Google 
+ORG Coinbase 
+DATE today 
+DATE twenty twenty two 
+DATE the month 
+DATE each month 
+ORG Nbc 
+DATE ten years 
+DATE twenty years 
+DATE last year 
+DATE two thousand six 
+LOC mars 
+DATE ten or twenty years 
+PERSON Elon 
+DATE today 
+PERSON theodore roosevelt 
+ORG khan academy 
+PERSON Brian 
+PERSON steve Jobs 
+MONEY a hundred thousand dollars 
+MONEY billion dollar 
+MONEY a million dollars 
+DATE every day 
+DATE seven years 
+DATE only ten years 
+ORG Coinbase 
+MONEY a billion dollars 
+DATE ten years 
+DATE ten years 
+DATE a year 
+PERSON Woo 
+PERSON Brian 
+DATE today 
+PERSON Brian Armstrong 
+PERSON Benjamin Franklin 

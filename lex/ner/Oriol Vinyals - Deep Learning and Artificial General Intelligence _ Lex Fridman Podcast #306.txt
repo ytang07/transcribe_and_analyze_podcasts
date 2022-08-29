@@ -1,0 +1,66 @@
+PERSON Ariel 
+PERSON Ariel 
+ORG Ai 
+DATE today 
+DATE today 
+DATE three years ago 
+DATE three years ago 
+DATE six years ago 
+DATE ten years ago 
+DATE every few months 
+DATE the last two, three years 
+DATE the last two years 
+PERSON Shakespeare 
+PERSON God 
+ORG Chin Chile 
+LOC Earth 
+DATE many years 
+DATE the nineteen fifties 
+DATE a few years ago 
+PERSON Jobs 
+PERSON Chin 
+PERSON Obama 
+DATE a few years ago 
+DATE the five years, 
+DATE ten years 
+DATE two thousand nineteen 
+PERSON Flaming 
+DATE five years 
+DATE five, maybe to ten years 
+DATE five to ten years 
+DATE two thousand sixteen 
+DATE five ten plus years 
+DATE five years 
+PERSON Chin 
+DATE multiple months 
+DATE years 
+DATE years 
+DATE five or so years ago 
+DATE today 
+DATE years 
+PERSON carlos 
+ORG Google Brain 
+ORG Google 
+PERSON Andre Ka 
+TIME a few milliseconds 
+TIME seconds 
+DATE the last couple years 
+ORG Google 
+DATE the fifties 
+DATE almost a hundred years ago 
+PERSON Ai 
+DATE five years 
+DATE a few weeks 
+PERSON Ai 
+PERSON Eli 
+PERSON Il 
+DATE many years ago 
+PERSON Il 
+DATE seventy years 
+PERSON Reed Sat 
+LOC Earth 
+ORG Medicine 
+PERSON ariel 
+DATE today 
+PERSON Ariel 
+PERSON alan turing 

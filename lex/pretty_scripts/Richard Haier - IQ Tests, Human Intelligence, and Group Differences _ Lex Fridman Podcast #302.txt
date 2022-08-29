@@ -1,0 +1,1130 @@
+
+ Lex Fridman: Let me ask you to this question whether there's bell curve or any research raised differences. Can that be used to increase the amount of racism in the world? Can that be used to increase the amount of hate in the world? My sense, there is such
+ 
+ Richard Haier: enormous reservoirs of hate and racism. That have nothing to do with scientific knowledge of the data that speak against that that... No. I I don't I don't wanna to give racist groups of veto power over what scientist
+ 
+ Lex Fridman: study. The following is a conversation with Richard Hire on a science of human intelligence. This is a highly controversial topic, but a critically important one for understanding the human mind I hope you will join me in not shy away from difficult topics like this. And instead let us try to navigate it with empathy, rigor and Grace. If you're watching this on video now, I should mention that I'm recording this introduction in an undisclosed location somewhere in the world.
+ 
+ I'm safe and happy and life is beautiful. This is a large frequent podcast to support it. Please check out our sponsors in the description and now dear your friends has Richard Higher. What are the measures of human intelligence? And how do we measure it?
+ 
+ Richard Haier: Everybody has an idea of what they mean by intelligence. In the in the vernacular, what I mean by intelligence is just being smart, how well you reason how well you figure things out. What you do when you don't know what to do. Those are just kinda everyday common sense definitions of how people use the word intelligence. If you wanna do research on intelligence, measuring something.
+ 
+ That you can study scientifically is a little trickier. And what almost all researchers who study intelligence use is the concept called the g factor, general intelligence. And that is what is common. That is a mental ability that is common to virtually all tests of mental abilities.
+ 
+ Lex Fridman: What's the original of the term g faction, by the was? Such a funny word was such a fundamental human thing.
+ 
+ Richard Haier: The general factor I really started with Charles Sp, and he noticed this is like boy more than a hundred years ago. He'd noticed that when you tested people with different tests, all the tests were correlated positively. And so he he was looking at student exams and things. And he invented the correlation coefficient essentially. And he...
+ 
+ When he used it to look at student performance on various topics, he found they all the scores were correlated with each other and they were all positive correlations. So he inferred from this. That there must be some common factor that was irrespective of the content of the test
+ 
+ Lex Fridman: and positive correlation means if you do well and on the first test, you likely you to do well in the second test. And presumably that holds for tests across even disciplines, so not within subject, but across subjects. So that's where the general comes in some something about general intelligence. So when you were talking about measuring intelligence and and trying to figure out something difficult about this world and how to solve the puzzles of this world. That means generally speaking, that's some specific test, but across all tests.
+ 
+ Richard Haier: Absolutely right. And people get hung up on this because they say, well, what about the ability to do x? Isn't that independent. And they said, I know somebody who's very good at this, but not so good at this. This other thing.
+ 
+ Yeah. And so there are a lot of examples like that, but it's a general tendency. So exceptions really don't disprove know, your your everyday experience is not the same as what the data actually show. And your everyday experience. When you say, oh, I know someone who's good at x but not so good at why.
+ 
+ That doesn't contradict the statement of about he's not so good, but he's not the opposite. He's not it's not a negative correlation.
+ 
+ Lex Fridman: Okay. So we're not with our anecdotal data. I know guys is really good at solving some kind of visual thing. That's not sufficient for us to understand actually the depths of that person's intelligence. So how this idea of g factor How much evidence is there?
+ 
+ How strong, you know, given across the decades that this idea has been around how much has it been held up that there a universal sort of power of intelligence underneath all of it. All the different tests would do to try to get to this thing in in the depths of the human mind. That's that's a universal stable measure of a person's intelligence. You used a couple of words in
+ 
+ Richard Haier: there? Yeah. Stable and
+ 
+ Lex Fridman: We have to those words. We're hoping we can get away of being poetic.
+ 
+ Richard Haier: We can. If there's a lot about search in general, not just intelligence research that is poetic. Science has a aspect to it. And good scientists are very intuitive. They're not just, hey, hey, these are the the numbers.
+ 
+ You had to kinda step back and see the big picture. When it comes to intelligence research, you asked how well has this general concept held up. And I think I can say without fear of being empirical contradicted that it is the most replicated finding in all of psychology. Now some zen may say, well, big deal, psychology, we all know there's a replication crisis in psychology and a lot of this stuff doesn't replicate. That's all true.
+ 
+ There is no replication crisis when it comes to studying the the existence of this general factor. Let me tell you some things about it. It is... It it looks like it's universal in that you find it in all cultures. The way you find it, step back one one step, the way you find it is to give a battery of mental tests.
+ 
+ What battery you choose, take a battery of any mental test you want. Give it to a large number of diverse people. And you will be able to extract statistically the... The commonality among all those tests. It's done by a technique called factor analysis, people think that's that this may be a statistical artifact of some kind it is not a statistical artifact,
+ 
+ Lex Fridman: what is factor analysis?
+ 
+ Richard Haier: Factor analysis a way of looking at a big set of data and look at the correlation among the different test scores and then find empirical the clusters of scores that go together. And there are different factors. So if you have a bunch of mental tests, there may be a verbal factor, and marie be a numerical factor, there may be a visual spatial factor, but those factors have variants in common with each other. And that is the common... That's what's common among all the tests and that's what gets labeled the g factor.
+ 
+ So if you give a diverse battery of mental tests and you extract a g factor from it, that factor usually accounts for around half of the variance is the single biggest factor, but it's not the only factor, but it is the most reliable It is the most stable and it seems to be very much influenced by genetics. It's very hard to change the g factor with training or drugs or anything else. You don't know how to increase the g fast
+ 
+ Lex Fridman: Okay. You said a lot of really interesting things there. So first, I mean, just to get people used it in case they're are not familiar with this idea. G factor is what we mean. So often there's a this term used Iq, which is the way I Iq is used, they really mean g factor in regular conversation.
+ 
+ The way... Because we what we mean by queue we mean intelligence and what we mean by intelligence we mean general intelligence, and general intelligence in the human mind from a psychology from a serious rigorous scientific perspective actually means g factor. So g factor equals intelligence just in this conversation to define terms. Okay. So so there's this stable thing called g factory.
+ 
+ You said now factor, you said fact many times, means a measure that a potentially could be reduced to a single number across the different factors you mentioned. And what you said it it comes for half half ish accounts for half ish of what of variance across the different set of tests. So if you if you do for some reason well on some set of tests, what does that mean? So that that means there's some unique capabilities that's side factor than my account for that. And what are those?
+ 
+ What else is there besides the raw horsepower, the engine inside your mind that generates intelligence?
+ 
+ Richard Haier: There are test taking skills, there are specific abilities. Someone might be particularly good at mathematical things, mathematical concepts, even simple arithmetic people are... Some people are much better than others. You might know people who can memo and and short term memory is another component of of this. Short term memory is one of the cognitive processes that's most highly correlated with the g factor.
+ 
+ So
+ 
+ Lex Fridman: so all those things like memory taste test taking skills account for variability across the the test performances. But you so you can you can run, but you can't hide from the thing that God gave you, the genetics. So that g factor science says that g factors there. Each one of us have
+ 
+ Richard Haier: Each one of us has a a g factor. Oh, boy. So some have more than others. Getting uncomfortable Well Iq is a score. And Iq use an Iq score is a very good estimate of the g factor.
+ 
+ You can't measure g directly. There's no direct measure. You estimate it from these statistical techniques. But an iq score is a good estimate why because a standard Iq test is a battery of different mental abilities. You combined it into one score and that score is highly correlated with the g factor even if you get better scores on some sub tests than others.
+ 
+ Because again, it's what's common to all these mental abilities.
+ 
+ Lex Fridman: So not i a good Iq test. And I'll ask you about that. But a good Iq test tries to compress down. That battery of test. Like, tries to get a nice battery...
+ 
+ The nice selection of variable tests into one test. So in that way, it sneaks up to this g defect. And that's another interesting thing about g factor. Now you give... First of all, you have a great book.
+ 
+ On the in your size of intelligence. You have a great course, which is when I first learned. You're you're a great teacher. Let me just
+ 
+ Richard Haier: thank you.
+ 
+ Lex Fridman: Your course at the teaching company, I hope I'm saying that correctly.
+ 
+ Richard Haier: The intelligent brain,
+ 
+ Lex Fridman: the intelligent brain. Is when I first occurred about this g factor. This mysterious thing that looks in the darkness that we cannot quite shine it light on. We're trying to sneak up on. So the fact that there's this measures stable measure of intelligence, we can't measure it directly.
+ 
+ But we can come up with a battery test or one test that includes a battery of variable type of questions that can reliably or attempt to estimate in a stable way that g factor. That's a fascinating idea. So for me is an Ai person that's fascinating. It's fascinating there's something stable like that about the human mind, especially if it's grounded in genetics is both fascinating that as a researcher the human mind, and all the human psychological soc ethical questions to start arising. It makes me uncomfortable, but truth can be uncomfortable.
+ 
+ Richard Haier: You know, i I get that a lot about being uncomfortable talking about this. Let me go back and just say one more empirical
+ 
+ Lex Fridman: thing.
+ 
+ Richard Haier: It doesn't matter which battery of tests you use. So there are countless tests. You can take any twelve of them at random, extract a g factor and another twelve at random and extracted g factor and those g factors will be highly correlated like over point nine with each other that. So it is a ubiquitous. It doesn't depend on the content of the test is what I'm trying to say.
+ 
+ Yeah. It is general among all those tests of mental ability. And tested mental, you know, mental abilities include things like jeez, plain poker, Your skill at poker. Is not unrelated to to g. Your skill at anything that requires reasoning and thinking anything from spelling arithmetic, more complex things.
+ 
+ This concept is ubiquitous And when you do batteries of testing in different cultures, you get the same thing.
+ 
+ Lex Fridman: So this says something in thing about the human mind that is the computers designed to be general. So that means you can... So it's not It's not easily made specialized. Meaning if you're going to be good at one thing, Musa as this quote is a ancient warrior famous for the book of five rings in the martial arts world. And the quote goes, if you know the way broadly, you will see it in everything.
+ 
+ Meaning if you do one thing is going to generalize to everything. And that... That's an interesting thing about the human mind. So that that's what the g factor reveals. Okay.
+ 
+ So what's the difference you can elaborate a little bit further between Iq and g factor just because it's a source of confusion for people. And
+ 
+ Richard Haier: iq is is a core. People use the word Iq to mean intelligence, but Iq has a more technical meeting for people who work in the field. And I... It's an iq score score on a test that estimates the g factor. And the g factor is what's common among all these tests of mental abilities if you think about...
+ 
+ It's not a venn diagram, but I guess you could make a venn diagram out of it, but the g factor would be really at the core. What's what's common to everything. And I... What I scores do is they allow a rank order of people on the score. Mh.
+ 
+ And this is what makes people comfortable. This is where there's a lot of controversy about whether I q tests are biased toward any one group or or another. And a lot of the the answers to these questions are very clear, but they also have a technical aspect of it. Mh. That's not so easy to to explain.
+ 
+ Lex Fridman: Well, we'll talk about the fascinating and the difficult things about all of this. But so by the way, when you say rank order, that means you get a number and that means one person... You can now compare. Like you could say that this other person is more intelligent than me. Well, what
+ 
+ Richard Haier: you can say is Iq scores are interpreted really as percentile. So that if you have an iq of a hundred and forty and somebody else has seventy, the metric is such that you cannot say the person with an iq of a hundred and forty twice as smart as a person with an iq of seventy, that would require a ratio scale with an absolute zero now you may think you know people with zero intelligence. But in fact, there is no absolute zero one on an iq scale. It's relative to other people. So relative to other people, somebody with an Iq score of a hundred and forty is in the upper less than one percent whereas somebody with an Iq at seventy is two standard deviations below the mean.
+ 
+ And that's that's a different percentile.
+ 
+ Lex Fridman: So it's similar to, like, in chess, you have an el rating that's designed to rank order people. So you can't say it's twice one person. If if your yellow ratings is twice another person, I don't think you're twice as good at chess. Because it's not stable in that way. But because it's very difficult to do these kinds of comparisons.
+ 
+ But so what can we say about the number itself?
+ 
+ Richard Haier: Is that stable across tests and so on or no. There are number of statistical properties of any test they're called psycho properties. Have validity, you have reliability, reliability there are many different kinds of reliability. They all essentially measure stability. And Iq tests are stable within an individual.
+ 
+ There are some longitudinal studies where children were measured at age eleven And again, when they were seventy years old and the two Iq scores are highly correlated with each other, this comes from a fascinating study from Scotland. In the nineteen thirties, some researchers decided to get an iq test on every single child age eleven in the whole country. And they did. And those records were discovered in an old store room at the university of Edinburgh by friend mine and Dairy who found the records digitize them. And has done a lot of research on the people who are still alive today from that original study, including brain imaging research by the way.
+ 
+ Really, it's a fascinating group of of people who were who were studied. Not to get ahead of the story, but one of the most interesting things they found is a very strong relationship between iq q measured at age eleven and mortality. So that, you know, in seventy years later. They looked at the survival rates, and they could get death records from everybody and Scotland has universal healthcare care for everybody, and it turned out if you divide the people by their age eleven iq score into tiles. And then look at how many people are alive, seventy years later, I know this is in the book have the graph in the book, but there are essentially twice as many people alive in the highest Iq quartile than in the lowest Iq quartile.
+ 
+ True and men and
+ 
+ Lex Fridman: women.
+ 
+ Richard Haier: Interesting. It's a so it makes a big difference. Now why this is the case? Is not so clear since everyone had access to health,
+ 
+ Lex Fridman: well there's a lot and we'll talk about it, you know, just the the sentences you used now could be explained by nature or nurture. We don't know. Now there's a lot of science that starts to then dig in and investigate that question. But let me linger on the Iq test. How are the test design, Iq test design, How do they work?
+ 
+ Maybe some examples for people who are not aware, what... What makes a good test question that sneaks up on this on this g factor measure.
+ 
+ Richard Haier: Well, your question is interesting because you want me to give examples of items that make good items. And what makes a good item is not so much it's content, but it's empirical relationship to the total score that turns out to be valid by other means. Yeah. So for example, Let me give you an odd example from personality testing. Nice.
+ 
+ So there's a a personality test called the Minnesota Multi personality inventory, M i. Been around for decades.
+ 
+ Lex Fridman: I've heard about this test recently because of the Johnny depp and amber heard trial. I don't know if you've been paying attention to that.
+ 
+ Richard Haier: But... I not didn't paying attention if
+ 
+ Lex Fridman: had psychologist i understand, and they were talking finally, those psychologists did... Again, I'm learning so much from this job. They they have... They did different at battery of tests. To diagnose personality disorders.
+ 
+ Apparently, there's that systematic way of doing so in the Minnesota one is one of the ones that there's the most science on. There's a lot of great papers which were all continuously cited on stand, which is fascinating the watch. Sorry. A little bit of a tangent okay.
+ 
+ Richard Haier: I mean, this is interesting because you're right. It's been around for decades. There are a lot of scientific research on the psycho properties of the test, including what it predicts with respect to different categories of personality disorder. Mh. But what I want mention is the content of the items on that test.
+ 
+ All of the items are essentially true false items, true or false. I prefer a shower to a bath. Mh. True or false. I think Lincoln was a better president than Washington.
+ 
+ Mh. And what up all these... What what does that have to do And and the point is the content in these items. Nobody knows why these items in aggregate predict anything but empirical they do. It's a technique of of choosing items for a test that is called dust bowl imp.
+ 
+ That the content doesn't matter, but there for some reason when you get a criterion group of people with this disorder, and you compare them to people without that disorder, these are the items that distinguish. Irrespective of content, it's a hard concept to grass.
+ 
+ Lex Fridman: Well, first all is fascinating But from... Because I I consider it's a part psychologist because I love human robot interaction, and that's a problem half of that problem. Is a psychology problem because there's a human. So designing these tests to get at the questions is is the fascinating part. Like, how do you get to...
+ 
+ Like, what is dust Para system referred to? Does it refer to the final result Yeah. So it's the test is in imp. But how do you arrive at the battery of questions? I presume one of the things now again, I'm going to the excellent testimony in that trial.
+ 
+ The clinic because they also leaks they explained the tests. That a bunch of the questions are kind of make you forget that you're taking a test. Like, it makes it very difficult for you to somehow figure out what what you're supposed to answer. Yes.
+ 
+ Richard Haier: It's called social desi. We're getting a little far of field because I only wanted to give that example of dust bowl. When we talk about the items on an Iq test, Many of those items in the dust bowl and imp method have no face validity. In other words, they don't look like they measure anything. Yes.
+ 
+ Whereas most intelligence tests the items actually look like they're measuring some mental ability. So here's here's one
+ 
+ Lex Fridman: of so you were bringing that up as an example as what it is not.
+ 
+ Richard Haier: Yes. Got it. Okay. So I don't wanna go too far a afield on it.
+ 
+ Lex Fridman: But a too far field is actually one of the names of this podcast. So Oh, so I should i should mention that.
+ 
+ Richard Haier: Far afield.
+ 
+ Lex Fridman: Far field. Yeah. So anyway, sorry. So so they feel the questions look, like, they
+ 
+ Richard Haier: they past the face validity test. And some more than others. And so for example, let me give you a couple of things here. If I one of the sub tests on the standard Iq test is general information. Me just think a little bit because I don't wanna give you the actual item.
+ 
+ But if I said, how far is it between Washington Dc in Miami, Florida within five hundred miles, plus or minus. No, you know, it's not a fact most people memorize, but and you know something about geography, you say, well I flew there once I know planes five a five hundred mine. You know you can get you can kind make an estimate. But it's also seems like it would be very cultural You know so there's that kind of general information. Then there's vocabulary test.
+ 
+ What does Reg mean? And I choose that word because that word was removed from the it q test because people complained that disadvantaged people would not know that word. Mh. Just from there every day, life. Okay?
+ 
+ Here's another example from a different kind of sub test with Ro regard by the way. Got is a...
+ 
+ Lex Fridman: I think I'm
+ 
+ Richard Haier: a sailing competition. a competition with boats. Not necessarily sailing, but the competition.
+ 
+ Lex Fridman: Yep. Yep. Okay. I'm probably disadvantaged in that way. Okay.
+ 
+ Excellent. So that was removed. Okay. What you were saying
+ 
+ Richard Haier: Okay. So here's a here's another sub test. I'm gonna repeat a string of numbers. And when I'm done, I want you to repeat them back to me. Mh.
+ 
+ Ready? Okay. Seven four two eight one, six. Best way. So me.
+ 
+ Lex Fridman: Seven four two eight one six.
+ 
+ Richard Haier: K. You get the idea. Now the actual test starts with a smaller number. You know, like two numbers, and then it is... People get it right.
+ 
+ You keep going adding to the string of numbers until they can't do it anymore. Okay. But now try this. I'm gonna... I'm gonna say some numbers.
+ 
+ And when I'm done, I want you to repeat them to me backwards. I quit. Okay. Now so I gave you some examples of the kind of items on an Iq test. General information, I remember all general information vocabulary, digit span, forward and digit span.
+ 
+ Backward.
+ 
+ Lex Fridman: Well, you said I can't even remember them... That's a good question for me. What does memory have do
+ 
+ Richard Haier: so let's let's hold on.
+ 
+ Lex Fridman: So alright. So
+ 
+ Richard Haier: let's let's let's just talk about these examples. Now some of those items Seem very cultural. And other seem less cultural Which ones do you think scores on which sub test are most highly correlated with the g factor?
+ 
+ Lex Fridman: Well, the two events less cultural?
+ 
+ Richard Haier: Well, it turns out vocabulary is highly correlated, and it turns out that digit span backwards. Is highly correlated.
+ 
+ Lex Fridman: That's you how do you figure?
+ 
+ Richard Haier: Now you have decades of research to answer the question, how do you figure?
+ 
+ Lex Fridman: Right. So no now there's, like, good research that gives you intuition about what kind of questions get at it. Just like there's something I've done. I've actually used for research just send me autonomous like, whether humans are paying attention, there's a body of literature that does like and back test, for example, we have to put workload on the brain and to do recall memory recall, and that helps you kinda put some work onto the brain while the person's is doing some other tasks and does some interesting research with that. But that's loading the memory.
+ 
+ So there's, like, research around stab what that means about the human mind. And here you're saying, recall backwards is a good protector.
+ 
+ Richard Haier: The transformation.
+ 
+ Lex Fridman: Yeah. So you have to... So you have to do some some... Like, have to load down into your brain and not just remember it. But do something with it.
+ 
+ Right?
+ 
+ Richard Haier: And here's another example of a different kind of test called the Hi paradigm, and it's not verbal at all. It's a little box and there are series of lights a arranged in the semi circle at the top of the box, and then there's a home button that you press. And when one of the lights goes on, there's a a button next to each of those lights. You take your finger off the home button and you just press the button next to the light that goes on. And so it's a very simple reaction time.
+ 
+ Light goes on as quick as you can you press the button. And you get a reaction time. From the moment, you lift your finger off the button to when you press the the button with where the light is. That reaction time doesn't really correlate with iq very much. But if you change the instructions and you say three lights are gonna come on simultaneously.
+ 
+ I want you to press the button next to the light that's furthest from the other two. So maybe lights one and two go on and and light six goes on. Simultaneously, you take your finger off you would press the button by light six. That's that reaction time to a more complex task. It's not really hard, almost everybody gets it all right.
+ 
+ But the your reaction time to that is highly correlated with the g factor.
+ 
+ Lex Fridman: This is fascinating. So reaction times is a temporal aspect to this. So what what role
+ 
+ Richard Haier: crossing. It's the speed of processing.
+ 
+ Lex Fridman: Is this also true for ones that take longer like, five, ten, thirty seconds It's time part of the measure with something. Yes.
+ 
+ Richard Haier: And that is why some of the best Iq tests have a time limit. Because if you have no time limit, people can do better Yeah. But it doesn't... It doesn't distinguish among people that well. So that adding the time element is important.
+ 
+ So speed of information processing... And reaction time is a measure of speed of information processing turns out to be related to the g factor.
+ 
+ Lex Fridman: But the g factor only accounts for me behalf or some amount on the test performance. For example, I get pretty bad test anxiety. Like, I was never... I mean, I just don't enjoy tests. I enjoyed going back into my cave and working.
+ 
+ Like, I always enjoyed homework way more than tests no matter how hard the homework is because I can go back to the cave and hide away and think deeply. There's something about being watched and having a time limit. That really makes me anxious and I could just see the mind not operating optimally at all. But you're saying underneath there, there's still a g defect there's question. Nope no.
+ 
+ Boy.
+ 
+ Richard Haier: And if you get anxious taking the test, many people say, oh, I didn't do well because I'm anxious. Yeah. I hear that a lot. Yeah. Say well, fine.
+ 
+ If you're really anxious during the test, the score will be a bad estimate of your g defect. Yeah. It doesn't mean the g factor isn't there. That's right. And by the way, standardized test like the sat They're essentially intelligence tests.
+ 
+ They are highly g loaded. Now the the people who make the Sat team don't wanna to mention that. They have enough trouble justifying standardized testing, But to call in an intelligence test is really beyond the the pale. But in fact, it's so highly we correlated because it's a reasoning test. Sat is a reasoning test of verbal reasoning mathematical reasoning.
+ 
+ Yeah. And if it's a reasoning test, it has to be related to to g. But if people go in and take a standardized test whether it's an iq test or the Sat, and they happen to be sick that day with a hundred and two fever. The score is not going to be a good estimate of their g. If they retake the test when they're not anxious, or less anxious or don't have a fever, the score will go up and that will be a better estimate.
+ 
+ Lex Fridman: But you can't say there g factor increased between the two tests. Well, it's interesting. So the question is how wide of a battery of test is required to estimate the g factor well. Because I'll give you as my personal example. I took this At and I think it was called the Act where I was to also...
+ 
+ I took safety many times. Every single time I'm gonna perfect that math. And verbal, the time limit on the verbal made me very anxious. I did not... I mean, part of it speaking this very well.
+ 
+ But honestly, it was like, you're supposed to remember stuff and like, I was so anxious. And like, as I'm reading, I'm sweating, I can't, you know, that like, that feeling, you have when you're reading a book and you you just read a page and you know nothing about what you've read because you zoned out, that's the same feeling of, like, I can't. I have to... You you're like nope. Read and understand and that anxieties, like, and you start seeing, like, the typo versus the content of the words, like that was i I I don't...
+ 
+ It's interesting because I know that what they're measuring I could see being correlated was or something. But that anxiety or some aspect to the performance, sure please please a factor and I wonder how you sneak up in a stable way. I mean this is a broader discussion about that's like standardized testing, how you sneak up. How you get at the fact that I'm super anxious and still nevertheless measure some aspect of my intelligence. I wonder i i...
+ 
+ I don't know. I don't know if you can say to that that time limit shares is a pain
+ 
+ Richard Haier: well. Let me say this. There are two ways to approach the very real problem that you say that some people just get anxious or not good test takers. By the way, of part of testing is You know the answer, you can figure out the answer, or you can't. Right.
+ 
+ If you don't know the answer, there are many reasons You don't know the answer at that particular moment. You may have learned it once and forgotten it. You may it may be on the tip of your tongue and you just can't get it because you're anxious about the time limit. You may never have learned it. You may never...
+ 
+ You you may have been exposed to it, but it was too complicated and you couldn't learn it. I mean, there are all kinds of reasons here. But for an individual to interpret your scores as an individual, Whoever is interpreting the score has to take into account various things that would affect your individuals. Score and that's why decisions about college admission or anything else where tests are used are hardly ever the only criterion to make a decision.
+ 
+ Lex Fridman: And I think people are college admissions letting go of that very much.
+ 
+ Richard Haier: Oh yes. Yeah.
+ 
+ Lex Fridman: But what does that even mean? Because is it possible to design standardized tests that do get that are useful to college admissions.
+ 
+ Richard Haier: Well, they they already exist.
+ 
+ Lex Fridman: The Sat is highly correlated with many aspects of success at college. Is a problem. So maybe you could speak to this. The correlation across the population versus individuals. So you know, our criminal justice system is designed to make sure...
+ 
+ Well, it's it's it's still... There's tragic cases where innocent people go go go to jail, but you try to avoid that. In the same way with testing, it just it would suck for an Sat to miss genius.
+ 
+ Richard Haier: Yes. And it it's possible, but it's statistically unlikely. So the... This so it really comes down to, yeah know do which piece of information. Maximizes your decision making ability.
+ 
+ So If you just use high school grades, it's okay. But you will miss some people who just don't do well in high school, but who are actually pretty smart, smart enough to be bored silly in high school, and they don't care and they their high school Gpa isn't that good. So you will miss them. In the same sense that somebody who could be very able and ready for a college which just doesn't do well on their Sat. This is why you make decisions with taking in a variety of information.
+ 
+ The other thing I I wanted to say, talked about when you make a decision for an individual, statistically for groups there are many people who have a disparity between their math score and their verbal score. That disparity or the other way around. That disparity is called tilt. This score is tilted one way or the other. And that tilt has been studied empirical to see what that predicts.
+ 
+ And in fact, you can't make predictions about college success based on until. And mathematics is a good example. There are many people, especially non native speakers of English come to this country take the Sat t's do very well on the math and not so well on the verbal. Well, if they're applying to a math program
+ 
+ Lex Fridman: mh
+ 
+ Richard Haier: professors there who are making the decision or the admissions officers, don't wait so much to score on verbal. Especially if it's non native speaker.
+ 
+ Lex Fridman: Well, this... So... yeah, you have to try to indian mission process bring in the context. But non native isn't really really the problem. I mean, that was part of the problem for me.
+ 
+ But it's the the anxiety was, which... It's interesting. It's interesting. Oh boy, reducing yourself down to numbers. But it's still true.
+ 
+ It's still the truth. Well, so it's a it's a painful that same anxiety that led me to be to struggle with the Sat verbal tests, it still wasn't within me. In always of life. So maybe that's not anxiety. Maybe that's something...
+ 
+ you know, like, personality is also pretty stable.
+ 
+ Richard Haier: Personality is stable. Personality does impact the way you navigate life Yeah. There's no question.
+ 
+ Lex Fridman: Yeah. And and we should say that g factor intelligence is not just about some kinda number on a paper. It's also has to do with how you navigate life. How easy life is for you in this very complicated world. So personalities all tied into that and some in some and some deep fundamental month away.
+ 
+ Richard Haier: But now you've hit the key point about why we even want to study intelligence. And personality, I think to a lesser extent, but that's my interest is more on intelligence. I went to graduate school and wanted the study personality, but That's kind of another story how I got kind shifted from personality research over to intelligence research. Because it's not just a number Intelligence is not just an Iq score. It's not just an Sat score.
+ 
+ It's what those numbers reflect about your ability to navigate everyday life. It has been said, that life is one long intelligence
+ 
+ Lex Fridman: test.
+ 
+ Richard Haier: And who can't relate to that? And if you doubt... See, another problem here is a lot of critics of intelligence research intelligence testing. Tend to be academics who buying larger pretty smart people. And pretty smart people by and large.
+ 
+ Have enormous difficulty understanding what the world is like for people with Iq of eighty. Or seventy five. It is a completely different everyday experience. Even two scores of eighty five ninety you know, there's a popular television program. Judge Judy.
+ 
+ We judge Judy deals with everyday people with everyday problem and you can see the full range of problem solving ability demonstrated there. And sometimes she does it for laughs, but it really isn't funny because people who who are are... There are people who are very limited in their life navigation, went along success by having by by not having good reasoning skills. Which cannot be taught. We know this by the way because there are many efforts.
+ 
+ Know, the United States military, which excels at training people. I mean, I don't know that there's a better organization in the world for training diverse people. Mh. And they won't take people with Iq under. I think eighty three is the cutoff because they have found you they are unable to train people with lower Iq to do jobs in the military.
+ 
+ Lex Fridman: So one of the things that g factor has to do is learning.
+ 
+ Richard Haier: Absolutely. Some people learn faster than others? Some people learn more than others. Now faster, by the way, it's not necessarily better. As long as you get to the same place eventually, but, you know, there are professional schools that want students who can learn the fastest because they can learn more or learn deeper or all kinds of of ideas about why you select people with the highest scores and there's nothing funnier by the way.
+ 
+ To listen to a bunch of academics, complain about the concept of intelligence and intelligence testing and then you go to a faculty meeting where they're discussing who to hire among the applicants. And all they talk about is how smart the person is.
+ 
+ Lex Fridman: We we'll get to that. We'll sneak up to that in different ways, but there's something about reducing a person to a number that in part is grounded to the person's genetics. And makes people very uncomfortable.
+ 
+ Richard Haier: But nobody does that. Nobody in the field actually does that. That is a that is a worry that is a worry like I don't want call it a conspiracy theory. I mean, it's a legitimate worry, but it just doesn't... It just doesn't happen.
+ 
+ Now I had a professor in graduate school who was the only person I ever knew who considered the students only by their their test scores. Yes. And later in his life, he kind of backed off that. But
+ 
+ Lex Fridman: well let me ask you this. So we'll jump around. I'll I'll come back to the book. I tend to... I've had, like, political discussions with people.
+ 
+ And like, my friend michael M, he's he's an ana. Disagree with him on basically, everything except the fact that love is a beautiful thing in this world. And he says this test about left versus right, whatever it doesn't matter what the test is, but he believes the question is, do you believe that some people are better than others? Question ambiguous. Do you believe some people are better than others.
+ 
+ And to me, so the immediate answer is, no. It's a poetic question. It's ambiguous question. Right? Like, you know, people wanna maybe the temptation task better what better the sports so on.
+ 
+ No. To me, I stand with the sort of the founding documents of this country, which is all men created equal. As a basic humanity. And there's something about tests of intelligence. Just knowing that some people are different, like, the science of intelligence that shows that some people are genetically in some stable way across a lifetime.
+ 
+ Have a greater intelligence than others. Makes people feel like, some people are better than others. And that makes them very uncomfortable. And I maybe you can speak to that. The fact that some people more intelligent than others in a way that's cannot be compensated through education through anything you do in life.
+ 
+ What do we do with that?
+ 
+ Richard Haier: Okay. There's a lot there. We haven't really talked about the genetics of it yet. But you are correct in that. It is my interpretation of of the data.
+ 
+ That genetics has a very important influence on the g factor. And this is controversial and we can talk about it But if you think that genetics, the genes are deter... Are always deter that leads to kind of the worry that you expressed. But we know now in the twenty century that many genes are not deter that are prob, meaning they their gene expression can be influenced. Now whether they're influenced only by other biological variables, or other genetic variables or environmental or cultural variables, that's where the controversy comes in.
+ 
+ And we can come... We can discuss that in more detail if you like. But to go to the question about better, people better. There's zero evidence that smart people are better with respect to important aspects of life like honesty. Even ability I'm sure you know many very intelligent people who are not terribly likable or terribly kind, or terribly honest.
+ 
+ Lex Fridman: Is there something you'd be said? So one of the things I've recently reread for the second time, I guess that's what the word reread means. The rise in fall the third reich, which is, I think the best telling of the rise in fall of Hitler. And one of the interesting things about the people that how should I say it? Justified or maybe prop up the ideas that hitler put forward is the fact that they were extremely intelligent.
+ 
+ They were in the intellectual class. They were... Like, it was obvious that they they thought very deeply and rationally about the world. So what I like to say is one of the things that shows to me is some of the worst atrocities in the history of humanity. Have been committed by very intelligent people.
+ 
+ So that that means that intelligence doesn't make you a good person. I wonder if You know, there's a g factor for intelligence. I wonder if there's a g factor for goodness. You know, they need in good and evil. Of course, that's probably harder to measure, because it's such a subjective thing what it means to be good.
+ 
+ And even the idea of evil is a deeply uncomfortable thing because how do we know?
+ 
+ Richard Haier: But it's independent whatever it is. It's independent of intelligence. So, I I agree with you about that. But let me say this. I have also asserted, my belief that more intelligence is better than less.
+ 
+ Mh. It doesn't mean more intelligent people are better people. But all things being equal, would you like to be smarter or less smart? So if I had a pill, I have two pills. I said, damn, this one will make it smarter, This one will make it dumb.
+ 
+ Which one would you like? Are there any circumstances under
+ 
+ Lex Fridman: which you would choose to be dumb? Well let me ask you this. That's a very Nuance and interesting question. You know, there's been books written about this. Right?
+ 
+ Now we'll return to the hard questions, the interesting questions. Let me ask about human happiness. This intelligence lead to happiness. No. So So...
+ 
+ Okay. So back to the pi then. So why when would you take the pill? So you said iq eighty. Ninety, one hundred one ten, you start going through the quartile and is it obvious isn't there diminishing returns, and then it starts becoming negative.
+ 
+ Richard Haier: This is an empirical question. Yes And so that I have advocated in many forums more research on enhancing the g factor. Right now there's there have been many claims about enhancing intelligence. With... You mentioned the n back training, it was a big deal a few years ago.
+ 
+ It doesn't work. Data is very clear. It does not work you know, or doing, like, memory tests
+ 
+ Lex Fridman: like training and on. Yeah.
+ 
+ Richard Haier: Yeah. It make it may give you a better memory in the short run. But it doesn't impact your chief factor. It was very popular a couple of decades ago that the idea that listening to mo art could make you more intelligent. There was a paper published on this when somebody I knew published this paper.
+ 
+ Intelligence researchers never believed it for a second, been hundreds of studies, all the meta analyses, all of the summaries and so on. Show it... There's nothing to it. Mh. Nothing to it at all.
+ 
+ But. But but wouldn't it be something? Wouldn't it be world shaking? If you could take the normal distribution of intelligence which we haven't really talked about yet. But Iq scores and the g factors thought to be a normal distribution and shift it to the right so that everybody is smarter.
+ 
+ Even a half a standard deviation would be world shaking because there are many social problems, many many social problems that are exacerbated by people with lower, ability to reason stuff out and navigate everyday life
+ 
+ Lex Fridman: So I wonder if there's a threshold. So maybe I would push back and say, universal shifting, of the normal distribution may not be the optimal way of shifting. Maybe it's better to whatever the asymmetric tank kind of distributions is like, really pushing the lower up versus trying to make the people at the average, more intelligent.
+ 
+ Richard Haier: For you're saying that if in fact there was some way to increase g. Let's just call it metaphorically a pill an I pill. We should only give it to people at the lower end.
+ 
+ Lex Fridman: No. It's just intuitively I I can see that light becomes easier at the lower end. Yes. If it's increased, it becomes less and less it is a empirical scientific question, but it becomes less and less obvious to me that more intelligence is better. At the high end, it not because it would make life easier, but
+ 
+ Richard Haier: it would make whatever problems you're working on, more sol. And if you are working on artificial intelligence, there's a tremendous potential to for for that to improve
+ 
+ Lex Fridman: society I understand... So at the whatever problems you're working on, yes. But there's also the problem with the human condition. There's love there's fear and all those beautiful things that sometimes if you're good at for solving problems, you're going to create more problems for yourself. It's I'm not exactly sure.
+ 
+ So ignorance bliss is a thing. So there might be a place there might be a sweet spot of intelligence. Given your environment, giving your personality all those kinds of things. And that becomes less beautifully complicated. The more and more intelligent you become.
+ 
+ But that's a that's a that's a question for literature now for science perhaps.
+ 
+ Richard Haier: Well yeah. Imagine this. Imagine there was an high q pill. Yeah and it was developed by a private company and they are willing to sell it to you. And whatever price they put on it, you are willing to pay it because you would like to be smarter.
+ 
+ Yes. But just before they give you a pill, they give you a disclaimer form to sign. Yes. Don't hold us that we're you understand that this pill has no guarantee that life is going to be better and in fact, it could be worse.
+ 
+ Lex Fridman: Well, yes. That's how lawyers work, but I would love for science to answer the question. To try to predict if your left is going to be better or worse when you become more more or less intelligent. It's a it's a fascinating question. About what is the sweet spot for the human condition?
+ 
+ Some of the things we see as bugs might be actually features may be crucial to our overall happiness. Is our limitations might lead to more happiness than less. But again, more intelligence is better at the low end. That's more let's as... That's something that's less argument.
+ 
+ And and and and fascinating if possible to increase.
+ 
+ Richard Haier: But know there's virtually no research that's based on a neuroscience approach to solving that problem. All the solutions that have been proposed to solve that problem or to am that problem are essentially based on the blank slate assumption that enriching in the environment, removing barriers all good things by the way, I'm not against any of those things. But there's no empirical evidence that they're going to improve the general reasoning ability or make people more employ.
+ 
+ Lex Fridman: Have you read flowers of Ag? Yes. That's to the question of intelligence and happiness.
+ 
+ Richard Haier: There are many profound aspects of that story. It was a a film that was very good. Mh. The film was called Charlie for the younger people who are listening to this. You might be able to stream it on Netflix or something.
+ 
+ But it it was a story about a person with very low Iq who underwent a surgical procedure in the brain, and he slowly became a genius. And the tragedy of the story is the effect was temporary.
+ 
+ Lex Fridman: It's a fascinating story really. That goes in contrast. So the the basic human experience that each of us individually have, but it raises the question of the the the full the full range of people you might be able to be given different levels of intelligence. You've mentioned the normal distribution So let's talk about it. There's a book called the Bell curve written in nineteen ninety four written by psychologists Richard Tu and political scientist, Charles Murray.
+ 
+ Why was this book so controversial?
+ 
+ Richard Haier: This is a fascinating book. I know Charles Murray. I've had many conversations with with him. Yeah. What is the book about?
+ 
+ With the book is about the importance of intelligence in everyday life. That's what the book is about. Mh. It's an empirical book. It has statistical analyses of very large databases that show that essentially Iq scores or their equivalent are correlated to all kinds of social problems.
+ 
+ And social benefits. And that in itself is not where the controversy about that book came. The controversy was about one chapter in that book. And that is a chapter about the average difference in mean scores between black Americans and white Americans. And these are the terms that were used in the book at the time.
+ 
+ And are still used to some extent. And historically, or really for for decades, it has been observed that disadvantaged groups score on average lower than caucasian. And an academic test test of mental ability and especially on iq tests. And the difference is about a standard deviation which is about fifteen points, which is a substantial difference. In the book her and murray in this one chapter, assert, clearly and una.
+ 
+ That whether this average difference is due to genetics or not, they are agnostic. They don't know moreover they assert they don't care because you wouldn't treat anybody differently knowing that if there was a genetic component or not because that's a group average finding. Every individual has to be treated as an individual, you can't make any assumption about what that person's intellectual ability might be from the fact of a average group difference. They're very clear about this.
+ 
+ Lex Fridman: Nonetheless,
+ 
+ Richard Haier: people took away. I'm gonna choose my words carefully because I have a feeling that many critics didn't actually read these read the book. They took away that Her and Murray were saying that blacks are genetically inferior. That was the take home message. And if they weren't saying it, they were implying it because they had a chapter that discussed this empirical observation of a difference and isn't this horrible?
+ 
+ And so the reaction to that book was in inc.
+ 
+ Lex Fridman: What do we know about from that book and the research beyond? About race differences and intelligence.
+ 
+ Richard Haier: It's still the most inc topic in psychology. Nothing has changed that. Anybody who even discusses it is easily called a racist just for discussing it. It's become fashionable to find racism in any discussion like this. It's unfortunate.
+ 
+ The short answer to your question is, there's been very little actual research on this topic. Since nineteen.
+ 
+ Lex Fridman: Since the book of
+ 
+ Richard Haier: since the Bell even before. This really became in inc. In nineteen sixty nine, with an article published by an educational psychologist named Arthur Jensen. Let's just take a minute and go back to that to see the bell curve in a little bit more historical perspective. Arthur Jensen was a educational psychologist at uc Berkeley.
+ 
+ I knew him as well. And in nineteen sixty nine or sixty eight, the Harvard educational review asked him to take to do a review article on the early childhood education programs that were designed to raise the Iq cues of minority students. This was before the federally funded head start program. Head start had not really gotten underway at the time Jensen under undertook his review of what were a number of demonstration programs. And these demonstration programs were for young children who around kindergarten age.
+ 
+ And they were especially designed to be cognitive stimulating to provide lunches do all the the the things that people thought would minimize this this average gap of intelligence tests. There was a a strong belief among virtually all psychologists that the cause of the gap was une equal opportunity due to racism, do to all you, all negative things in the society. And if you could compensate for this, the gap would go away. So early childhood education back then was called literally compensatory education. Jensen looked at these programs, He was an empirical guy.
+ 
+ He understood psycho biometrics. And he wrote a... It was over a hundred page article detailing these programs and the flaws in their research design. Some of the programs reported Iq gains of on average five points, but a few reported ten twenty and even thirty point games. One was called the Miracle in Milwaukee.
+ 
+ The that investigator went to jail ultimately for fabric creating data. But the point is that Jensen Wrote in article that said, look, the opening sentence of his article is classic. The opening sentence is... I may not quoted it exactly right, but it's we have tried compensatory education and it has failed. And he showed that these games were essentially nothing.
+ 
+ You couldn't really document empirical. Any gains at all from these really earnest efforts to increase Iq, But he went a step further, a fateful step further. He said not only have these efforts failed, but because they have had essentially no impact, we have to re examine our assumption that these differences are caused by environmental things that we can address with education. We need to consider a genetic influence, whether there's a genetic influence on this group difference.
+ 
+ Lex Fridman: So you said that this is one of the more controversial works. I think i've
+ 
+ Richard Haier: Paper in all of psychology. I would go on to say. Because in nineteen sixty nine, the genetic data was very skim on this question. Skim be controversial... It's always been controversial, but it was even skim and controversial.
+ 
+ It's kind of a long story that I go into a little bit in more detail in in the book to neuroscience of intelligence. But to say he was is an understatement. I mean, he couldn't talk it at the American psychological Association. Without bomb threats clearing the the lecture hall. Campus security watched him all the time they opened his mail he had to retreat to a different address.
+ 
+ This was one of the earliest kinds, this is before the Internet and kind of Internet social media mobs. But it was that intense. And I have written that overnight after the publication of this article. All intelligence research became radioactive. Nobody wanted to talk about it.
+ 
+ And then it it it didn't... It nobody was doing more research. And then the Bell curve came along. And the jensen controversy was dying down. I have stories that Jensen told me about his interaction with the nixon of White House on this issue.
+ 
+ I mean, it was This was like a really big deal. With some unbelievable stories, but, you know, he told me this, so I kind of believe these stories. Nonetheless, twenty five years later. Twenty five years later all
+ 
+ Lex Fridman: the silence basically saying, you know, this Nobody wants to do this kind of research. There's so much pressure so much attack, I guess, it's kinda research and here's sort of a bold stupid crazy people that decided to dive right back in. Yeah. I wonder how much discussion that was do we include this chapter or not?
+ 
+ Richard Haier: Murray has said they discussed it and they felt they should include it and they were very careful in the way they they wrote it, which did them no good. Yeah. So As a matter of fact when the bell curve came out, it was so controversial. I got a call from a television show called Night. Who was with a broadcaster called Ted Couple.
+ 
+ Had this evening show I think was on late at night talked about news. It was a straight up news thing. Yeah. And producer called and asked if I would be on it. To talk about the the bell curve.
+ 
+ And I said, you know, it... She asked me what I thought about the bell curve. As a book. I said, look, it's a very good book. It talks about the role of intelligence in society.
+ 
+ And she said, no. No. What do you think about the chapter on race? That's what we wanted you to talk about. I remembered this conversation.
+ 
+ I said, well, she said, what would you say if you were on Tv? And I said, well, what I would say is that it's not at all clear, if there's any genetic component to intelligence any differences. But if there were a strong genetic component that would be a good
+ 
+ Lex Fridman: thing.
+ 
+ Richard Haier: And, you know, a complete silence on the other end of the phone. Yeah. And she said, well, what do you mean? And I said, well, if it's the more genetic any difference is, the more it's biological. And if it's biological, we can figure out how to fix it.
+ 
+ I see.
+ 
+ Lex Fridman: Interesting saying.
+ 
+ Richard Haier: She said, would you say that on television? Yes. I said, no. And so that was the end of that.
+ 
+ Lex Fridman: So that's for more, like, biology is within the reach of science and the environment is a public policy, social and all those kinds of things. It's it from your perspective, whichever one you think is more amenable to solutions in the in the short term is the one that excites you. But you saying that it's good, The truth of genetic differences no matter what the between groups is a painful, harmful, potentially, potentially dangerous thing. This is let me ask you to this question well there's bell curve or any research on raised differences. Can that be used to increase the amount of racism in the world?
+ 
+ Can that be used to increase the amount of hate in the world? Do you think about this kind of stuff?
+ 
+ Richard Haier: I've thought about this a lot. Not as a scientist, but as a person. And my sense, there is such enormous reservoirs of hate and racism. That have nothing to do with scientific knowledge of the data. That speak against that that, no.
+ 
+ I I don't I don't wanna give racist groups of veto power over what scientists study. If you think that the differences and by the way, virtually no one disagrees it there are differences in in scores. It's all about what causes them and how to fix it. So if you think this is a cultural problem, then you must ask the problem. What do you want do you want to change anything about the culture?
+ 
+ Or are you okay with the culture because you don't feel it's appropriate to change a person's culture. So are you okay with that? And the fact that that may lead to disadvantages in school achievement It's a question. If you think it's environmental, what are the environmental parameters that can be fixed I'll tell you one, lead in you know, lead from gasoline in the atmosphere. Lead in paint wet in in water.
+ 
+ That's an environmental toxin that society has the means to eliminate. And they sure.
+ 
+ Lex Fridman: Yeah. Just to sort of trying to find some insights and conclusion to this very difficult topic. Is there been research environment versus genetics, nature versus Nurture on this question of race differences.
+ 
+ Richard Haier: There is not no one wants to do this research. It's first of all, it's hard research to do second of all. It's a minefield. No one wants to spend their career on it. Tenured people don't wanna do it let alone students.
+ 
+ The way I talk about it, I... Well, before I tell you the way, I I talk about I wanna say one more thing about Jensen. He was once asked by a journalist straight out. Are you a racist? His answer was very interesting.
+ 
+ His answer was, I thought about that a lot. And I've concluded it doesn't matter. This... Now I I know what he meant this.
+ 
+ Lex Fridman: The guts to say that wow.
+ 
+ Richard Haier: He was a very unusual person. I think he had a touch of asp syndrome to tell you the truth Because I I saw him in many circumstances.
+ 
+ Lex Fridman: It be canceled on Twitter immediately with essence.
+ 
+ Richard Haier: Yeah. But what what he meant was he had a hypothesis.
+ 
+ Lex Fridman: Yeah.
+ 
+ Richard Haier: And with respect to group differences, he called it the default hypothesis He said whatever factors affect individual intelligence are likely the same factors that affect root differences. It was the default. But it was a hypothesis. It should be tested. And if it turned out empirical test didn't support the hypothesis.
+ 
+ He was happy to move on something else. He was absolutely committed to that scientific ideal. That that it's an empirical question we should look at it and let's see what happens.
+ 
+ Lex Fridman: The scientific method cannot be racist from his perspective. It doesn't matter what the scientists if they if they follow the scientific method. It doesn't matter what they believe.
+ 
+ Richard Haier: And if they are biased and they consciously or unconsciously biased the data other people will come along to replicate it, they will fail and the process over time will work.
+ 
+ Lex Fridman: So let me push back on this idea. Because psychology to me is full of gray areas. And what I've observed about psychology, even replication crisis aside. Is that something about the media something about journalism, something about the the viral of ideas in the public sphere. They mis misinterpreted.
+ 
+ They take up things from studies will fully or from ignorance misinterpreted findings and tell narratives it around that. I personally believe for me. I'm not seeing that broadly well size. But for me, it's my responsibility to anticipate the ways in which findings will be misinterpreted. So I've had...
+ 
+ I thought about this a lot because I published papers on send me you autonomous those vehicles and those, you know, cars, people dying cars. There's people that written me letter saying emails, nobody raise the letter. I wish they did that have blood in my hands. Because of things I would say positive or negative there's consequences in the same way when you're research of intelligence I'm sure you might get emails or at least people might believe that finding your study is going to be used by a large number of people to increase the amount of hate in the world. I think there's some responsibility on scientists But for me, I think there's a great responsibility to anticipate the ways things will be misinterpreted.
+ 
+ And there, you have to first of all decide whether you want to say a thing at all, do the study at all published the study at all. And to the words with wish you explain it. It's... I find this on Twitter a lot actually, which is when I when I write a tweet, I'm usually just doing so innocently. I I'll...
+ 
+ I'll I'll I'll write it, you know, it takes me like, five seconds to write it or whatever thirty seconds to write it. And then I'll think... Alright. And like, close my eyes open and try to see how will the world interpret this. Like, what are the ways in which this will be misinterpreted?
+ 
+ And I'll sometimes adjust that tweet to see, like... Yeah. So in my mind, it's clear, but that's it... Because it's my mind from which the tweet came. You have to think in a fresh mine and sees this and it spread across a large number of other mines how will the interpretation morph?
+ 
+ I mean for tweet, the silly thing, it doesn't matter, but for a scientific paper and study and finding. I think it matters. So I don't know. Well, I don't know what your thoughts about on that. Because maybe for Justin.
+ 
+ The data is there. What do you want me do? This is a scientific process that's been carried out. If you think the data was polluted by bias, do other studies that reveal the bias, but the data is there. And we...
+ 
+ Like, I have... What... I'm not a poet. I'm not a literary right, Like, what do you want me do. I'm just presenting you the data.
+ 
+ What do you think on that spectrum? What's the role of the scientist?
+ 
+ Richard Haier: The reason I do podcast Yeah. The reason I write books for the public is to explain what I think the data mean and what I think the data don't mean I don't do very much on Twitter other than to re tweet references to papers. I don't think it's my role to explain these because they're they're complicated. They're nuanced. But when you decide not to do a scientific study because you're or not to publish a result because you afraid the result.
+ 
+ Could be could be harmful or insensitive. It's not an unreasonable thought. And people will make different conclusions and decisions about that. I wrote about this. I wrote I I'm the editor of a journal called intelligence, which published which publishes scientific papers.
+ 
+ Sometimes we publish papers on group differences. Those papers sometimes are controversial. These papers are written for a scientific audience. They're not written for the Twitter audience. So I don't promote them very much on on on Twitter.
+ 
+ But in a scientific paper, you have now choose your words carefully also because those papers are picked up by non scientists by writers of various kinds, and you have to be available to discuss what you're saying and what you're not saying. Sometimes you are successful at having a a good conversation like we are today that's that doesn't start out pro. Other times I been asked to participate in debates where my role would be to justify race science. Well, you can see, just start out you know and that was
+ 
+ Lex Fridman: a Bbc request that I had. That I received. I have so much... It's a love hate relationship mostly hate with the shallow journal journalism organizations. So they would want to use you as a kind of in a debate setting to communicate as to, like, there is raise differences between groups and make that into debate.
+ 
+ Yes. And put you in a role of
+ 
+ Richard Haier: justifying racism. You justify find they're asking
+ 
+ Lex Fridman: me endorse like educating about this this deal of the size of intelligence. Yeah.
+ 
+ Richard Haier: I wanna say one more thing before we get off the the the normal distribution. And you also asked me what is the science after the bell curve? And the short answer is there's not much new work But whatever work there is supports the idea that there still our group differences, it's argument whether those differences have diminished at all or not. And there is still a major problem in under for school achievement. For many disadvantaged and minority students and there's so far is no way to fix it.
+ 
+ Lex Fridman: What do we do with this information? What is this is this now a task? Now we'll talk about the future on the neuroscience and the biology side, but in terms of disinformation as a society in the public policy in the political space in the social space. What do we do with this information?
+ 
+ Richard Haier: I thought a lot about this, the first step is to have people interested in policy understand what the data actually show to pay attention to intelligence data you can read policy papers about education and using your word processor, you can search for the word intelligence. You can search a a twenty thousand word document in a second and find out the word intelligence does not appear anywhere. And most discussions about what to do about achievement gaps. Not talking about test gaps. I'm talking about actual achievement gaps in schools which everyone agrees is a problem.
+ 
+ The word intelligence doesn't appear among educators. That's fascinating. As a matter of fact in California, there has been tremendous controversy about recent attempts to revise the curriculum for math. In high schools. And we had a stanford professor of education who is running this review assert, there's no such thing as talent of mathematical talent.
+ 
+ And she wanted to get rid of the advanced classes in math because, you know, not everyone could do that. Now, of course, this has been very controversial. They've retreated somewhat. But the idea that a university professor was in charge of this who believes not that there's no talent that doesn't exist. This is rather shocking, let alone the complete absence of intelligence data.
+ 
+ By the way, let me tell you something about what the intelligence data show. Let's take race out of it. Even though the origins of these studies were were a long time ago, and I'm blocking on the name of the report... The Coleman report was a famous report about education. And they measured all kinds of variables about schools about teachers and they looked at academic achievement as an outcome.
+ 
+ And they found the most predictive variables of education outcome where the variables the student brought with him or her into the school, essentially their ability. And that when you combine the school and the teacher variables together, the quality of the school, the funding of the school, the quality of the teachers, their education. You put all the teacher and school variables together, it barely accounted for ten percent of the variance. And this has been replicated now. You know so the best research we have shows that school variables and teacher variables together account for about ten percent of student academic achievement.
+ 
+ Now, you wanna to have some policy on improving academic achievement, how much money you want to put into teacher education. How much money you want to put into the quality of of of the school administration. You know who you can ask, you can ask the Gates foundation. Because they spend a tremendous amount of money doing that. And they...
+ 
+ At the end of it because they're measurement people they wanted... Know they they wanna know the data. They find it had no impact at all, and they've kind of pulled out
+ 
+ Lex Fridman: of of that kind of program. So boy. But let me ask... Let me ask you, this is me talking, but there's Just the two of us. Or just the tour, but I'm gonna say some funny and ridiculous things.
+ 
+ So you surely are not approving that but there's a movie called Clerk. Me, you probably...
+ 
+ Richard Haier: I've seen it. I've seen that. Yeah.
+ 
+ Lex Fridman: There's a funny scene in there where a lovely couple are talking about the number of previous sexual partners had. And The the woman says that, I believe she just had a handful, like, two or three or something like that, sexual partners, but then she also mentioned that she... Was that called felicia. Was this scientific, but she wouldn't, you know, gave a blow job. To thirty seven guys, I believe it is.
+ 
+ And so that has to do with the truth. So sometimes knowing the truth, can get in the way of a successful relationship of love of some of the human flourishing. And that seems to me that at the core here that facing some kind of truth that's not able to be changed. It makes it difficult to sort of is limiting as opposed to empowering. That's the concern.
+ 
+ If you sort of test for intelligence and lay the data out. It feels like you will give up on certain people. You will you'll you'll set of start bin people like, well, this is this person is like, less focus on the average people, or let's focus on the very intelligent people. That's the concern. And and there's a kind of intuition that if we just don't measure, and we don't use that data.
+ 
+ That we treat everybody equal and give everybody equal opportunity. If we have the data in front of us, we're likely to mis distribute the amount of sort of attention. We are okay, resources we allocate allocate to people. That's That's probably the concern.
+ 
+ Richard Haier: It it's a realistic concern. And but I think it's a misplaced concern. If you wanna fix the problem. If you wanna fix the problem, you have to know what the problem. Yeah.
+ 
+ Yes. Now let me let me tell you this. Let's go back to the bell for not the bell curve, but the normal distribution.
+ 
+ Lex Fridman: Yes.
+ 
+ Richard Haier: Sixteen percent of the population on average. Has an iq under eighty five. Mh which means they're very hard. If you have an Iq under eighty five, It's very hard to find gain employment at a salary that sustain you at least minimally. In modern life.
+ 
+ Okay? Not impossible, but it's very difficult. Sixteen percent of the population of the United States is about fifty one or fifty two million people with iq under eighty five. This is not a small issue. Fourteen million children have iq under eighty
+ 
+ Lex Fridman: five.
+ 
+ Richard Haier: Is this something we want to ignore? Does this have any what is the venn diagram between... You know when you have people with iq under eighty five and you have achievement in school or achievement in life. There's a lot of overlap there. This is why to go back to the iq bill, if there were a way to shift that curve toward the higher end, that would have a big impact.
+ 
+ Lex Fridman: If I could maybe before we talk about the the impact on life and so on, some of the criticisms of the bulk curve, so Steel and j gold wrote that the bell curve rests on four incorrect assumptions. It'd be just interesting to get your thoughts on the four assumptions, which are Intelligence must be to a single number. Intelligence must be capable of rank ordering people in the linear order. Intelligence must be primarily genetically based and intelligence must be essentially immutable. Maybe not as criticisms, but as with thoughts about intelligence.
+ 
+ Richard Haier: All yeah. We could we could spend a lot of time on him.
+ 
+ Lex Fridman: City Gold is.
+ 
+ Richard Haier: Yeah. He wrote that in what about nineteen eighty five, nineteen eighty four. He... His views were overt political, not scientific. He was a scientist.
+ 
+ But his views on this were overt political, and I would encourage people listening to this if they really wanna to understand his criticisms. They should just google what he had to say. Mh. And Google the scientific reviews of his book, the mis measure of man, and they will take these statements apart. They were wrong not only were they were wrong.
+ 
+ But when he asserted in his first book that, you know, that there was no biological basis essentially to Iq, By the time the second edition came around, there were studies of Mri Mris of showing that brain size brain volume were correlated to iq scores, which he declined to put in his book.
+ 
+ Lex Fridman: So so I'm I'm learning a lot to dad. Didn't know I didn't know the... Actually the extent of his work. I was just using a few little snippets of criticism. That's interesting.
+ 
+ So there's a battle here here at the book mis measure of man. That's not that's missing a lot of these scientific
+ 
+ Richard Haier: work is highly popular in colleges today. You can find it in any college bookstore under assigned reading. It's highly man. Yes. Highly influential
+ 
+ Lex Fridman: Can you speak to the mis measurement manager? I'm I'm under care about this. So what... Is this the book basically criticizing Yeah. The ideas in the bulk.
+ 
+ Richard Haier: Yeah. Yeah. Where those four things came from? And it is really a book that was really taken apart point by point by a number of people who actually understood the data. And he didn't care.
+ 
+ Lex Fridman: Yeah.
+ 
+ Richard Haier: He didn't care
+ 
+ Lex Fridman: Didn't. It's a politically... Listen. Because this is such a sensitive topic, like I said, I believe the the impact of the work as it is misinterpreted has to be considered because it's not just going to be scientific this discourse is going to be political discourse that's going to be debates, there's going to be politically motivated people that we use messages in each direction make it the make something like the bulk curve of the enemy or the support for your for for ones racist beliefs. And so I think you have to consider that, but it's difficult because you know, nietzsche was used by Hitler to justify a lot of his beliefs and not...
+ 
+ It's not exactly need to to anticipate Hitler. So... And or how his ideas will be misinterpreted and used for evil. But there's a balance there. So I understand.
+ 
+ This is really interesting. I didn't... I didn't know. Is there any criticism of the book you find compelling or interesting or geology you from scientific but there were factual criticisms
+ 
+ Richard Haier: about the nature of the statistics that were used this statistical analysis these are more technical criticisms. And they were addressed by Murray in a couple of articles where he took all the criticisms and and spoke to them and people listening to this podcast can certainly find all those online. And it's very interesting, but Marie went on. To write some additional books, two in the last couple of years. One about human diversity where he goes through the data ref the idea that race is only a social construct with no biological meaning, he he he discusses the data.
+ 
+ It's a very good discussion. You don't have to agree with it, but he presents data in a cog way, and he talks about the critics of that and he talks about their data in a cog nod personal way. It's a it's a very informative discussion. Book is called human diversity. He talks about race and he talks about gender, same thing.
+ 
+ About sex differences. And more recently he's written what might be his final say on this a book called facing reality. Where he talks about this again. So you know, he's he he can certainly defend himself. He doesn't need me to to do that.
+ 
+ But I would urge people who have heard about him and the bell curve and who think they know what's in it you are likely incorrect and you need to read it for yourself.
+ 
+ Lex Fridman: But it is so scientifically, it's it's a serious subject it's a difficult subject. Ethically, it's a difficult subject. Every everything you said here calmly and thoughtfully, is difficult. This is difficult for me to even consider that g factor exists. I don't mean from, like, that somehow g factors inherently races through sexist or whatever.
+ 
+ It's just... It's it's difficult in the way that considering the fact that we die one day, the quote that we are limited by our biology. It's difficult. And it's At least from an American perspective, you you like to believe that everything is possible in this world.
+ 
+ Richard Haier: Well, that leads us to what I think we should do with this
+ 
+ Lex Fridman: information.
+ 
+ Richard Haier: And what I think we should do with this information is unusual. U, because I think what we need to do is find more neuroscience research. On the molecular biology of learning and memory. Because one definition of intelligence is based on how much you can learn and how much you can remember. Yes.
+ 
+ And if you accept that definition of intelligence then there are molecular studies going on now and nobel prizes being one, on molecular biology or molecular neuro biology of learning in memory. Now the step those researchers, those scientists need to take when it comes to intelligence is to focus on the concept of individual differences. Intelligence, research, has individual differences as it's heart because it it is... It assumes that people differ on this variable and those differences are meaningful and need understanding. Cognitive psychologists who have morph into molecular biologists studying learning in memory, hate the concept of individual differences historically.
+ 
+ Some now are coming around to it. I went sat next to a nobel prize winner. For his work on on on memory. And I asked him about individual differences, and he said, don't go there. It'll set us back fifty years.
+ 
+ But I I said, don't you think they're the key though? To understand why can some people remember more than others? He said, you you you don't wanna go there.
+ 
+ Lex Fridman: I think the twenty century will be remember by the technology and the science that goes to individual differences. Because we have we have now data. We have now the tools much much better to start to measure estimate to. Not just on the sort of through test and I I keep test type of things sort of outside the body kind of things, but measuring all kinds of stuff about the body. So, yeah, truly go into the molecular biology to the neuro biology to the neuroscience.
+ 
+ But let me ask you about in the life. How does intelligence correlate with or lead to or has anything to do with career success? You've mentioned these kinds of things and Is there any data you you had an extra conversation with Jordan Peterson, for example. Is any data on what intelligent means for success in life.
+ 
+ Richard Haier: Success in life, there is a tremendous amount of validity data that looked at intelligence test scores and various measures of life success. Now, of course, life success is a pretty broad topic. And not everybody agrees on you know what success means. But there's general agreement on certain aspects of success that can be measured. And
+ 
+ Lex Fridman: including life expectancy like you said
+ 
+ Richard Haier: Life expectancy. Now there's life success, life expectancy I mean, that is such an interesting finding, but it you know, Iq q scores are also correlated to things like income. Now, okay. So who thinks income means you're successful. That's not the point.
+ 
+ The point is that income is one empirical measure in this culture. That says something about your level of success. You can define success in ways that have nothing to do with income. You can define success based on your evolutionary natural selection success. You know, you but for variables, Yeah.
+ 
+ And even that by the way, correlated to Iq in some studies. So However you want to define
+ 
+ Lex Fridman: success.
+ 
+ Richard Haier: Iq is important. It's not the only determinant. People get hung up on. Well, what about personality? What about so called emotional intelligence?
+ 
+ Yes, All those things matter. The thing that matters empirical, the single thing that matters the most is your general ability, your general mental intellectual ability, your reasoning ability. And the more complex your vocation the more complex job the more g matters. G doesn't matter in a lot of occupations don't require complex thinking. And there are occupations like that and g doesn't matter.
+ 
+ Within an occupation, the g might not matter so much. So that if you look at all the professors at Mit, and had a way to rank order them You know... There's a ceiling effect is what I'm saying. That you know,
+ 
+ Lex Fridman: also when you get past a certain threshold then there's impact on wealth, for example, or Career success However, that's defined you need to discipline. But after certain point, it doesn't matter.
+ 
+ Richard Haier: Actually, it does matter in certain things. So for example, there is a very classic study that was started at Johns Hopkins. When I was a graduate student there, I actually worked on this study at the very beginning, the study of mathematically and scientifically pre youth and they gave junior high school students, age eleven and twelve. The standard Sat math exam. And they found a very large number of students scored very high on this exam.
+ 
+ Not a large number. I mean, they've they found many students when they cast the net to all Baltimore, they found a number of students who scored as high on the Sat math when they were twelve years old as incoming Hopkins freshman. And they said, Gene, now this is interesting, watch y'all We do now. And on a case by case basis, they got some of those kids into their local community college math programs Many of those kids went on to be very successful. And now there's a fifty year follow up of those kids.
+ 
+ And it turns out if you these kids were in the top one percent. Okay? So everybody in this studies in the top one percent. If you take that group that group and divide them into quartile. Mh.
+ 
+ So you have the top twenty five percent of the top one percent and the bottom twenty five percent of the top one percent, you can find on measurable variables of success, the top quartile does better than the bottom quartile in the top one percent. They have more patents. They have more publications. They have more tenure universities and this is based on they're you're you're dividing them based on their score at age twelve.
+ 
+ Lex Fridman: I wonder how much interesting data is in the variability in the differences. So but that... That's really that's a boy. That's very interesting, but it's also I don't know somehow painful. I don't know why it's so painful.
+ 
+ That that's so that g factor so determinant. Of even at in the Nuanced tops.
+ 
+ Richard Haier: Interesting that you find that painful. Do you find it painful that people with charisma our very success. Can be very successful in life even though having no other attributes other than their famous and people like them.
+ 
+ Lex Fridman: Love. Yeah painful. Yes. If that charisma is un untrained. So one of the things again, this is like, I learned psychology from the Johnny Depp trial.
+ 
+ But one of the things this psychologist is the personality, psychology you can maybe speak to this because you had interest in this for time. Is she was saying that personality technically speaking is the thing that doesn't change. Over a lifetime. It's the... It's the thing you're...
+ 
+ I don't know if she was actually implying that you're born with it. Well to trade It's a trade. A
+ 
+ Richard Haier: that's relatively stable over time. That I think that's generally correct.
+ 
+ Lex Fridman: So do the degree your personalities stable over time. Yes. That too is painful. Because what's not painful is the thing, you know, if I'm fat not a shape, I can exercise and, you know, become healthier in that way. If my die is a giant mess, and that's resulting in some kind of conditions that my body is experiencing.
+ 
+ I can fix that by having a better diet. That sort my actions, my will actions can make a change. If charisma is part of the personality that's the part of the charisma that is part of the personality that is stable. Yeah. Yeah.
+ 
+ That's painful too. Because it's like Oh, shit. I'm stuck with this. I'm stuck with this.
+ 
+ Richard Haier: Well, I mean, and this pretty much generalize to every aspect of your being. This is who you are. You gotta deal with it and what it undermine, of course, so is a realistic appreciation for this undermine the fairly recent idea prevalent in this country that if you work hard you can be anything you wanna be. Which has morph from the original idea that if you work hard you can be successful. Those are two different things.
+ 
+ Yeah. And now we have... If you work hard you can be anything you wanna be This is completely unrealistic. Sorry. It just is.
+ 
+ Now you can work hard and be successful. There's no question. But you know what? The I could work very hard and I am not going to be a successful theoretical physicist. I'm just not
+ 
+ Lex Fridman: that's said... I mean, we should set... Because we had this conversation already, but it's good to repeat the fact that you're not going to be their theoretical physicist, it's not judgment and your basic humanity. Returning again to the all men, which means men and women are created equal. So again, some of the differences we're talking about quote unquote success, wealth number of...
+ 
+ Whether you wanna nobel what price or not. That doesn't put a measure on your basic humanity and basic value and even goodness of you as a human being, because that the your basic role in value of society is largely within your control. It's it's some of these measures that we're talking about. It's good. It's good to remember this.
+ 
+ One question about the flynn effect. What is it? Our humans getting smarter over the years of the decades over the centuries
+ 
+ Richard Haier: the flynn effect is James Flynn passed away about about a year ago, published a a set of analyses going back a couple of decades when he first noticed this that Iq q scores when you looked over the years seem to be drifting up. Now this was not unknown to the people who make the test because they norm the test. Periodically, and they have to norm the test periodically because what ten items correct meant relative to other people fifty years ago is not the same as what ten items mean relative Today, people are getting more things correct. Now the scores have been drifting up about three points, Iq scores have been drifting up about three points per decade. This is not a personal effect.
+ 
+ This is a cohort effect. It's not for an individual. But the world. What what
+ 
+ Lex Fridman: how do you... So what's
+ 
+ Richard Haier: the plan? And this has presented intelligence researchers with a great mystery. Two questions. First, is it effect on the fifty percent of the variance that's the g factor or on the other fifty percent? And there's evidence that it is a g factor effect.
+ 
+ And second, what on earth causes this and doesn't this mean intelligence and g factor cannot be genetic because the scale of natural selection is much much longer than a couple of decades ago. And so it's been used to try to undermine the idea that there can be a genetic influence on intelligence. But certainly, it can be the flynn effect can affect the non genetic aspects of intelligence because genes account for maybe fifty percent of the variance. Maybe be higher It could be as high as eighty percent for adults, but that's just a fifty percent for discussion. So the the flynn effect is it's still a mystery
+ 
+ Lex Fridman: there's still in. Mystery,
+ 
+ Richard Haier: although the evidence is coming out. I told you before I added a journal on intelligence, and we're doing a special issue in honor of James Flynn. So I'm starting to see papers now in the really the latest research on this. I think most people who in this area trying to understand the Flynn effect are coming to the view based on data that it has to do with advances in nutrition and healthcare. And there's also evidence that the effect is slowing down and possibly reversing.
+ 
+ Oh, boy. So so how would nutrition how... So that nutrition would still be connected to the g
+ 
+ Lex Fridman: factor. So nutrition as it relates to the g factor. So the biology, that least the intelligence.
+ 
+ Richard Haier: Yes. That
+ 
+ Lex Fridman: will be the claim. Like, the the the hypothesis being tested by the.
+ 
+ Richard Haier: Yes. And there's some evidence from from infants that nutrition has has made us a difference. And so it's not an unreasonable connection. But does it negate the idea that there's a genetic influence not logically at all? So...
+ 
+ But it is very interesting so that if you take an iq test today, but you normal... But you take the score and use the tables that were available in nineteen forty, you're gonna wind up with a much higher Iq number. So are we really smarter than a couple of generations
+ 
+ Lex Fridman: ago?
+ 
+ Richard Haier: No. But we might be able to solve problems a little better and make use of our our g because of things like sesame street and other in school. More people are going to to to school. So there are a lot of factors here to dis tango.
+ 
+ Lex Fridman: It it it's fascinating thing know, it's fascinating saying that there's not clear answers yet that as a population we're getting smarter. When just zoom out. That's what it looks like. Because a population case martin is interesting to see what the effects of that are. I mean, this raises the question we've mentioned it many times, but haven't clearly addressed it, which is nature versus nurture questions.
+ 
+ So how much of intelligence is nature? How much of it is nurture sure how much of is determined by genetics versus environment?
+ 
+ Richard Haier: All of it.
+ 
+ Lex Fridman: All of these genetics.
+ 
+ Richard Haier: No. All of it. Is nature and nurture.
+ 
+ Lex Fridman: Yeah. Yes. Yes. To... Okay.
+ 
+ That's not
+ 
+ Richard Haier: much of variance can you portion to either? Yeah. Most of the people who work in this field say that that is a the framing of that if if the question is frame that way it can't can't be answered because nature and nurture are not too independent influences. They interact with each other and understanding those interactions is so complex that many behavioral geneticist say it it is today impossible and always will be impossible. To dis that.
+ 
+ No matter what kind of advanced there are in Dna technology and
+ 
+ Lex Fridman: genomic informatics. But there's still to back on that. That same intuition from behavioral geneticist, would lead me to believe that there cannot possibly be a stable g factor because it's super complex.
+ 
+ Richard Haier: Many of them would assert that. As a logical outcome.
+ 
+ Lex Fridman: Mh.
+ 
+ Richard Haier: But because I believe there is a stable g factor from lots of sources of data, not just one study, but lots of sources of data over decades. I am more amenable to the idea that whatever interactions between genes and environment exist, they can be they can be
+ 
+ Lex Fridman: studied
+ 
+ Richard Haier: and they... That information can be used. As a basis for molecular biology of intelligence. Yes.
+ 
+ Lex Fridman: So and we'll do this exact question? Because is it doesn't the stability of the g factor, give you at least a hint that there is a biological basis for intelligence.
+ 
+ Richard Haier: Yes. So I I think it's clear that the fact that an Iq score is correlated to things like thickness of your cortex. That it's correlated to glucose metabolic rate in your brain that that identical twins reared apart are highly similar in their Iq scores. These are all important observations that certainly more that that indicate not just suggest, but indicate that there's a biological basis And does anyone believe intelligence has nothing to do with the brain?
+ 
+ Lex Fridman: Okay I mean, it's so obvious. Well, indirectly definitely has to do with it, But the question is environment interacting with the brain, or is it the actual raw hardware of the brain.
+ 
+ Richard Haier: Well, some would say that the raw hardware of the brain as it develops from conception through adulthood mh or at least through the childhood that that that so called hardware that you are assuming is mostly genetic. In fact, is not as deter as you might think that it is probable and what affects the probabilities are things like ut environment and other factors like that including chance that chance affects the way the neurons are connecting during gestation. It's not, hey, it's pre programmed. So there is pushback on the concept that genes provide a blueprint. Mh.
+ 
+ That is a lot more fluid.
+ 
+ Lex Fridman: Well but also, yeah. So there's a lot a lot. A lot happens in the first few months of development. So for in in nine months inside the mother's body and in the and and, you know, the the months the few months afterwards, there's a lot of fascinating than stuff, like including chance and luck. Like you said how things connect up.
+ 
+ I the question is afterwards, the your this of the grain, how much adjustment there is relative to the environment, how much that affects the g factor, but that's where the the whole conclusions of the studies that we've been talking about is that seems to have less and less and less of an effect as pretty quickly.
+ 
+ Richard Haier: Yes. And I do think there is more of a genetic by my view, and I'm not an expert on on this. I mean genetics is a highly technical and complex subject. I am not a geneticist not a behavioral geneticist. But but my reading of this, my interpretation of this is that there is a genetic blueprint more or less and that has a profound influence on your subsequent intellectual development, including the g factor.
+ 
+ And that's not to say things can't happen to... I mean, if you think of that genes provide a potential fine, and that various variables impact that potential. And every parent of a newborn implicitly or explicitly wants to maximize that potential. This is why you buy educational toys. This is why you pay it attention to organic baby food.
+ 
+ This is why you do all these things because you want your baby to be as healthy and as smart as possible. And every parent will say that.
+ 
+ Lex Fridman: Is there a case to be made? Can you steal man the case that genetics has is a very tiny component of all of this and the environment is essential.
+ 
+ Richard Haier: I don't think the data ports that genetics is a tiny component. I think the data support the idea that the genetics is a very important. And I don't say component. I say influence. Very important influence and the environment is a lot less than people believe.
+ 
+ Most people believe environment plays a big role I'm not so
+ 
+ Lex Fridman: sure. I guess what I'm asking you is, can you see where what you just said it might be wrong? Can you can you imagine a world? And what kind of evidence would you need to see? To say, you know what?
+ 
+ The intuition, the study so far, like, reversing the directions... So one of the cool things we're have now more and more is getting more and more data and the the rate of the data is is is escalating because of the digital world. So when you start to look at a very large scale of data. Reports biology side and the social side, we might be discovering some very counterintuitive things about society. We might see edge cases that reveal that if we actually scale those edge cases and they become like the norm that will have a complete shift in our...
+ 
+ Like, you'll see g factor be able to be modified throughout life. In the teens in in in in in later life. So is in any case you can make or for what your current are wrong?
+ 
+ Richard Haier: Yes. And it's a good question because I think everyone should always be asked what evidence would change your mind. Yeah. It's certainly not only way a fair question, it is really the key question for anybody working on any aspect of of science. I think that if environment was very important, we would have seen it clearly by now.
+ 
+ It would have been obvious. That school interventions, compensatory education, early childhood education, all these things that have been earnest tried. In well funded well designed studies which show some effect and they don't. They don't.
+ 
+ Lex Fridman: What what if the school the way we've tried school compensatory school sucks. And when he
+ 
+ Richard Haier: everybody said it's the beginning... That's what everybody said to Jensen. He said, well, maybe these maybe we need to start earlier. Maybe we need not do pre kindergarten, but pre pre. Yeah.
+ 
+ It's always an infinite Well, maybe we didn't get it right. But after decades of trying, fifty years, fifty or sixty years of trying, surely something would have worked to the point where you could actually see a result and that need a a probability level at point o five on some means. So... That's why I... That's the kind of evidence that would change my mind.
+ 
+ Lex Fridman: Mh. Population level, interventions like schooling that you would you would see like this actually has effect.
+ 
+ Richard Haier: Yes. And when you take adopted kids and they grow up in a in a another family and you find out when those adopted kids are adults, their Iq scores don't correlate with the Iq scores of their adoptive parent Mh. But they do correlate with their Iq scores of their biological parents who whom they've never met. Mh. I mean these are important...
+ 
+ These are powerful observations.
+ 
+ Lex Fridman: And you would be convinced into you if the reverse was true.
+ 
+ Richard Haier: Yes. That would be more now... And there there is some data on adoption that indicates the the adopted children are moving a little bit more toward their adoptive parents. But it's you know it's... To me the overwhelming, the wait...
+ 
+ I have this concept called the weight of evidence
+ 
+ Lex Fridman: Mh
+ 
+ Richard Haier: where I don't interpret any one study too much, the weight of evidence tells me genes are important. But what does that mean? What what does it mean that genes are important knowing that gene expression, genes don't express themselves in a vacuum. They express themselves in in an environment. So the environment has to have something to do with it, especially if the best genetic estimates of the amount of variance that are around fifty or even even if it's as high as eighty percent, it still leaves twenty percent of a non genetic Now maybe that is all luck.
+ 
+ Maybe that's all chance. I could believe that. I could easily believe that. So but I do think after fifty years of trying various interventions and nothing work including memory training, including listening to mo, including plain computer games. None of that has shown any impact on Intelligence test scores.
+ 
+ Lex Fridman: Is there a data on the intelligence, the Iq of parents as it relates to the children.
+ 
+ Richard Haier: Yes. And there is some evident genetic evidence of kind of of an interaction. Between the parents Iq and the environment that high Iq parents provide an enriched environment. Which then can impact the child in addition to the genes it's that environment. So there there are all these interactions that you know but it's not...
+ 
+ You know, think about the number of books in the household. This was a variable that's correlated with iq. And and
+ 
+ Lex Fridman: it is.
+ 
+ Richard Haier: Yeah. Well, what well why? Especially if the kid never reads any of the books. It's because... More intelligent people have more books in their house.
+ 
+ And if you're more intelligent, and there's a genetic component to that, the child will get those genes for some of those genes as well as the environment, but It's not the number of books in the house that actually directly impacts the child. So the two scenarios on this are you find that and this was used to get rid of the Sat test. Of the Sat score is highly correlated with the social economic status of the parent. So all you're really measuring is how rich the parents are. Okay.
+ 
+ Well, why are the parents
+ 
+ Lex Fridman: rich?
+ 
+ Richard Haier: Yes. And so you could... The opposite kind of s is that people who are very bright, make more money. They can afford homes in better neighborhoods So their kids get better schools. Now the kids grow up bright.
+ 
+ We're in that chain of events does that come from? Well, unless you have a genetically informative research design where you look at siblings that have the same biological parents and and so on, you can't really dis all that. Most studies of social economic status and intelligence do not have a genetically informed design. So any conclusions they make about the causality of the social economic status being the cause of the Iq is a stretch. And where you do find genetically informative designs, you find most of the variance in your outcome measures are due to the genetic component and sometimes the Sc ses adds a little but the weight of evidence is, it doesn't add very much variance to predict what's going on beyond the genetic variance.
+ 
+ So when you actually look at it in some... And there aren't that many studies that have genetically informed designs. But when you you do see those, the genes seem to have an advantage.
+ 
+ Lex Fridman: Sorry for the strange questions, but there's is a connection between fertility or the number of kids that you have and g factor. So, you know, the kind of conventional wisdom is people of maybe a high economic status or something like that are having fewer children I just loosely hear these kinds of things. Is that is there data that you're aware of in one direction or another on this?
+ 
+ Richard Haier: Well, strange questions always get strange answers.
+ 
+ Lex Fridman: Yes. Right. This is you strange for that strange.
+ 
+ Richard Haier: The answer is there used... There there were some studies that indicated the more children in a family. The first born children would be more intelligent than the or sixth. It's not clear that those studies hold up over time. And of course, what you see also is that families where there are multiple children four five, six, seven, you know, really big families.
+ 
+ The social economic status of those families, usually in the modern age is not that high, Maybe it used to be the ari stock used to have a lot of kids. I'm not sure exactly. But there... There there have been reports of correlations between Iq and fertility, but I'm not sure that the data are very wrong that the firstborn born child is always the smartest. It seems like there there's some data to that, but I'm not current on that.
+ 
+ But
+ 
+ Lex Fridman: how that be explained? That would be in a nurture?
+ 
+ Richard Haier: Well, it it could be nurture it could be ut environment. I mean, boy
+ 
+ Lex Fridman: is complicated.
+ 
+ Richard Haier: It's and this is why this you know, like many areas of science. You said earlier that there are a lot of gray areas and no definitive of answers. This is not uncommon in science that the closer you look at a problem. For more questions you get, not the fewer questions. Because the universe is complicated.
+ 
+ And the idea that we have people on this planet who can study the first nano seconds of the big bang. That's pretty amazing. And I've always said that if they can study the first nano seconds of the big bang, we can certainly figure out something about intelligence. That allows that.
+ 
+ Lex Fridman: I'm not sure what's more complicated. The human mind or the physics of the universe. It's unclear to me. I think we over a
+ 
+ Richard Haier: very humbling statement
+ 
+ Lex Fridman: And maybe it's very human centric test statement that our mind is somehow super complicated, but biology is a tricky one too. Unravel consciousness. What is that? That's
+ 
+ Richard Haier: I I I've always believed that consciousness and intelligence are the two real fundamental problems of the human brain. And I... And I... And therefore, I think they must be related.
+ 
+ Lex Fridman: Yeah. And part problems like walk together, holding hands, kinda kinda kind of idea. You may not know this, but i I did some the early research on an drugs with
+ 
+ Richard Haier: brain image trying to answer the question, what part of the brain is the last to turn off when someone loses consciousness. And is that the first part of the brain to turn on? When consciousness has regained. And I was working with an anesthesiologist named mike A, who's really brilliant at this. These were really the first studies of brain imaging using pos mission tom long before Fm mri.
+ 
+ And you would inject a radioactive sugar that labeled the brain and the heart the brain was working the more sugar it would take up. And then you could make a picture of glucose use in the brain. And we he he was amazing. He managed to do this in normal volunteers brought in and as if they were going into surgery. And he managed all the human subjects requirements on this research and it was it was brilliant at this.
+ 
+ And and what we did is we had these normal volunteers come in on three occasions. On one occasion, he gave them enough an aesthetic drug, so they were a little dr. And on another occasion they came in and he fully ties them. And, you know, he would say, you know, Mike, can can you hear me and the person would say, oh yeah. You know nothing.
+ 
+ And then we would scan people under and under no an aesthetic condition. So same person and we were looking to see if we could see the part of the brain turn off. You subsequently tried to do this with amp r mri which has a faster time resolution and you could do it in real time as the person went under and then we regain consciousness where you couldn't do that with pet yet agent. And the results were absolutely fascinating. We did this with different an drugs and different drugs impacted different parts of the brain.
+ 
+ So we were naturally looking for the common one. And it seemed to have something to do with the t and consciousness, this was actual data unconscious. Real kind actual consciousness. What
+ 
+ Lex Fridman: part of the brain turns on? What part of the brain turns off?
+ 
+ Richard Haier: It's not so clear.
+ 
+ Lex Fridman: But maybe has something do with the.
+ 
+ Richard Haier: The the the sequence of events seem to have the fo in it. Boy. Now here's the question. Are some people more conscious than others Are there individual differences in consciousness? And I don't mean it in the psychedelic sense.
+ 
+ I don't mean it in the political consciousness sense I just mean in an everyday life to some people go through everyday life more conscious than others. And are those the people we might actually label more intelligent. So... Now, the other thing I was looking for is whether the parts of the brain we were seen in the anesthesia studies were the same parts of the brain we were seeing in the intelligence studies. Now this is...
+ 
+ You know, this was very complicated expensive research, we didn't really have funding to do this. We were trying to do it on the fly. I'm not sure anybody has pursued this. You know, I I I'm retired now. He's going on to other things.
+ 
+ But it's I think it's an area of research that that would be fascinating to see parts and there are a lot more imaging studies now of consciousness. I'm just not up on them.
+ 
+ Lex Fridman: So but basically, the question is which imaging and newer imaging studies to see in high resolution spatial and temporal way, which part of the brain lights up. When you're doing intelligence tasks and which parts of the brain lights up when you're doing consciousness task and see the interplay between them. Try to infer the challenge of neuroscience without understanding deeply. Looking from the outside, try to infer something about how the whole thing works.
+ 
+ Richard Haier: Well, imagine this, here's a simple question. Does it take more an aesthetic drug to put to have a person lose consciousness consciousness if their iq is a hundred and forty then a person with an iq of seventy.
+ 
+ Lex Fridman: That's an way to study it. Yeah. Yeah. I mean, if there is... If there's...
+ 
+ A yet... If the answer to that, this is just stable yes. That's very interesting. So
+ 
+ Richard Haier: I tried to find out. Mh. And I went to some these anesthesiologist lgbt textbooks about how you you dose. Mh. And they dose by weight.
+ 
+ And what I also learned this is little bit off subject. An anesthesiologist are never sure if you how deep you are.
+ 
+ Lex Fridman: Yeah.
+ 
+ Richard Haier: And they usually tell by poking you with a needle and if you don't jump they tell the surgeon to go ahead. I'm not sure that's literally true, but it's...
+ 
+ Lex Fridman: Well it might be very difficult to know precisely how deep you are. It has to do with the same kind of measurements that you doing with the consciousness with the... It's it's it's difficult is difficult to know. So
+ 
+ Richard Haier: I don't lose my train of thought. I couldn't find in the textbooks anything about dosing by intelligence. I asked my friend, the anesthesiologist. He said, no, he did doesn't know. I said, can we do a chart review?
+ 
+ And look at people using their the years of education as a proxy for Iq because if someone's going to graduate school, that tells you something, you can make some inferences opposed to someone who didn't graduate high school. You know, can't can we do a chart review and he says, no. They they never really put down the the exact dose and no. He said no. So to this day, the the the the the simple question, does it take more an aesthetic drug to put someone under if they have a high Iq or less?
+ 
+ Or less. It could go either way. Because by the way, our really pet scan studies on intelligence found the unexpected result of an inverse correlation between glucose metabolic rate and intelligence. It wasn't how much a brain area lit up. How much it lit up was negatively correlated to how well they did on the test, which led to the brain efficiency hypothesis.
+ 
+ Which is still being studied today and there's more and more evidence that the efficiency of brain information processing is more related to intelligence than just more activity.
+ 
+ Lex Fridman: Yeah. And be interesting again. It's the total hypothesis is how much in their relationship with between intelligence and consciousness it's not obvious that those two... If there's correlation, there would be... They they could be inverse correlated.
+ 
+ Wouldn't that be funny, if you... The the consciousness factor, the c factor plus the g factor equals one. It's a nice trade off. You get you get you trade off how deeply you experience the world versus how deeply you're able to a reason through the world.
+ 
+ Richard Haier: What a great hypothesis if certainly somebody listening to this can do this study.
+ 
+ Lex Fridman: Even if it's the aliens analyzing humans a few centuries, from now. Let me ask you from an Ai perspective. I don't know how much you've thought about machines. But and, you know, there's the famous touring test, test of intelligence for machines, which is a beautiful almost like a cute formulation of intelligence that alan turing proposed basically conversation being if you can fool human to think that a machine is is is a human that passes the test. I suppose you could do a similar thing.
+ 
+ For humans. If I can fool you that I'm am intelligent, then that's a good test of intelligence. Right? Like, you're you're talking to two people And my your your your the test is saying who has a hierarchy iq? And It's an interesting test because, yeah, Maybe charisma can be very useful there.
+ 
+ And you're only allowed to use conversation, which is the formulation of the joint test. Anyway, all that to say is, what are good tests of intelligence for machines to, you know, what do you think it takes to achieve human level intelligence for machines.
+ 
+ Richard Haier: Well, I have thought a little bit about this, but you know, I every time I think about these things, I rapidly reached the limits of my knowledge and and imagination. So when Alexa first came out. Mh. And i I think There was a a competing one. Well, there was Siri with Apple.
+ 
+ Mh. And Google had Alexa.
+ 
+ Lex Fridman: And don't know. Amazon had alexa.
+ 
+ Richard Haier: Yeah. Amazon had a alexa. So a assist. Yeah. Something.
+ 
+ So I I propose to one of my colleagues that he by one of these. Each, you know, one of each and then ask it questions from the Iq test. Nice. But it became apparent that they all searched the Internet So they all can find answers to questions like how far is it between Washington and Miami. And repeat after me.
+ 
+ Now I don't know if you said to Alexa. I'm going to re repeat these numbers backwards to me. I don't know what would happen. I've never done it. But the...
+ 
+ So so one answer to your question is, try get you're gonna try it right now. Let's
+ 
+ Lex Fridman: try that's right. No
+ 
+ Richard Haier: yes,
+ 
+ Lex Fridman: sure. So i i it would actually probably go to Google search and it will be all confusing kind of stuff. It would it would fail.
+ 
+ Richard Haier: Well, then I guess there there a test that it that it would fail.
+ 
+ Lex Fridman: Well but that's not that has to do more with the, you know, the language of communication versus the content. So if you did like test, to a person who doesn't speak English and the tesla's was administered in English. That's not really the test of. Well, let's think about the computers that beat the jeopardy champions. Yes.
+ 
+ So that... So that... Because I happen to know how those are programmed is a very hard coded and there's definitely a lack of intelligence there. There's something like Iq tests. There's there's a guy artificial intelligence researcher, Fran Lay.
+ 
+ He's he's a Google. He's one of the seminal people machine learning also as a fun side thing. Develop a nike test for machines. Oh. Heard
+ 
+ Richard Haier: that I just like to know about
+ 
+ Lex Fridman: I I'll I'll I'll I'll actually email you this because you'd be very interesting for you. It doesn't get much attention because people tough know to do with it. But it it deserves a lot of attention, which is... It basically does a pattern type of tests. Where you have to do, you know, one standard one is...
+ 
+ You're given three things and you have to do a fourth one that that kind of thing. You have to understand the pattern here. And for that, it least simplifies to So the interesting thing is, he's trying not to achieve high iq. He's trying to achieve, like, pretty low bar for our q. Things that are kind of trivial for humans, and they're actually really tough for machines, which is seeing playing with these concepts of symmetry of counting Like if I give you one object two objects three objects, you'll know the the the the last one is four objects, you can, like, count them.
+ 
+ You can you can cluster objects together. It's both visually and conceptually we could do all these things with our mind that would take for granted. The the object. Of things. We can, like, figure out what spatial is an object and isn't.
+ 
+ And we can play with those ideas. And machines really struggle with that. So he really clearly formulated these Iq tests I wonder what like that would equate to for humans with Iq, but it'd be a very low Iq. But that's exactly the kind of formulation like, okay. We wanna be able to solve this.
+ 
+ How do we solve this? And he does this a challenge nobody's been able to... It's similar to the alexa surprise, which is Amazon is hosting a conversational challenge. Nobody's been able to do well on on his. But that's an interesting, those kinds of tests interesting because we we take for granted all the the ability of the human mind to play with concepts and to formulate concepts out of novel things.
+ 
+ So, like, things we've never seen before. We we were able to use that... I mean, that's... I've talked to a few people that design Iq tests sort of online, They write. Like you just.
+ 
+ And I was trying to get some questions from them. And they they spoke to the fact that we can't really share questions with you because part of the Like, first of all, it's really hard work to come up with questions. I it's it's really, really hard to work. It takes a lot it takes a lot of research, but it also takes a lot novelty generating. Your you're constantly coming up with really new things.
+ 
+ And part of the point is that you're not... They're not supposed to be public. That they're supposed to be new to you when you look at them. It's interesting that the novelty is fundamental to the hardness of the problem. At least a part of what makes the problem hard as you've never seen it before.
+ 
+ Richard Haier: Right. That's called fluid intelligence as opposed to what's called crystal intelligence, which is your knowledge of a facts. You know things. But can you use those things to solve a problem? Those are two different things.
+ 
+ Lex Fridman: Do you think we'll be able to because we spoke... I don't wanna miss opportunity to talk about this spoke about the neuro biology both the my molecular biology of intelligence. Do you think one day will be able to modify the biology of or the genetics of a person to modify their intelligence to increase their intelligence. We started this conversation we're talking about a pill you could take. Do you think that such a pill will exist
+ 
+ Richard Haier: metaphorically. I do. And I am supremely confident that it's possible because I am supremely ignorant ignorant of the complexities of neuro.
+ 
+ Lex Fridman: And so I have written ignorance as bliss.
+ 
+ Richard Haier: Well, I have written that the nightmares of neuro biologists, you know, understanding the complexities. This cascade of events that happens at the s level that these nightmares are what fuels some people to solve. So some people you have to be un. I mean, yeah, this is this is not easy. Yeah.
+ 
+ Look, we're still trying to figure out cancer.
+ 
+ Lex Fridman: And
+ 
+ Richard Haier: it was only recently that they've figured out why Aspirin works. You know, I... These are not easy problems, but I also so have the perspective of the history of science is the history of solving problems that are extraordinarily complex.
+ 
+ Lex Fridman: It seem
+ 
+ Richard Haier: impossible And
+ 
+ Lex Fridman: seem impossible at the time. And so one of the things you look at at companies like Neural link, you have bring computer interfaces you start to delve into the human mind and start to talk about machines measuring, but also sending signals to human mind. And they start to wonder what that has... What impact that has on the g factor? Modifying and small ways or in large ways, the functioning the mechanical electrical of chemical functioning of the brain.
+ 
+ Richard Haier: I look at everything about the brain. There are different levels of explanation. On one hand you have a behavioral level. But then you have brain circuitry and then you have neurons. And then you have den rights and then you have synapses.
+ 
+ And and then you have the neurotransmitters and the pre presynaptic and the postsynaptic terminals. And then you have all the things that influence neurotransmitters. And then you have the individual differences among people. Yeah. It's complicated.
+ 
+ But fifty one million people in the United States have iq q under eighty five and struggle with everyday life. Shouldn't that motivate people to take a look at this? Yeah. You
+ 
+ Lex Fridman: Yeah. No. But I just want to linger one more time that love have to remember that the science of intelligence The measure of intelligence is only a part of the human condition. The thing that makes life beautiful and the creation of beautiful things in this world is is perhaps loosely correlated. But it's not dependent entirely on intelligence.
+ 
+ Richard Haier: Absolutely. I I I certainly agree with that.
+ 
+ Lex Fridman: That's And so for for anyone sort of listening, I'm still not convinced that sort of more intelligence is always better. If you wanna create beauty in this world. I don't know.
+ 
+ Richard Haier: Well, I I didn't say more intelligence is always better if you want to create beauty. I just said all things being equal more is better than less. That's all I mean.
+ 
+ Lex Fridman: Yeah. But that's sort of that I just wanna sort of say because a lot... To me one of the things that makes life great is the opportunity to create beautiful things and And so I just wanna to empower people to to do that no matter what some Iq test says. At the population level, we do need to look at Iq test help to help people. And to also inspire, yeah, to do account some these extremely difficult scientific scientific questions.
+ 
+ Do you have advice for young people. In high school in college. Whether they're thinking about career or they're thinking about a life they could be proud of? Is there advice you can give? Whether they're in the...
+ 
+ They wanna pursue psychology or biology or engineering, or they're wanna be artists and musicians and poets. I I can't advise anybody on that level. What passion is
+ 
+ Richard Haier: you know but I I can't say if you're interested in psychology if you're interested in science and the science around the big questions of consciousness and intelligence and psychiatric illness. We haven't really talked about brain illnesses and what we might learn from you know, if you are trying to develop a drug to treat Alzheimer's disease, you are trying to develop a drug to impact learning and memory, which are core to intelligence. So it could well be that the so called Iq pill will come from a pharmaceutical company trying to develop a drug for Alzheimer's disease.
+ 
+ Lex Fridman: Because that's exactly what you're trying to do. Right? Yeah.
+ 
+ Richard Haier: Well just will that what will that drug do in a college student that doesn't have Alzheimer's disease? So I would encourage people who are interested in psychology who are interested in science to pursue a scientific career and address the big questions. And this and the the the most important thing I can tell you if you're gonna be in kind of a a research environment, you gotta follow the data where the data take you. You can't decide in advance where you want the data to go. And if the data take you to places that, you don't have the technical expertise to follow, like you know, I would like to to understand more about molecular biology, but I'm not going become a molecular biologist now.
+ 
+ But I know people who are, and my job
+ 
+ Lex Fridman: is to get them interested to take their expertise into this direction. And that... It's not so easy. But and if the data takes you to a place that's controversial that's counterintuitive in this world. No.
+ 
+ I would say it's probably a good idea to still push forward boldly but to communicate the interpretation of the results with skill with compassion. With a with with with a greater breadth of understanding of humanity, not just the science of the impact of the results.
+ 
+ Richard Haier: One famous psychologist wrote about this issue that's somehow a balance has to be found. Between pursuing the science and communicating it with respect to people's sensitivities, the legitimate sensitivities. Somehow. He didn't say
+ 
+ Lex Fridman: how. Somehow, somehow, and this is be part of that sentence, somehow and balance is left up to the interpretation of the reader. Let me ask you you said big questions, the biggest or one of the biggest... Where already talked about consciousness and intelligence one of the most fascinating one of the biggest questions. But let's talk about the why.
+ 
+ Why are we here? What's the meaning of life?
+ 
+ Richard Haier: Oh, I'm not gonna tell you.
+ 
+ Lex Fridman: Do you know if you i gonna tell me. This is very I'm gonna have to wait for your next book.
+ 
+ Richard Haier: The meaning of life, you know, we do the best we can to get through the day.
+ 
+ Lex Fridman: And and then there's just a finite number of the days. Are you are you afraid the of it?
+ 
+ Richard Haier: Think I about it more and more as I get older.
+ 
+ Lex Fridman: Yeah.
+ 
+ Richard Haier: I I do. And it's one of these human things. That it is finite. We all know it. Most of us deny it and don't wanna think about it.
+ 
+ Sometimes you think about it in terms of the state planning, and you try to do the rational thing? Right. Sometimes you it makes you work harder because you know your time is more and more limited and you wanna get things
+ 
+ Lex Fridman: done.
+ 
+ Richard Haier: I don't know where I am on that. It is just one of those things that's always in the back of my mind. I... And I don't think that's uncommon.
+ 
+ Lex Fridman: Was just like g factor intelligence. It's a hard truth that's there. And sometimes you kinda walk past it and you wanna look at it, but it's still there. Yeah.
+ 
+ Richard Haier: Yes. You you can escape it. And think about the G factor and intelligence is everybody knows this is true on a personal daily basis.
+ 
+ Lex Fridman: You
+ 
+ Richard Haier: if even if you think back to when you were in school, you know who the smart kids were. You know, when you are on the phone talking to a customer service representative, that in response to your detailed question is reading a script back to you and you get furious at this. And you and have you ever called this person a moron or wanted to call this person or moron? You're not listening to me Everybody has had the experience of dealing with people. Who they think are not at their level.
+ 
+ Mh. It's it's just common because that's the way human beings are. Depths the way life is.
+ 
+ Lex Fridman: But we also we also have a poor estimation of our own intelligence, with a poor we're not always a great this our judgment of human character of other people is not as good as a battery of tests. There's there's that's where bias comes in. That's where our history, our emotions, all of that comes in. So people on the Internet, you know, there's such a thing as the Internet. And people on the Internet will call each other dumb all the time and you know, I...
+ 
+ That's the worry here is that we give up on people. We put them in a bin just because of one interaction or some small number of interactions as if that's it. They're hopeless. That's just in their genetics. But I I think no matter what the science here says, once again, that does not mean we should not have compassion for a fellow man.
+ 
+ That's exactly what the science does say. It's not it's not
+ 
+ Richard Haier: opposite of what the science is. Everything I know about psychology everything I've learned about intelligence, everything points to the conclusion that you have to treat treat people as individuals, respectfully and with compassion because through no fault of their own, some people are not as capable as others. And you wanna turn a blind eye to it, You wanna come up with with theories about why that might be true, fine. I would like to fix some of it as best I can.
+ 
+ Lex Fridman: And everybody is deserving of love. Richard your this is a good way to end it, I think.
+ 
+ Richard Haier: I think getting warmed up here.
+ 
+ Lex Fridman: Was know. I know you can go for another many hours, but to respect you're extremely valuable time. This is an amazing conversation. Thank you for for the teaching company, the the lectures you've given with the newer size of intelligence. Just the work you're doing.
+ 
+ It's a it's a difficult topic it's a topic that's controversial and sensitive to people and to push forward boldly and then that nuanced way, just Thank you for everything you do. And thank you for asking the big questions of intelligence of consciousness.
+ 
+ Richard Haier: Well, thank you for asking me. I mean, there's nothing like good conversation on these topics.
+ 
+ Lex Fridman: Thanks for listening to this conversation it's Richard Hire. To support this podcast, please check on our sponsors in the description. And now let me leave you some words from Albert Einstein. It is not that I'm so smart. But I stay with the questions much longer.
+ 
+ Thank you for listening and hope to see you next time.

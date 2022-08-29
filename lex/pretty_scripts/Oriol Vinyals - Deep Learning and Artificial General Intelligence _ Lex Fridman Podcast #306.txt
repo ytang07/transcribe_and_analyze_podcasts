@@ -1,0 +1,734 @@
+
+ Lex Fridman: at which point is in neural network, a being versus a tool? The following is a conversation with, his second time in the podcast. Ariel is the research director and deep learning lead a deep mind and one of the most brilliant thinkers and researchers in the history of artificial intelligence. This deluxe Frequent podcast to support it. Please check out our sponsors in the description.
+ 
+ And now to your friends here's Ariel. You are one of the most brilliant researchers in the history of Ai, working across all kinds of modalities, probably the one common theme it's always sequences of data. So that we're talking about languages, images, even biology and games as we talked about last time. So you're good person to ask this, in your lifetime, will we be able to build an Ai system that's able to replace me as the interviewer in this conversation in terms of billy ask questions that are compelling to somebody listening. And then further question is are we close?
+ 
+ Will we be able to build a system that replaces you as the interview e in order to create a compelling conversation how far away or we you
+ 
+ Oriol Vinyals: think? It's a good question. I think partly, I would say do we want that? I I really like when we start now with very powerful models, interacting with them and thinking of them more closer to us. The question is if you remove the human side of the conversation, is that an interesting, you know, is that an interesting artifact?
+ 
+ And I would say probably not. I've seen for instance, last time we spoke like was we were talking about star. And creating, you know, agents that play games involves self play, but ultimately, what people care about was how does this agent behave when the opposite side is is a human. So without a doubt, we will probably be more empowered by Ai, maybe you can source some questions from an Ai system. I mean, that even today, I would say, it's quite plausible that with your creativity, you might actually find very interesting questions that you can filter with all these cherry picking sometimes in the field of language.
+ 
+ And likewise, if I had now the tools, on my side, I could say, look, you're asking this interesting question from this answer, I like the words chosen by this particular system that created a few words. Completely replacing it feels not exactly exciting to me. Although in my lifetime, I think way... I mean, given the trajectory, I think it's possible that perhaps there could be interesting maybe self play interviews as you you're suggesting that would look look or sounds kinda quite interesting and probably would educate or you could learn a topic through listening to one of these interviews at at a basic level, at least.
+ 
+ Lex Fridman: So you said it doesn't seem exciting to you, but what if exciting is part of the objective function, the thing is optimized over. So you can... There's probably a huge amount of data of humans if you look correctly of humans communicating online, and there's probably ways to measure the degree of, you know, as if they talk about engagement So you can probably optimize the question that's most created and engaging conversation in the past. So actually, if you strictly use the word exciting There is probably a way to create a optimally exciting conversations. That are involved Ai systems.
+ 
+ At least one side
+ 
+ Oriol Vinyals: is Ai. Yeah. That makes sense. I think maybe looping back a bit to to games and the game industry. When you design algorithms, you're thinking about winning as the objective, right or the reward function But in fact, when we discuss this with blizzard the creators of start this case.
+ 
+ I think what's exciting fun if you could measure that and optimize for that. That's probably why we play video games or why we interact or listen or look at cat videos or whatever on the internet. So it's true that modeling reward beyond the obvious reward functions we've used to in reinforcement learning is definitely very exciting. And again, there is some progress actually into a particular aspect of Ai, which is quite critical, which is for instance is a conversation that... Or is the information truthful?
+ 
+ Right? So you could start trying to evaluate these from except from the Internet, right? That has lots of information. And then if you can learn a function automated ideally, so you can also optimize it more easily. Then you could actually have conversations that optimize for non obvious things such as excitement, So, yeah, that's quite possible.
+ 
+ And then I would say, in that case, it would definitely be fun a exercise and quite unique to have at least one side that is fully driven by an excitement reward function. But obviously, there would be still quite a lot of humanity in the system both from who building the system of course and also ultimately leave, we think of labeling for excitement that those labels must come from us because it's just hard to have a computational measure of excitement as far as I understand, there's no such thing. Well.
+ 
+ Lex Fridman: You mentioned Truth also, I would actually venture to say that excitement is easier to label than truth. Or perhaps has lower consequences of of failure, but there is perhaps this the human that you mentioned, that's perhaps part of a thing that could be labeled. And that could mean an ai system that's doing dialogue. This known conversations should be flawed, for example. Think that's the thing you optimize for, which is have inherent contradiction by design, have flaws by design.
+ 
+ Maybe he also needs to have a strong sense of identity. So it has a backstory it told itself that it sticks to. It has memories. Not in terms of the how the system's designed, but it's able to tell stories about its past. It's able to have mortality and fear of mortality in the following way that it has an identity and, like, if it says something stupid and gets canceled on Twitter, that's the end of that system.
+ 
+ So it's not like you get to re brand yourself. That system is that's it. So maybe that the the high stakes nature of it. Because like, you can't say anything stupid now or or because you'd be canceled on Twitter. And that there's their stakes to that.
+ 
+ And then I think part of the reason that makes it interesting, and then you have a perspective like you've built up over time that you stick with then people can disagree with you. So holding that perspective strongly, holding sort of a maybe a controversial, at least a strong opinion. All of those elements, it feels like they can be learned because it feels like there's a lot of data on the Internet of people having an opinion. And then combine that with a metric of excitement, you can start to create something that as opposed to trying to optimize for sort of grammatical clarity and truthful the factual consistency over many sentences, you're optimized for the human. And there's obviously data for human on the Internet.
+ 
+ So I wonder I wonder if there's a future where that's part well I mean, i I I I sometimes wanted that about myself on me huge fan of podcast, and I listened to part to some. And I think I what is interesting about this. What is compelling? The same way you watch other games like you said watch play or have Magnus carl and play chess. So I'm not a chess player.
+ 
+ Somebody but still interesting to me. What is that? That's the the stakes of it, maybe the end of a domination of a series of wins I don't know. There's all those elements somehow connect to a compelling conversation, and I wonder how hard is that to replace. Because ultimately, all of that connects the initial proposition of how to test whether in Ai intelligent or not with the turing test, which I guess the my question comes from a place of the spirit of that test.
+ 
+ Oriol Vinyals: Yes. I actually recall I was just listening to our first podcast where we discussed turing test. So I would say from a neural network, you know, Ai builder perspective, there's know, usually, you try to map many of these interesting topics you discussed to benchmarks and then also to actual architectures on the how these systems are currently built how they learn what data they learn from, what are they learning, Right? We're talking about weights of a mathematical function And then looking at the current state of the game, maybe what do we need leaps forward to get to the ultimate stage of all these experiences, lifetime experience, fears, like words that currently barely, we're we're seeing progress just because what's happening today is, you take all these human interactions, it's a large vast of variety of human interactions online and then you're dis stealing these sequences, right, Going back to my passion, like sequences of words, letters, images, sound. There's more modalities here to be to be at play and then you're trying to just learn a function that will be happy that maximizes the the likelihood of seeing all these through a neural network.
+ 
+ Now I think there's a few places where the way currently, we train these models would clearly like to be able to develop the kinds of capabilities you say. I'll tell you maybe a couple. One is the lifetime of an agent or a model. So you you learn from this data offline, Right? So you're just passively observing and maximizing these it's almost like a mounting like a landscape of mountains.
+ 
+ And then everywhere there's data that humans interacted in this way. You're trying to make that higher and then, you know, lower where there's no data. And then these models generally don't then experience themselves. These they just are observers. Right?
+ 
+ They're are passive observers of the data. And then we're putting them to then generate data when we interact with them, but that's very limiting. The experience they actually experience when they could maybe be optimizing or further optimizing the weight. We're not even doing that. So to be clear, and again, mapping to Alphago Alpha star we train the model.
+ 
+ And when we deploy it to play against humans or in this case, interact with humans like language models they don't even keep training. Right? They're not learning in the sense of the weights that you've learned from the data. They don't keep changing. Now there's something a bit more feels magical, but it's understandable if you're into neural net, which is...
+ 
+ Well, they might not learning the strict sense of the words, the way changing, maybe that's mapping to how neurons interconnect and how we learn over our lifetime, but it's through that. The context of the conversation that they they that takes takes place with when you talk to these systems, it's helping in their working memory. Right? It's almost like you start the computer, it has a hard drive that has a lot of information. You have access to the internet, which has probably all the information but there's also working memory where the these agents as we call them or start calling them build upon.
+ 
+ Now this memory very limited. I mean right now, we're talking to be concrete about two thousand words that we hold and then beyond that we start forgetting what we've seen. So you can see that there's some short term already, right with when you said, I mean, it's a very interesting topic. Having sort of a mapping an agent to, like, have consistency, then, you know, if if if you say oh, what's your name? It could remember that, but then it might forget beyond two thousand words, which is not that long of context if we think even of these podcast books are much longer.
+ 
+ So technically speaking, there's a limitation there. Super exciting from people that work on deep learning to be working on But I would say we like maybe benchmarks and the technology to have this lifetime like experience of memory that keeps building up. However, the way it learns offline is clearly very powerful. Right? So I, you know, you asked me three years ago, I would say, oh, we're very far.
+ 
+ I think we've seen the power of this imitation again or the Internet scale that has enabled this to feel like at least the knowledge, the basic knowledge about the world. Now is incorporated into the weights but then this experience is lacking. And in fact, as I said, we don't even train them know, when we're talking to them other than their working memory of course is affected. So that's the dynamic part, but they don't learn in the same way that you and I have learned. Right?
+ 
+ When from basically when we're were born and probably before. So lots of fascinating interesting questions you asked there. I think the one I mentioned is this idea of memory and experience versus just kind of observe the world and learn its knowledge, which I think for that, I would argue lots of recent advancements that make me very excited about the field. And then the second maybe issue that I see is all these models, we train them from scratch. That's something I would have complained three years ago or six years ago or ten years ago, and it feels If we take inspiration from how we got here how the universe evolved us and we keep evolving, it feels that is missing piece that we should not be training models from scratch every few months that there should be some sort of way in which we can grow models much like as species and many other elements in the universe is building from the previous sort of iterations.
+ 
+ And that's from a just purely neural network perspective, even though we we we would like to make it work it's proven very hard to not, know, throw away the previous weights. Right? This landscape will learn from the data and, you know, refresh it with a brand new set of weights, given maybe a recent snapshot of these data we train on, etcetera. Or even a new game we're learning. So that's that feels like something is missing fundamentally.
+ 
+ We might find it, but it's not very clear how it will look like, there's many ideas and it's super exciting as well.
+ 
+ Lex Fridman: That's just for people who don't know. So when you approaching a new problem in machine learning, you're going to come up with an architecture that has a bunch of weights and then you initialize them somehow which in most cases there's some version of random. So that's when you mean by starting from scratch, and it seems like it's a it's a waste every time you solve the game of go in chess, star, protein folding, like, surely there's some way to reuse the weights. As we grow this giant database of of new of neural networks that has solved some of the toughest problems in the world. And so some of that is what is that methods?
+ 
+ How to reuse weights? How to learn extract was general or at least has a chance to be and throw away the other stuff. And maybe the neural network itself should be able to tell you that. Like, what... Yeah.
+ 
+ How do you... What what ideas do you have for better initial of ways.
+ 
+ Oriol Vinyals: Maybe it's stepping back. If we look at the field of machine learning, but especially deep learning. Right? The at the core of deep learning, there's this beautiful idea that is a single algorithm can solve any task. Right?
+ 
+ So it's been proven over and over with more increasing set of benchmarks and things that were thought impossible that are being cracked by this basic principle. That is you take a neural network of uni ways. So like a blank computational brain, then you give it in the case of supervised learning a lot, ideally of examples of, hey, here's is what the input looks like and the desired output should look like this. I mean, image classification is very clear example, images to maybe one of a thousand categories. That's what imagenet is like, but many many if not all problems can be mapped this way.
+ 
+ And then there's a generic recipe, right, that you can use. And this recipe with very little change. And I think that's the core of deep learning research, right? That what is the recipe that is universal that for any new given task, I'll be able to use without thinking without having to work very hard on the problem at stake. We have not found this recipe, but I think the field is excited to find less tweaks or tricks that people find when they work on important problems specific to those and more of a general algorithm.
+ 
+ Right? So at an algorithm level, I would say we have something general, which is this formula of training a very powerful model on neural network on a lot of data. And in many cases you need some specificity to the actual problem you're solving protein folding being such an important problem has some basic recipe that is learned from beyond before, right? Like transformer models graph neural networks, ideas coming from Nlp, like, you know, something called Bird, that is a kind of loss that you can in place to help the model knowledge installation is another technique. Right?
+ 
+ So this is the formula. We still had to find some particular things that where specific to alpha, right? That's very important because protein folding is such a high value problem that as humans, we should solve it no matter if we need to be a bit specific and it's possible that some of these learnings will apply them to the next iteration of this recipe that deep learners are about. But it is true that so far, the recipe is what's common, but the weights you generally throw away, which feels very sad. Although maybe in the last especially in the last two, three years, and when we last spoke, I mentioned these area of metal learning, which is the idea of learning to learn.
+ 
+ That idea and some progress has been had starting, I would say mostly from T three on the language domain only in which you could conceive a model that is trained once. And then this model is not narrow in that. It only knows how to translate a pair of languages or it only knows how to assign sentiment to a sentence. These these actually you could teach it by a prompting is called. And this prompting is essentially just showing it a few more examples, almost like you do show examples, input out examples.
+ 
+ Algorithm originally speaking to the process of creating this model. But now you're doing it through language, which is very natural way for us to learn from one another I tell you hey, you should do this new task. I'll tell you a bit more. Maybe you ask me some questions and now you know the task. Right, you didn't need to retrain it from scratch.
+ 
+ And we've seen these magical moments almost in this way to do few prompting through language on language only domain. And then in the last two years, we've seen these expanded to Beyond language, adding vision, adding actions and games lots of progress to be had. But this is maybe if you ask me, like, about how are we gonna crack this problem. This is perhaps one way. In which you have a single model.
+ 
+ The problem of this mother is it it's hard to grow in weights or capacity, but the model is certainly so powerful that you can teach it some tasks. Right? In this way that I teach to I could teach you a new task. Now if we were or let's a text a text based task or a classification vision style task. But it still feels like more breakthroughs should be hot, but it's a great beginning.
+ 
+ Right? We have a good baseline. We have an idea that this maybe is the way we want to benchmark progress towards Ag And I think in my view that's critical to always have a way to benchmark the community sort of converging to these overall, which is good to see. And then this is actually what excites me in terms of also next steps for deep learning is how to make these models more powerful how do you train them how to grow them if they must grow should they change their weights as you teach task or not. There's some interesting questions, many to be answered.
+ 
+ Lex Fridman: Yeah. You've opened a door about two a bunch of questions I wanna ask, but let's first return to the to your tweet and read like a Shakespeare. Euro wrote. God is not the end. It's the beginning.
+ 
+ And then you wrote me out and then an emoji of a cat. So first, two questions. First, can you explain on the Cat and second, can you explain what ga is and how it
+ 
+ Oriol Vinyals: works? Right. Indeed, I mean, thanks thanks for reminding me that we all exposing on three third and
+ 
+ Lex Fridman: permanently there. Yes. Very one of the greatest Ai researches of all time, meow and Cat emoji. Yes. There you go.
+ 
+ Oriol Vinyals: Right. So Can you imagine like, touring tweeting meow probably he would probably would. Probably. So yeah. The tweet is important, actually.
+ 
+ you know, I put thought on the tweets. I hope people
+ 
+ Lex Fridman: which part you think. Okay. The... So there there's three sentences. Ga is not the end.
+ 
+ Ga the beginning. Meow Cat. Okay. Which which is the important part.
+ 
+ Oriol Vinyals: The me out no. Definitely that it is the beginning. I mean, I I probably was just explaining a bit where the field is going, but Let me tell you about Ga. So first, the name ga comes from maybe a sequence of releases that the mind had that named, like, used animal names to name some of their models that are based on this idea of large sequence models, initially they're only language, but we're expanding to other modalities. So we had the you know, we had to go for Chin Chile, these were language only.
+ 
+ And then more recently we release Flaming, which adds vision to the equation, and then ga which adds vision and then also actions in the mix. Right? As we discussed actually actions, especially these discrete actions like app down left right. I just told you the actions, but they're words. So you can kind of see how actions naturally really mapped to sequence modeling of words, which these models are very powerful.
+ 
+ So ga was named after I believe I can only from memory, right, This... you know, these things always happen with an amazing team of researchers behind. So before the release. Yeah. We had a discussion about which animal would we pick.
+ 
+ Right? And I think because of the word general agent. Right? And and this is property quite unique to Ga. We we kind of we're playing with the Ga words and then you know, ga to right of cat.
+ 
+ Yes. And ga is obviously Spanish version of God. I had nothing to do with it. Although do I'm from space.
+ 
+ Lex Fridman: Har way. Sorry. How do you say cat in Spanish,
+ 
+ Oriol Vinyals: Got
+ 
+ Lex Fridman: a gut. Yeah.
+ 
+ Oriol Vinyals: Now. Okay. I see. I see it. I see you now it all makes sense.
+ 
+ Okay. So you
+ 
+ Lex Fridman: say meow in Spanish? No. That's... I
+ 
+ Oriol Vinyals: think you you saved the same way. But you write it it's m i a u. It's universal. Yeah. Alright.
+ 
+ So then how does
+ 
+ Lex Fridman: the thing work? So you said general is... So you said language, vision, and action. How does this... Can you explain what kind of neural networks are involved what is the training look like?
+ 
+ And maybe what you are some beautiful ideas within the system?
+ 
+ Oriol Vinyals: Yeah. So maybe the basics of ga are not that dissimilar from many many work that come. So here is where the the sort of the recipe i mean, it hasn't changed too much. There is a transformer model. That's the the kind of recurrent neural network that essentially takes a sequence
+ 
+ Lex Fridman: of
+ 
+ Oriol Vinyals: modalities, observations that could be words could be vision or could be actions, and then its own objective that you training to do when you train it is to predict what the next anything is and anything means what's the next action? If this sequence that I'm showing you to train is a sequence of actions and observations then you're predicting what's the next action and the next observation. Right? So you you think of of these really as a sequence of bytes. Right?
+ 
+ So take any sequence of words sequence of inter words and images, a sequence of maybe observations that are images and moves in up down left right and these you just treat... Think of them as bytes and you're modeling what's the next buy gonna be like. And you might interpret that as an. And as an action and then played it in a game or you could interpret it as a word and then write it down if you're chatting with the system and so on. So ga basically can be can be thought as inputs, images, text, video, actions, it also actually includes some sort of prop sensors from robotics because robotics is one of the task that it's been trained to do.
+ 
+ And then at the output, similarly, it outputs words actions. It does not output images. That's just by design. We decided not to go that way for now. That's also part why it's the beginning because there's more to do clearly.
+ 
+ But that's kind of what the guy to is is this brain that essentially you give it any sequence of these observations and and and modalities and it outputs the next step. And then you you go you feed the next the next step into and predict the next one and so on. Now it is more than a language model because even though you can chat with ga, like, you can chat with Tin or Flaming, it also is an agent. Right? So that's why we call it a of ga, like, the the word...
+ 
+ The letter a and also it's general it's not an agent that's been trained to be good at only stat or only atari or only go. It's been trained on a vast variety of data sets.
+ 
+ Lex Fridman: So what makes it an agent if I may interrupt the fact that it can generate actions?
+ 
+ Oriol Vinyals: Yes. So when we call it, I mean, it's it's a good question. Right? What why when do we call a model? I mean, everything is a model, but what is an agent in maybe view with indeed the capacity to take actions in an environment that you then send to it and then the environment might return with the new observation and then you generate the next action on.
+ 
+ Lex Fridman: This This actually this reminds me of the question from the side of biology. What is life which is actually a very difficult question as well. What is living what is living when you think about life here on this planet, Earth and a question interesting to me about aliens, what is life when move visit another planet? Would we be able to recognize it? And this feels like it sounds perhaps silly, but I don't think it is.
+ 
+ At which point in neural network, a being versus a tool. And it feels like action ability to modify its environment is that fundamental leap.
+ 
+ Oriol Vinyals: Yeah. I I think it's it certainly feels like action is a necessary condition to to be more alive, but probably not sufficient either. So sadly
+ 
+ Lex Fridman: consciousness thing whatever.
+ 
+ Oriol Vinyals: Yeah. Yeah. We can get back to that later. But anyways, going back to the and the the ga. Right?
+ 
+ So one of the leaps forward, and what took the team a lot of effort and time was as you were asking, how has got been trained. So I told you Ga is this transformer neural network, models actions, sequences of actions, words, etcetera. And then the way we train it is by essentially pulling datasets of observations. Right? So it's a massive imitation learning algorithm that it imitate obviously to what is the next word that comes next from the usual data we use before.
+ 
+ Right? So these these are these webs scale style data sets of people writing, you know, on on webs or chatting or whatnot. Right? So that's an obvious source that we use on all language work. But then we also took a lot of agents that we have a deep mind.
+ 
+ I mean, as you know, deep mind we're quite know, we're quite interested in learning reinforcement learning and learning agents that play in different environments so we kind of created a dataset set of these trajectories as we call them or agent experiences. So in a way there are other agents we train for a single mine purpose to, let's say, you know, control three the game environment and navigate maze. So we had all the experience that was created through the one agent interacting with that environment. And we added these to the data set. Right?
+ 
+ And as I said, we just see all the data, all these sequences of words or sequences of this agent interacting with that environment. Or, know, agents playing Atari so on. We see this as the same kind of data. And so we mix these data sets together and we train ga. That's the g part.
+ 
+ Right? It's general because it really has mixed... It it doesn't have different brains for each modality or each narrow task. It has a single brain. It's not that big of a brain compared to most of the neural networks we see these days.
+ 
+ It has one billion parameters some models we're seeing getting the trillions these days and certainly hundred billion feels like a size that is very common from from when you train this these this job. So the actual agent is relatively small. But it's been trained on on a very challenging diverse dataset, not only containing all of Internet, but containing all this agent experience playing very different distinct environments. So this brings us to the part of the tweet of. This is not the end it's the beginning.
+ 
+ It it feels very cool to see ga in principle is able to control any sort of environments that especially the ones that it's been trained to do these three d games, atari games and all sorts of robotics tasks and so on. But Obviously it's not as proficient as the teachers you'd learned from
+ 
+ Lex Fridman: on these are not obvious. It's not obvious that it wouldn't be more proficient. It's just the current Yeah. The beginning part. Right.
+ 
+ Is that the performance is such that it's not as good as if it's specialized to that task?
+ 
+ Oriol Vinyals: Right. So it's not as good although I would argue size matters here. So the fact that
+ 
+ Lex Fridman: how would argue always size matter? Yeah. That's a different.
+ 
+ Oriol Vinyals: But but for neural network networks, certainly size does matter. So it's the beginning because it's relatively small. So obviously scaling this Might make the connections that exist between, you know, text on the internet and playing atari and so on more synergistic with one another. Yeah. And you might gain and that moment, we didn't quite see, but obviously, that's why it's the beginning.
+ 
+ Lex Fridman: That synergy might emerge with scale. Right.
+ 
+ Oriol Vinyals: My with scale, and also, I believe there's some new research or ways in which you prepare the data that might... You might need to sort of make it more clear to the model that you're not only playing atari and it's just... You start from a screen and here is up and a screen and down. Maybe you can think of playing a atari as there's some sort of context that is needed for the agent before it starts seeing... Oh, this is an entire screen.
+ 
+ I'm gonna start playing you might require for instance to to be told in words. Hey. This is the in this in this sequence that I'm showing, you're gonna be playing an atari game. So text might actually be a good driver to enhance the data. Right?
+ 
+ So then these connections might be made more easily. Right? That's that's an idea that we start seeing in language, but you know, obviously, beyond this is gonna be effective. Right? This is not like I don't show you a screen and and you from from scratch you're learn a game.
+ 
+ There is a lot of context, we we set. So there there might be some work needed as well to set that context, but Anyways, there's
+ 
+ Lex Fridman: a lot of work Yeah. So that context puts all the different modalities on the same level ground. Exactly provide the best. So maybe on that point, So there's this task which may not seem trivial of token recognizing the data of converting the data into pieces into basic atomic elements that then could cross modalities somehow. So what's token how do you token organize text, how do you token images, how token games and actions and robotics, tasks.
+ 
+ Oriol Vinyals: Yeah. That's a great question. So token organization is the entry point to actually make all the data look like a sequence because tokens ins then are just kind of these little puzzle pieces. We break down anything into these puzzle pieces and then we just model what's the... What puzzle look like.
+ 
+ Right? When you make it, you know, lay down in the line, so to speak in a sequence. So in ga, the text... There's a lot of work. You token nice text usually by looking at common commonly use sub strings.
+ 
+ Right? So there's you know, I in English is a very common sub, so that becomes a token. There's quite well studied problem on token organizing tasks, text and ga just use the standard techniques that have been developed from many years, even starting from models in the nineteen fifties and so
+ 
+ Lex Fridman: on. Just for context, how many tokens like what order magnitude number of tokens is required for a word Yeah really. What are we talking about?
+ 
+ Oriol Vinyals: Yeah. For a word in in English, right? I mean, every language is very different. The current level or granularity of the token organization generally means it's maybe two to five. I mean, I I don't know the statistics exactly, but to give you an idea.
+ 
+ We don't recognize at the level of letters, then it would probably be... Like, I don't know what the average length of of a word is in English, but that would be, you know, the the mini set of tokens you could
+ 
+ Lex Fridman: use? It was bigger than letters smaller than words.
+ 
+ Oriol Vinyals: Yes. Yes. And you could think of very, very common words like v. I mean, that would be a single token. But very quickly, you're talking to three four for tokens.
+ 
+ Have you ever tried to token as emojis? Emojis are actually just sequences of letters. So maybe to you, but to me,
+ 
+ Lex Fridman: they mean so much more.
+ 
+ Oriol Vinyals: Yeah. You can render the emoji, but you you might... If you actually just
+ 
+ Lex Fridman: Yeah. This is a post philosophical question. As emojis an image or a text.
+ 
+ Oriol Vinyals: The way we do these thing these things is they're actually mapped to seek small sequences of characters. Yeah. So you can actually play with these models and input emojis, It will output emojis back, which is actually quite a exercise. You probably can find other tweets about these out there. But yeah.
+ 
+ So anyways, text... There's like, it's very clear how this is done. And then in ga, What we did for images is we map images to essentially, we compress images so to speak into something that looks more like less like, every pixel with every intensity that would mean we have a very long sequence. Right? Like, if we we're talking about hundred by hundred pixel images that would make the sequences far too long.
+ 
+ So what was done there is you just use a technique that essentially compresses an image. Into maybe sixteen by sixteen patches of pixels, and then that is map. Again, token ice, you just essentially quan this space into a special word that actually maps to these little sequence of pixels. And then you put the pixels together in some ras order, and then that's how you get out or or in the image that you're your your brother. But
+ 
+ Lex Fridman: there's no semantic aspect to that. So you're doing some kind of... You don't need to understand anything about the image in order to token organize it currently.
+ 
+ Oriol Vinyals: No. You you're only using this notion of compression. So you're trying to find common is like jp or all these algorithms. It's actually very similar. At the token organization level, all we're doing is finding common patterns and then making sure in a loss way, we compress these images given the statistics of the images that are contained all the data that we deal with.
+ 
+ Lex Fridman: Although you could probably argue that Jpeg does have some understanding of images. Like because visual information, maybe color compressing based crude based on color does capture some something important about an image. That's about its meaning, not just about some statistics.
+ 
+ Oriol Vinyals: Yeah. I mean, jp... As I said, it's very... The algorithms look actually very similar to... Yeah.
+ 
+ They use this the the the c transforming Jp g The the approach we usually do in machine learning when we deal with images, and we do this quan monetization step. He's a bit more data driven so rather than have some sort of full year basis for how, you know, frequencies appear in natural in the natural world. We actually just use the the statistics of the images and then quan them based on the statistics, much like you doing words. Right? So common subs strings allocated a token and images is very similar.
+ 
+ But there's no connection, the token space if you think of or like, the tokens are an integer and in the end of the day. So now, like, we work on... Maybe we have about let's say, I don't know the exact numbers, but let's say, ten thousand tokens for text, right? Certainly more than characters because we have groups of characters and so on. So from one to ten thousand, those are representing all the language and the words will see.
+ 
+ And then images occupy the next set of integers. So they're completely independent. Right? So from ten thousand one to twenty thousand, those are the tokens that represent these other modality images. And that is an interesting aspect that makes it ortho.
+ 
+ So what connects these concepts is the data. Right? Once you have a dataset set for instance that captions images that tells you... Oh, this is someone playing a frisbee on on a on a green. Now the model will need to predict the tokens from the text green to then the pixels, and that will start making the connections between the token.
+ 
+ So these connections happen as the algorithm learns. And then the last if we think of these integers, the first few words the next few our images in Ga, we also allocated the the highest order of integers to actions, right, Which we disc advertise and actions are very diverse. Right. In atari, there's... I don't know if seventeen discrete actions in robotics actions might be talks and forces that we apply.
+ 
+ So we just use kind of similar ideas to compress these actions into tokens. And then we just... That's how we map now all the space to these sequence of integers. But they occupy different space and what connects them is then the learning algorithm. That's where the magic happens.
+ 
+ Lex Fridman: So the modalities are ortho t to each other in token space. Right. So right in the input everything you add, you add extra tokens. Right. And then you're shoving all of them to one place?
+ 
+ Oriol Vinyals: Yes. The transformer.
+ 
+ Lex Fridman: And that transformer. That transformer tries... To look at this gigantic token space. And tries to form some kind of representation, some kind of unique wisdom. About all of these different modalities.
+ 
+ How is that possible? Are... Do... If you were to sort of, like, put your psycho analysis hat on and try to psycho analyze this neural network. Is it sc?
+ 
+ Does it try to given this very few weights represent multiple dis things and somehow have them not interfere with each other or is this a building on the and on the joint strength on what whatever is common to all the different modalities. Like, what if you were to ask a questions, is this sc or is it does is it of one mind?
+ 
+ Oriol Vinyals: I mean, it is it is one mind and it's actually the very the simplest algorithm which that's kind of in a way how it feels like the field hasn't changed since back propagation and gradient descent was purpose for learning neural networks. So there is obviously details on the architecture. This has evolved. The current iteration is still the transformer, which is a powerful sequence modeling architecture. But then the goal of this, you know, setting these weights to predict the data is essentially the same as basically I could describe.
+ 
+ I mean, we describe a few years ago, Alpha star, language modeling and so on. Right? We we take, let's say an atari game, We map be to a string of numbers that will all be probably image space and action space inter lived. And all we're gonna do is say, okay. Given the numbers, you know, ten thousand one, ten thousand four, ten thousand five, the next number that comes is twenty thousand six, which is in the action space.
+ 
+ And you're just optimizing these way be a very simple gradients, like, you know, mathematical is almost the most boring you could imagine, we settled the weights so that given this particular instance, these weights are set to maximize the probability of having seen this particular sequence of integers for this particular game. And then the algorithm does this for many, many, many iterations, looking at different modalities, different games. Right? That's the mixture of the dataset that we discussed. So in a way it's a very simple algorithm and the weights, Right, they're all shared.
+ 
+ Right? So in terms of is it focusing on one more Id or not? The intermediate weights that are converting from these input of integers to the target you're predicting next. Those weights certainly are common. And then the way that organization happens, there is there is a special place in the neural network, which is we map this integer, like number ten thousand one to a better of real numbers, like real numbers, we can optimize them with gradient descent.
+ 
+ Right? The the functions we learn are actually surprisingly. That's why we compute gradients. So this this step is the only one that this ortho mentioned applies. So mapping a certain token for text or image or actions.
+ 
+ These each of these tokens get its own little backdrop of real numbers that represents these. If you look at the field back many years ago, people were talking about word vectors or world and embedding. These are the same. We have word vectors or embedding. We have image vector of or embedding and action vector of embedding.
+ 
+ And the beauty here is that as you train this model, if you visualize these little vectors, it might be that they start aligning even though they're independent parameters. There there could be anything, but then it might be that you take the word ga or cat, which maybe is common enough that actually has it own token. And then you take pixels that have a cat and you might start seeing that these vectors look like they align mh. Right? So by learning from this vast amount of data, the model is realizing the potential connections between these modalities.
+ 
+ Now I will say there will be another way at least in part to not have these different vectors for each different modality. For instance, when I tell you about actions in certain space, I'm defining actions by words. Right? So you could imagine a world in which I'm not learning that the action app in atari is its own number. The action app in atari maybe is literally the word or the sentence app in Atari.
+ 
+ Mh. Right? And that would would mean we now leverage much more from the language. This is not what we did here, but certainly, it might make these connections much easier to learn and also to teach the model to correct its own actions and so on. Right?
+ 
+ So all these to to say that ga is indeed the beginning that it is it is a radical idea to do this this way. But there's probably a lot more to be done and the results to be more impressive not only through scale, but also through some new research that will come hopefully in the years to come.
+ 
+ Lex Fridman: So just to elaborate quickly, you mean one possible next step or one of the paths that you might take next is doing the token organization fundamentally as a kind of linguistic communication. So, like, you convert even images into language. So doing something like a crude semantic segmentation, trying to just assign a bunch of words to an image that like, have almost like a dumb entity explaining as much as you can about the the image. And so you convert that into words and then you convert games into words and and you provide the context and words and all of it. Eventually getting to a point where everybody agrees with no Jobs, that language is actually at the core of everything.
+ 
+ That's it's the base layer of intelligence and consciousness and all that kind of stuff. Okay. You mentioned early on like... It's hard to grow. What did you mean by that?
+ 
+ Because we're talking about scale might change there might be and we'll talk about this too, like, there's a a emergent... There's certain things about these neural no networks they're are emerges a certain, like, performance we can see only with scale, and there's some kind of threshold of scale. So it why is it hard to grow something like this network.
+ 
+ Oriol Vinyals: So the Meow network is is not it's not hard to grow if you'd retrain it. Yeah. What's hard is Well, we have now one billion parameters. We train them for a while. We we spend some amount of work towards building these these weights that are an amazing initial brain for doing these kind of tasks we care about, could we reuse the weights?
+ 
+ And expand to a larger brain. And that is extraordinarily hard, but also exciting from a research perspective and a practical perspective point of view. Right? So there's this notion of modular in software engineering. And we're starting to see some examples and work that leverages modular In fact, if we go back one step from Ga to a work that I would say train much larger much more capable network called Flaming.
+ 
+ Mh. Flame did not deal with actions, but it definitely dealt with images in a in an interesting way kind of akin to what I got it, but slightly different technique for token recognizing, but we don't need to go into that detail. But what Flaming also did. Which got didn't do. And that just happens because these projects, you know, they're they're they're different, you know, it's it's a bit of like, the exploratory nature of research, which is great.
+ 
+ Lex Fridman: The research behind these projects is also modular. Yes.
+ 
+ Oriol Vinyals: Exactly. And it has to be. Right? We need we need to have creativity and sometimes you need to protect pockets of, you know, people researchers and so on, by
+ 
+ Lex Fridman: we humans. Yes.
+ 
+ Oriol Vinyals: Okay. And also, in particular researchers and maybe even further, you know, deep mine or or other side laps.
+ 
+ Lex Fridman: And then the act neural networks themselves. So it's modular all the way down.
+ 
+ Oriol Vinyals: Okay. All the way down. So the way that we did modular, very beautifully in Flaming is we took chin, which is a language only model, not an agent if we think of actions being necessary for agency. So we took Tin Chile, we took the weights of Tin. And then we froze them.
+ 
+ We said these don't change. We train them to be very good at predicting the next word. He's a very good language model state of the art at the time you release it, etcetera, etcetera, we're gonna add a capability to c. Right? We are gonna add the ability to see to this language model.
+ 
+ So we're gonna attach small pieces of neural networks at the right places in the model. It's almost like injecting the network with some weights and some sub structures in the ways in in a good way. Right? So you need the research to say what is effective, How do you add this capability without destroying others, etcetera? So we created a small sub network initialized not from random, but actually from self supervised learning that you know, a model that understands vision in general.
+ 
+ And then we took data sets that connect the two modalities, vision and language. And then we froze the main part the largest portion of the network, which was Chile that is seventy billion parameters. And then we added a few more parameters on top train from scratch and then some others that were pre trained from, like, from with the capacity to see it. Like, it's was it was not token organization in the way I described for forgot, but it's a similar idea. And then we train the whole system.
+ 
+ Parts of it were frozen. Part of it were new. And all of a sudden, we develop Flaming, which is an amazing model that is essentially... I mean, describing it is a chatbot where you can also upload images and start converting about images, but it's also kind of a dialogue
+ 
+ Lex Fridman: style chatbot. So the input is images in text
+ 
+ Oriol Vinyals: and the output tax. Exactly. And
+ 
+ Lex Fridman: how many parameters you said seventy billions chin.
+ 
+ Oriol Vinyals: Yeah. To Chile seventy billion. And then the ones we add on top, which kind of almost is almost like a way to overwrite it's it's little activations so that when it is vision, it does kind of a correct computation of what it's seeing mapping it back to towards. So to speak, that adds an extra ten billion parameters. Right?
+ 
+ So it's total eighty billion, the largest one we released. And then you train it on a few data sets that contain vision and language. And once you interact with the model, you start seeing that you can upload an image and start sort of having a dialogue about the image, which is actually not something. It's it's very similar and i akin to what we saw in language only this prompting abilities that it has. You can teach it at think a new new vision task.
+ 
+ Right? It does things beyond the capabilities that theory the data. Provided in themselves, but because it leverages a lot of the language knowledge acquired from Chin, it actually has this few short learning ability and these emerging abilities that we didn't even measure once we were developing the model, but once developed, then as you play with the interface. You you can start seeing wow. Okay.
+ 
+ Yeah. It it's cool. We can we can upload. I think one of the tweets talking about Twitter was these from Obama that is placing a weight and and someone is kind of waiting themselves and and and it's kind of a joke style image, and it's not because I think Andre party a few years ago said, no computer vision system can can understand the subtlety of this joke in this image, all the things that go on. And so what we try to do and need very dot and anecdotally, I mean, this is not a proof that we solve this issue, but it just shows that you can upload now this image and start converting with the model trying to make out if it if it gets that there's a joke because a person waiting themselves don't see that doesn't see that someone behind is making the weight higher and so on so forth.
+ 
+ So it's a fascinating capability. And it comes from this key idea of modular where we took a frozen brain and we just added a new capability. So the question is should we... So in a way, you can see even from deep, we have Flaming that these this moderate approach. And thus could leverage the scale, More reasonably because we didn't need to retrain a system from scratch.
+ 
+ And the other on the other hand we had ga which use the same data sets, but then it train it from scratch. Right? And so I guess big question for the communities, should we train from scratch or should we embrace more. And this lies... Like this goes back to modular as a way to grow, but reuse seems like natural and it it was very effective.
+ 
+ Certainly.
+ 
+ Lex Fridman: The next question is, if you go the way modular, is there a systematic way of freezing weights joining different modalities across, you know, not just two or three or four networks, but hundreds of networks from all different kinds of places maybe open source network that looks at weather patterns and you shove that in somehow and then you have networks that I don't know, Do all kinds of play aircraft and play all the other video games and they you can keep adding them in without significant effort. Like, that... Maybe the effort scales linearly or something like that as opposed to, like, the more network work you add the more. Have to worry about the instability created.
+ 
+ Oriol Vinyals: Yeah. So that that vision is beautiful. I think there's still the question about within single modalities like Chin chile was reused. But now if we train a next iteration of language models, are we gonna use chin or har swap Right. So there's there's still big questions, but that idea is is actually really a akin to software engineering, which with not implementing you know, libraries from scratch we're reusing and then building ever more amazing things including neural networks.
+ 
+ With software that we're reusing. So I think this idea of variety, I like it. I think it's here to stay and that's also why I mentioned it's just the beginning, not the end.
+ 
+ Lex Fridman: You mentioned metal learning, so given this promise of god, can we try to redefine this term that's almost a akin to consciousness because it means different things to different people throughout the history of artificial intelligence. But what do you think matter learning is and looks like now in the five years, ten years, will look like system like god but scaled what's your sense of what is... What what does matter learning look like? Do you think... Right.
+ 
+ With all the wisdom we've learned so far?
+ 
+ Oriol Vinyals: Yeah. Great great question. Maybe it's good to give another data point looking backwards rather than forward. So when when we talk in two thousand nineteen, meta learning meant something that has changed mostly through the revolution of Gp three and beyond. So what meta learning meant at the time was driven by what benchmarks people care about in metal learning, and the benchmarks were about a capability to learn about object identities, so it was very much over fitted to vision and object classification And the part that was met about that was that oh we're not just learning a thousand categories that imagenet tells us to learn.
+ 
+ We're gonna learn object categories that can be defined when we interact with the model. So it's interesting to see the evolution right? The way the way they started was, we have a special language that was a data set. A small data set that we prompted the model with saying Hey, here is a new classification task. I I'll give you one image and the name, which was an integer at the time of the image and a different image and so on.
+ 
+ So you have a small prompt in the form of a dataset set a machine learning dataset set. And then you got then a system that could then predict or classify these objects that you just defined kind of on the fly. So fast forward, it was revealed that language models are future learners, that's the title of of the paper. So very good title. Sometimes titles are really good.
+ 
+ So this one is really really good. Because that's that's the point of Gp three that showed that look. Sure. We can we can focus on object classification and how what meta learning means within the space of learning object categories, this goes beyond or before rather to also omni before imagenet and so on. So there's a few benchmarks.
+ 
+ To now all of a sudden, will a bit unlocked from benchmarks and through language, we can define tasks. Right? So we we literally telling the model some logical task or little thing that we wanted to do. We prompted it much like we did before, but now we prompted through natural language. And then not perfectly.
+ 
+ I mean, these models have failure modes and that's fine, but not but these models then are now doing a new task. Right? So they met learn this new capability. Now now that's where we are now. Flaming expanded these to visual and language, but it basically has the same abilities.
+ 
+ You can teach it for instance, an emergent property was that you can take pictures of numbers and then do do arithmetic with the numbers just by teaching it oh, that's... I when when I show you three plus, six, you know, I want you to output nine and and you show it a few examples and now it does that. So it went way beyond the this image sort of categorization of images that we were... A bit stuck maybe before this revelation moment that happened in two thousand, I believe it was nineteen, but it was after we
+ 
+ Lex Fridman: chang that way, it has solved metal learning
+ 
+ Oriol Vinyals: as was previously defined. Yes. It expanded what it meant. So that's what you say, what does it mean? So it's an evolving term.
+ 
+ But here is maybe now... Looking forward, looking at what's happening, you know, obviously, in the community with more modalities. What we can expect and I would certainly hope to see the following and this is a pretty drastic hope, but in five years, maybe we wechat again. And We have a system, right, a set of weights that we can teach it to place that aircraft. Maybe not at the level of Alpha star.
+ 
+ But place complex game, we teach it through interactions to prompting you can certainly prompt the system. That's what ga shows to play some atari games. So imagine if you start talking to a system teaching it a new game, showing it examples of... you know, in this in this particular game, this user did something good maybe the system can even play and ask you questions say, hey, I played this game. I just played this game.
+ 
+ Did I do... Well, can you teach me more? So five, maybe to ten years, these capabilities or what method learning means will be much more interactive, much more rich and through through domains that we were specializing. Right? So you see the difference.
+ 
+ Right? We build Alpha star specialized to play aircraft. The algorithms were general, but the weights were specialized and what what we're hoping is that we can teach a network to play games. To play any game, just using games as an example through interacting with it, teaching it uploading the wikipedia page of of Star. Like, this is in the horizon and obviously, their details need to be to be filled and research need to be done.
+ 
+ But that's how I see metal learning above. Which is gonna be beyond prompting. It's gonna be a bit more interactive. It's gonna, you know, the system might tell us to give it feedback after it maybe makes mistakes or it loses a game, but it's nonetheless very exciting because if you think about this this way, the benchmarks are already there. We just repurposed them the benchmarks.
+ 
+ Right? So in a way, I like to map the space of what maybe Ag means to say, okay. Like we went a hundred one percent performance in go in chess in stat. The next iteration might be twenty percent performance across quote unquote all tasks. Right?
+ 
+ And even if it's not as good, it's fine. We we we actually we have ways to also measure progress because we have those special agents specialized agents and so on. So this is to me very exciting. And these next iteration models are are definitely hinting at that direction of progress, which hopefully we can have. There are obviously, some things that could go wrong in terms of we might not have the tools, maybe transformers are not enough then we must...
+ 
+ There's some breakthroughs to come which makes the field more exciting to people like me as well of course. But that's if I... If you ask me five to ten years, you might see these models that start to look more like weights that are already trained, and then it's more about teaching our or make... They met learn what you're you're trying you're trying to to induce in terms of tasks and so on. Well beyond the simple now task, we're starting to see merge like, you know, smaller tasks and so on.
+ 
+ Lex Fridman: So a few questions around that. This is fascinating. So that kind of teaching interactive, not so it's beyond prompting. Interacting with the neural network. That's different than the training process.
+ 
+ So it's different than the optimization over different functions. This is already trained and now you're teaching... I mean, it's almost like akin to the the brain, the the the neurons already set with their connections on top of that, you know, using that infrastructure to build up further knowledge. Okay. So That's a really interesting distinction that's actually not obvious from a software engineering perspective that there's a line to be drawn.
+ 
+ Because you always think for neural network to learn, it has to be retrain, trained and restrained. But maybe... And prompting is a way of teaching and you that work a little bit of context about whatever the heck you're trying it to do. So you can maybe expand this prompting capability, but making it interact That's really really.
+ 
+ Oriol Vinyals: Yeah. By the way, this is not... If you look at way back at different ways to tackle even classification task. So this this comes from from, like, long standing literature in machine learning. What I'm suggesting could sound to some like a bit like neat neighbor.
+ 
+ So N neighbor is almost the simplest algorithm. That you can... That that does not require learning. So it has this interesting, like, you don't need to compute gradients. And what nearest neighbor does is you quote unquote have a data or upload a data set.
+ 
+ And then all you need to do is a way to measure distance between points. And then to classify a new point, you're just simply computing. What's the closest point in this massive amount of data, and that's my answer. So you can think of prompting in a way as you're uploading not just simple points and and, you know, the the metric is not the distance between the images or something simple it's something that you compute. That's much more advanced.
+ 
+ But in a way, it's very similar. Right? You you simply are uploading some knowledge to this pre trained system in nearest neighbor. Maybe the metric is learned or not, but you don't need to further train it. And then now you immediately get a classifier out out of this.
+ 
+ Right? Now it's just an evolution of that concept very classical concept in machine learning, which is, yeah, just learning through what's the closest point closest by some distance, and that's it. Okay. It it it's an evolution of that. And I will say how how I saw matter learning when we worked on a few ideas in two thousand sixteen was precisely through the lens of nearest neighbor, which is very common money computer vision community.
+ 
+ Right? There's a very active area of of research about how do you compute the distance between two images. But if you have a good distance metric, you you also have a good classifier. Right? All I'm saying is now these distances and and the points are not just images there.
+ 
+ like, words or sequences of words and images and actions that teach you something new, but it might be that technique wise. Those come back. And I will say that it's not necessarily true that you might not ever train the weights a bit further, some aspect of metal learning some techniques in metal learning do actually do a bit of fine tuning as it's called. Right? They they train the way it's a little bit when they get a new task.
+ 
+ So as I called the how or or how we're gonna achieve this. As a deep learning i'm based skeptic, we're gonna try a few things. Whether it's a bit of training, adding a few parameters, thinking of these as nearest neighbor or just simply thinking of there's a sequence of words, it's a prefix and that's the new classifier. We'll see. Right?
+ 
+ There's there's there's the beauty of research, but but what's what's important is that is a good goal in itself that I see as very worthwhile pursuing for the next stages of not only metal learning. I think this is basically what's exciting about machine learning periods. To me Well the... And then the interactive aspect of
+ 
+ Lex Fridman: that is also very interesting. Yeah. The interactive version of nearest neighbor. Yeah to help you pull out the classifier from this giant thing. Okay.
+ 
+ Is is this the way we can go in five ten plus years from any task So so from many tasks to any task. So... And what does that mean? Like, what does it need to be actually trained on? Which point is the network had enough?
+ 
+ So what what does a network need to learn about this world in order to be able to form any task. Is it just as simple as language, image and action? Or do you need some set of representative images, like, if you only see land images when you know anything about underwater, is that somehow fundamentally different? I don't know.
+ 
+ Oriol Vinyals: The those... I mean, those are awkward questions. I would say. I mean, the way you put... Let me maybe further your example.
+ 
+ Right? If if all you sees land images, but you're reading all about land and water world, but in books, right, might. Would that be enough good question, We don't know, but I guess, maybe you can you can you can join us if you want in our quest to find this. That's that's pretty precisely.
+ 
+ Lex Fridman: Water a world. Yeah. Yes.
+ 
+ Oriol Vinyals: That's precisely, I mean, the beauty of research and and that's the the know, the the the the the research business wherein any, I guess is to figure this out. And as the right questions, and then iterate with with the whole community, publishing, like, findings and so on. But, yeah. These are these is a question is not the only question, but it's certainly as you ask is on my mind constantly. Right?
+ 
+ And so we'll we'll need to wait for maybe the... Let's say, five years, let's hope it's it's not ten to to see what what are the answers. Some people will largely believe in and unsupervised or self supervised learning of single modalities and then crossing them some people might think end to end learning is the answer modality is maybe the answer. So we don't know. But we're just definitely excited to find
+ 
+ Lex Fridman: out. But it feels like this is the right time and we're at the beginning of this position. We're finally ready do these kinda of general big models and agents. What do you sort of specific technical thing a about ga flaming? Chin go for any of these that is especially beautiful.
+ 
+ That was surprising. Maybe is there something that just jumps out you of course, there's the general thing of, like, you didn't think it was possible and then you're you realize it's possible in terms of the general ability across modalities and all that kind of stuff or maybe the how small of a network relatively speaking god is, all that kind of stuff. But it is is there some weird little things that were surprising.
+ 
+ Oriol Vinyals: Look, I I'll give you an answer. That's very important because maybe people don't quite realize these, but the teams we behind these efforts, the actual humans. Yeah. That's maybe the surprising in a obviously positive way. So anytime you see these these breakthroughs.
+ 
+ I mean, it's easy to map it to a few people there's people that are great at explaining things and so on. That that's very nice. But maybe the the the the learnings or the method learnings that I get as a human about Sure. We can move forward. But the surprising bit is how how important are all the pieces of of these projects, how do they come together?
+ 
+ So I'll I'll give you maybe some of the ingredients of success that are common across these. But not the obvious ones and machine learning. I can always always or also give you those. But basically, there is engineering is is critical to go. So so very good engineering because ultimately, we're we're collecting data sets.
+ 
+ Right? So the the the engineering of data and then of deploying the models at scale into some compute cluster that cannot go under understated that is huge factor of success and it's hard to believe that details matter so much. We we would like to believe that it's true that there is more and more of a standard formal as I was saying, like like this recipe that works for everything. But then when you zoom in into this age of these projects, then you realize the the the is indeed in the details. And then the teams have to work kind of together towards these goals.
+ 
+ So engineering of data and obviously clusters and large scale is very important. And then one that is often not maybe nowadays it is more clear is benchmark progress. Right? So we're talking here about multiple months of, you know, tens of researchers and and and people that are trying to organize the research and so on working together. And you don't know that you can get there.
+ 
+ I mean, it is... This this this is the beauty. Like, if you're not risking to trying to do something that feels impossible. You're not gonna get there, but you need to wait to measure progress. So the benchmarks that you build are critical I've seen this beautifully play out in many projects.
+ 
+ I mean, maybe the one I've seen it more consistently, which means we we establish the metric actually the community did, and then we leverage that massively alpha fold. This is a project where the data the metrics were all there. And all it took was and it's easier said than done. An amazing team working not to try to find some incremental improvement and publish, which which is one way to the research that is buried, but aim very high and worked literally for years to iterate over that process and working for years with the team. I mean, it it is it is tricky that also happened to happen partly during a pandemic and so on.
+ 
+ So I think my meta learning from all these is, the teams are critical to the success. And then if now going to the machine learning, the part that's surprising is... So we like architectures like neural networks. And I would say this was a very rapidly evolving field until the transformer came. So attention my indeed be all you need, which is the title also good title although in hindsight is good.
+ 
+ I don't think at the time I thought this is a great title for a paper, but that that architecture is proving that the dream of modeling sequences of any bytes. There's something there that will stick and and I think these these advanced in architectures in in kind of how neural networks are architecture to do what they do. It's been hard to find one that has been so stable and relatively has changed by little since it was invented five or so years ago. So that is a surprising keeps is a surprise that keeps recurring to other projects.
+ 
+ Lex Fridman: Try to on a philosophical technical level intros, what is the magic of attention? What is what is the tension? That's attention in people that study a cognition, so human attention. I think there's giant wars over what attention means how it works in the human mind. So what this very simple looks at what attention is in neural network.
+ 
+ From the days of attention is all you need. But broad, do you think there's a general principle that's that's really powerful here?
+ 
+ Oriol Vinyals: Yeah. So a distinction between transformers and Ls which were what came before and and, you know, there was a transitional period where you could you could use both. In fact, when we talked about Alpha, we use transformers and ls. So it was still the beginning of transformers. They were very powerful.
+ 
+ But Ls were still very also very powerful sequence models. So the power of the transformer is that it has built in what we call an inductive bias of attention that makes the model when when you think of a sequence of integers, right? Like we discussed these before. Right? This is the sequence of words.
+ 
+ When you when you have to do very hard tasks over these words. This could be... We're gonna translate a whole paragraph, or we're gonna predict the next paragraph given ten paragraphs before. There's some loose intuition from how we do it as a human. That is very nicely mimic and like, replicated structurally speaking in the transformer, which is this idea of
+ 
+ Lex Fridman: you're
+ 
+ Oriol Vinyals: looking for something. Right? So you're sort of... When you're you you you just read a piece of text. Now you're thinking what comes next.
+ 
+ You might wanna re at the text or look it from scratch. I mean, the r is because there's no recurrence. You're just thinking what comes next. And it's almost hypothesis is driven. Right?
+ 
+ So if if I'm thinking the next word that are write is cat or doc. Okay? The way the transformer works, almost philosophically is it has these two hypotheses? Is it is it gonna be cut? Or is it gonna be dark?
+ 
+ And then it says, okay. If it's cat, I'm gonna look for certain words. Not necessarily cat. Although look at is an obvious word you would look in the past to to see whether it makes more sense to output catalog dog. And then it does some bay deep computation over the words and beyond.
+ 
+ Right? So it combines the words and but but it has the query as we call it. That is cat. And then similarly for duck. Right?
+ 
+ And so it's it's it's a very computational way to think about Look, if I'm if I'm thinking deeply about text, I need to go back to to look at all of the tags. Attend. But it's not just attention, Like, what is guiding the attention? And that was the key inside from an earlier paper. Is not how far away is it.
+ 
+ I mean, how far away is it is important? What what what did I just write about? That's critical by what you wrote about, ten pages ago might also be critical. So you're looking not position, but content wise. Right?
+ 
+ And you... Transformers have this beautiful way to query for certain content and pull it out. In a compressed way. So then you can make a more informed decision. I mean, that's one way to explain transformers.
+ 
+ But I think it's it's very... It's a very powerful inductive bias. There might be some details that might change over time, but I think that is what makes transformers so much more powerful than the recurrent networks that were more rec buyers based which obviously works in some tasks, but there it has major flaws. Transform itself has flaws. And I think the main one, the main challenges these prompts that we we just were talking about, they can be a thousand worth long.
+ 
+ But if I'm teaching you, start. I mean, I'll have to show you videos. I have to... I have to point you to how we could wikipedia articles about the game. We'll have to interact probably as you play you'll ask me questions.
+ 
+ The context require for us to achieve me being a good teacher to you on the game as you would want to do it with a model. Well what I think goes well beyond the current capabilities. So the question is, how do we benchmark these and then how do we change the structure of the architectures? I think there's ideas on both sides, but we'll have to see empirical, right. What ends up working in
+ 
+ Lex Fridman: the... And as as you talked about some of the ideas could be, you know, keeping the constraint of that length in place, but then forming like her representations to where you can start being much clever in how you use those thousand tokens. Yeah. That's really interesting. But it also is possible that this attention mechanism where you basically you don't have a recent bias, but you you you look more generally, you you make it learn, the mechanism in which way you look back into the past you make that learn.
+ 
+ It's also possible we're at the very beginning of that because that you might become smarter and smarter in the way you query the past. So recent paths and distant pass maybe very, very distant path So almost like the tension mechanism will have to improve and evolve as good as the the token organization mechanism where so you can represent long term memory somehow.
+ 
+ Oriol Vinyals: Yes. And I mean, hi keys are are bay... I mean, it's a very nice board that sounds appealing. There's lots of work adding hierarchy to the memories. In practice, it does seem like we keep coming back to the main formula or main architecture that sometimes tells us something.
+ 
+ There there's such a sentence that friend of mine told me like, whether it wants to work or not. So transformer was clearly an idea that wanted to work. Mh. And then I think there's some principles we believe will be needed but finding the exact details, details matter so much. Right?
+ 
+ That's
+ 
+ Lex Fridman: gonna be tricky. I love the idea that there's Like, you as a human being, you want you want some ideas to work, and then there's the model that wants some ideas to work. And you get to have a conversation to see which... Yeah. More likely the model will win in the end.
+ 
+ Because it's it's the one you don't have to do any work. The model the one has to do the work so you should listen to the model. And I I really love this idea that you talked about the humans in this picture, if I could just briefly ask one is you're saying the benchmarks about... The modular humans working on this. The benchmarks providing a sturdy ground of A wish to do these things that seem impossible.
+ 
+ They they give you in the darkest of times give you hope. Because the little signs of improvement. You get... You could...
+ 
+ Oriol Vinyals: Yes.
+ 
+ Lex Fridman: Like, you're not... You're... Somehow you're not lost if you have metrics to measure your your improvement. And then there's other aspect, you said elsewhere and in here today, like, titles matter I wonder How much humans matter in the evolution of all this, meaning individual humans you know, something about their interaction, something about their ideas, How much they change the direction of all this? Like, if you change the humans in this picture, like, is is it that the model is sitting there and it wants you it wants some idea to work or is it the humans...
+ 
+ Or maybe the model is providing you twenty ideas that could work And depending on the humans you pick, they're they're going to be able to hear some of those ideas. Like, in in all the... Because you're now directing all of deep learning at Deep mind. You get to track a lot of projects, a lot of brilliant researchers. How much variability created by the humans and all of this?
+ 
+ Oriol Vinyals: Yeah. I mean, you I do believe humans matter a lot at the very least at the, you know, time scale of ears. On when things are happening and what's the sequencing of it. Right? So you get to interact with people that, I mean, you mentioned these some people really want some idea to work and they'll persist, and then some other people might be more practical.
+ 
+ Like, I don't care. What idea works. I care about, you know, cracking protein folding. Yes. And these at least these two kind of same opposite sides.
+ 
+ We need both, and we clearly had both historically and that made certain things happen earlier or later. So definitely humans involved in all of these endeavor have had, I would say years of change or or of ordering, how how things have happened, which breakthroughs came before which other breakthroughs and so on. So certainly, that does happen. And so one other maybe one other axis of distinction is what I called and it is most commonly using reinforcement learning is the exploration x exploitation trade off as well. It's not exactly what I meant.
+ 
+ Although quite related. So when you start trying to help others, right? Like, you you're you're, you know, you become a bit more of a mentor to a large group of people be project or the deep learning team or something or even in the community when you interact with people in conferences and so on. You're identifying quickly, right? Some some things that are or exploit, and it's tempting to try to guide people, Obviously, I mean, that's what makes like, our experience, we bring it and we try to shape things.
+ 
+ Sometimes wrong and there's many times that I've been wrong in the past. That's great, but it would be wrong to dismiss any sort of of the research styles that I'm observing, and I often get asked, while, you're in industry. Right? So we do have access to large compute scale and so on. So there's certain kinds of research.
+ 
+ I almost feel like we need to do responsibly and so on, but it is carlos we have the particle accelerator here, so to speak in physics. So we need to use it. We need to answer the questions that we should be answering right now for the scientific progress But then at the same time, I look at many advancements, including attention, which was discovered in Montreal initially because of lack of compute. Right? So we were working on sequence to sequence with with my friends over at Google Brain at the time, and we were using I think eight gpus, which was somehow a lot of time.
+ 
+ And then I think Mont was a bit more limited in the scale, but then they discovered this content based attention concept that then has obviously triggered things like transformer. Not everything obviously starts transformer. There's there's always a history that is is important to recognize because then you can make sure that then those whom i feel now, well, we don't have so much compute. You need to then help them optimize that the kind of research that might actually produce amazing change. Perhaps it's not as short term as some of these advancements or perhaps it's a different time scale, but the people and the diversity of the field is quite critical difficult to that we maintain it and at times especially mixed a bit with hype or other things.
+ 
+ It's it's a bit tricky to be observing maybe too much of the same thinking across the board. But the humans definitely are critical and I can think of quite a few personal examples where also someone told me something that had a huge, know, huge effect on onto some idea and then that's why I'm saying at least at the time in terms of ears, probably some things do happen. Yeah. Different. Yeah.
+ 
+ Lex Fridman: And it's also fascinating thing how constraints somehow or essential for innovation. And the other thing you mentioned about engineering, I have a sneaking suspicion. Maybe I over, you know, my my love as with engineering. So I have a sneaky suspicion that all the... A large percentage of the genius is in the tiny details of engineering.
+ 
+ So like, I think we like to think our genius... Our... The genius is in the big ideas there's... I have a sneaking suspicion that, like, because I've seen the genius of details of engineering details, make like make the night and day difference. And I wonder if those kind of have a ripple effect over time.
+ 
+ So that that too, so that's so taken the engineering perspective that sometimes that quiet innovation at the level of an individual engineer or maybe at the small scale a few engineers can make all the difference that scales because we're doing we're working on computers that are scaled across large groups that one engineering decision can lead to ripple effects. Yes. Is interesting to think about.
+ 
+ Oriol Vinyals: Yeah. I mean, engineering there's also kind of a historical... It might be a bit random because if you think of the history of how especially deep learning and neural networks took off. Feels like I mean random because gpus happen to be there at the right time for different purpose, which was to play video games. Mh.
+ 
+ So even the engineering that goes into the hardware and it might have a time... Like the time frame might be very different. I mean, these the the gpus were evolved throughout many years where we we don't even we're looking at that. Right? So even at that level, Right?
+ 
+ The that revolution, so to speak, the repo are like... Like, we'll see when they stop. Right? But in terms of thinking of why is this happening. Right?
+ 
+ There's there's... I think that when I tried to categorize categorize it in sort of things that might not be so obvious. I mean, clearly, there's a hardware revolution. We are surfing things to that. Data centers as well.
+ 
+ I mean, data centers are where, like, I mean, at Google, for instance, obviously, they're serving Google, but there's also now thanks to that and to have built such amazing data centers. We can train these models software is an important one. I think if I look at the state of how I had to implement things to implement my ideas how I discarded ideas because they were too have to implement... Yeah. Clearly the the times have changed and thankfully, we are in a much better software position as well.
+ 
+ And then, I mean, obviously, that's research that happens at scale and more people enter the field. That's great to see. But it's almost enabled by these other things. And last but not least is also data. Right?
+ 
+ Q creating data sets, labeling data sets, these benchmarks we think about, maybe we'll we'll want to have all the benchmarks in one system, but it's still very valuable that someone put the thought and time and the vision to build certain benchmarks. We've we've seen progress thanks to, but we're gonna repurpose the benchmarks. That's the beauty of Atari is like we solved it in a way. But we use it in ga it was critical. And I'm sure it's there's there's still a lot more to do thanks to that amazing benchmark that someone took the time to put it even though at the time maybe or you have to think what's the next, you know, iteration of architectures.
+ 
+ That's what maybe the field recognizes, but we need to... That's another thing we need to balance in terms of humans behind. We need to recognize all these aspects. Because they're all critical. And we tend do...
+ 
+ Yeah. We tend to think of the genius, the scientists and so on, but I'm I'm glad you're... I know you have a strong engineer background.
+ 
+ Lex Fridman: But also a date i'm a lover of data, I think a push pushback on the engineering comment ultimately could be the the creators of benchmarks with have the most impact. Andre Ka who you mentioned has recently been talking a lot of trash about imagenet which he has the right to do because of how critical he is the about how essentially he is to the development, the success of deep learning around imagenet. And you're saying that that's actually that benchmark is holding back the field. Because, I mean, especially in his context on tesla autopilot that's looking at real world behavior of a system. It's...
+ 
+ You... You... There's something fundamentally missing about image imagenet that doesn't capture the real world of things. That we need to have data benchmarks that have the unpredictability, the edge cases, the... Whatever the heck is that makes the real world so comp...
+ 
+ So difficult to operate in. We need to have benchmarks with that. So... But just to think about the impact of Imagenet is a benchmark. And that really puts a lot of emphasis on the importance of a benchmark.
+ 
+ Both sort of internally a deep mind and as a community. So one is coming in from within like, how do I create a benchmark for me to mark and make progress and how do I make benchmark for the community to mark and push progress. You you you have this amazing paper you c authored a survey paper called emergent abilities of large language models, has again, the philosophy here that I'd love to ask you about. What's the intuition about the phenomena of emergent and neural networks? Transform is language models?
+ 
+ Is there a magic threshold beyond which we start to see certain performance and is that different from task to task? Is that us humans just being poetic and romantic or is there literally some level of which we start to see breakthrough performance?
+ 
+ Oriol Vinyals: Yeah. I mean, this is a property that we start seeing in systems that actually tend to be So in machine learning, traditionally, again, going to benchmarks, I mean, if if you have a some input outputs, right, like, that is just a single input and a single output. You generally... When you train these systems, you see reasonably smooth curves when you analyze how how much the data set size affects the performance or how the model size affect performance months or how much you long train... You how how long you train the system for affects the performance.
+ 
+ Right? So, you know, if we think of imagenet, like, the training curves look fairly smooth and predictable in a way. And I would say that's probably because of the... It's kind of a one a one hop reasoning task. Right?
+ 
+ It's like, Here is an input and you think for a few milliseconds or handed music seconds three hundred as a human, and then you tell me, yeah, there's there's a an A in the image. So in language, we are seeing benchmarks that require more pondering and more thought in a way. Right? This is just kind of you you you need to look for some subtle, the the it involves inputs that you you might think of or even if the input is a sentence describing a mathematical problem there is there is a bit more processing required as a human and more intros. So I think the how these benchmarks work means that there is actually a threshold.
+ 
+ Just going back to how transformers work in this way of querying for the right questions to get the right answers. That might mean that performance becomes random. Until the right question is ask by acquiring system of a transformer or of a language model like a transformer. And then only only then, you might start seeing performance going from random to non random. And this is more empirical.
+ 
+ There's there's no formal reason or or theory behind this yet. Although it might be quite important. But we seeing these face transitions of random performance and until some, let's say, scale of a model, and then it goes beyond that. And it might be that you need to fit a few low order beads of thought. Before you can make progress on the hold task.
+ 
+ And if you could measure actually those breakdown of the task, maybe you would see more smooth like, yeah. This, you know, when... Once you get these and these and these these and these, then you start making progress in the task. But it's somehow a bit annoying because then it means that certain questions we might ask about architectures possibly can only be done at certain scale. And one thing that conversely, I've seen great progress on in the last couple years is this notion of science of deep learning and science of scale in particular.
+ 
+ Right? So on the negative is that there's some benchmarks for which progress might need to be measured at at minimum at certain scale until you see then what details of the model matter to make that performance better. Right? So that's a bit of a con, but what we've also seen is that you can you can sort of empirical analyze behavior of models at scales that are smaller. Right?
+ 
+ So let's say, to put an example, we had this tin paper that revised the so called scaling laws of models and that whole study is done at the reasonably small scale. Right? That may be hundreds of millions up to one billion parameters. And then the cool thing is that you create some loss. Right?
+ 
+ So some laws that some trends. Right? You you extract trends from data that you see, okay. Like, it looks like the amount of data required to train now a ten x larger model would be this. And these laws so far, these extrapolation have help that safe compute and just get to a better place in terms of the science of how should we run these models at scale how much data how much depth and all sorts of questions we start asking extra from small scale.
+ 
+ But then these emergence is sadly that not everything can be separated from scale depending on the benchmark and maybe the harder benchmarks are not so good for extracting these laws. But we have a by idea of benchmarks that'd be.
+ 
+ Lex Fridman: So I wonder to which degree the threshold the face shift, scale as a function of the benchmark some some of that... Some of the signs of scale might be engineering benchmarks where that threshold is low. Sort of taking a main benchmark and reducing it somehow where the essential difficulties left, but the immersion the scale which the emergence happens is lower. Yes. For the science aspect of it versus the actual real world aspect.
+ 
+ Oriol Vinyals: Yeah. So luckily we have quite a few benchmarks some of which are simpler or maybe they're are more like I think people might call these systems one versus systems to style. Some So I think what we're not seeing luckily is that extrapolation from maybe slightly more smooth or simpler benchmarks are translating to the harder ones, But that is not to say that this extrapolation will hit its limits. And when it does, then how much we scale or how we scale will sadly be a bit optimal until we find better loss. Right?
+ 
+ And these laws again, are very empirical loss. They're not like physical laws of models. Although I wish that would be better theory about these things as well. But so far, I would say empirical theory as I call it is way ahead than actual theory of machine learning.
+ 
+ Lex Fridman: Let me ask you almost for fun. So this is not Or is as as a as a deep mind person or anything to do with deep mind or Google just as a human being and looking at these news of a Google engineer who claimed that's, I guess the Lab language model was sentient or had the... I I I still need to look at into the details of this, but sort of making an official report in a claim that he believes there's evidence that this system has achieved sentience. And I think this is a really interesting case on a human level and a psychological level on technical machine learning level of how language models transform our world and also just philosophical level of the role of Ai systems in in a human world. So what did you...
+ 
+ What do you find interesting? What's your take on all this as an as a machine learning engineer and a researcher and and also a human being.
+ 
+ Oriol Vinyals: Yeah. I mean, a
+ 
+ Lex Fridman: few reactions. Quite the few, actually. Have you ever briefly thought is this thing sanctioned tuned?
+ 
+ Oriol Vinyals: Right. So never. Absolutely.
+ 
+ Lex Fridman: Like, even were like how a start wait a minute. What
+ 
+ Oriol Vinyals: not. Sadly, though I think... Yeah. Sadly, I I have not... Yeah.
+ 
+ I think I think the current any of the current models although very useful and very good. Yeah. I think we're quite far from that. And there's kind of a converse size story. So one of one of the my passions is about science in general.
+ 
+ And I think I feel I'm a bit of, like a failed scientist. That's why I came to machine learning because you always feel... And you start seeing this that machine learning is maybe the science that can help other sciences as we've seen, right? Like you... you know, it's such a powerful tool.
+ 
+ So Thanks to that angle, Right? That... Okay. I love science. I love.
+ 
+ I mean, I love astronomy, I love biology, but I'm not an expert and I decided well, the thing I can do better at these computers, but having especially with when I was a bit more involved in half learning a bit about proteins and about biology and about life, the complexity it it feels like it really is like, I mean, if you start looking at the things that are going on at Atomic level, And and also I mean, there's there's obviously that we are maybe inclined to try to think of neural networks as like the brain, but the complexities and the amount of magic that it feels when... I mean, I don't... I'm not an expert, so it not refused more magic, but looking at biological systems as opposed to these computer computational brains. Just makes me like... Well, this there's such level of complexity differences still.
+ 
+ Right? Like, orders of magnitude complexity that sure. These weights. I mean, we train them and they they do nice things, but they're not at the level of biological entities, brains, cells, it just feels like it's just not possible to achieve the same level of complexity behavior and... But the my belief when I talk to other beings is certainly shaped by this amazement of biology that maybe because I know too much, I don't have about machine learning, but I certainly feel it's very far fetched and far in the future to be calling or to be thinking well this this this mathematical function that is is is is in fact sentient and so
+ 
+ Lex Fridman: on. There's something on that point. It's very interesting. So you know enough about machines and enough about biology to know that there's many orders of magnitude of difference in complexity. But you know how machine learning works.
+ 
+ So the interesting question for human beings that are interacting with the system that don't know about the underlying complexity. And I've seen people probably including myself that have fallen in love with things that are quite simple.
+ 
+ Oriol Vinyals: Yeah. So...
+ 
+ Lex Fridman: And and so maybe the complexity is one part of the pick, but maybe that's not necessary... That's not a necessary condition for sentience for perception or emulation sentience.
+ 
+ Oriol Vinyals: Right. So I mean, I guess the other side of this is, that's how I feel. I mean, you asked me about the person. Right? Now it's very interesting to see how other humans feel about things.
+ 
+ Right? This is this we are like, again, like, I'm I'm not as amazed about things that I feel like This is not as magical as this other thing because of maybe how I got to learn about it and how I see the curve a bit more smooth because I, you know, like just seen the progress of language models since shannon in the fifties and actually looking at that time scale we're not that fast progress. Right? I mean, it's what what we were thinking at the time, like, almost a hundred years ago, is not that dissimilar to what we're doing now. But at the same time, yeah, obviously, others my experience.
+ 
+ Right? That the personal experience I think no one should, you know, I think the one should should should tell others how they should feel. I mean, the feelings are very poor personal. Right? So how others might feel about the models and so on, that's one part of the story that is important to understand for me personally as a researcher, and then when I maybe this agree or I don't understand or see that, yeah.
+ 
+ Maybe this this is not something I think right now is reasonable. Knowing all that I know. One of of the other things and perhaps partly why it's great to be talking to you and reaching out to the world about machine learning is, hey. Let's make... Let's d misty with the magic and try to see a bit more of the math and the fact that literally to create these models if we had the the right software.
+ 
+ It would be ten lines of code, and then just a dump of the internet. So versus like then the complexity of, like, the creation of humans from from their inception, right, and also the complexity of evolution of the whole universe to where we are that is feels orders of magnitude more complex and fascinating to me. So I think Yeah. Maybe part of... The only thing I'm I'm thinking about trying to tell you is yeah, I I think explaining a bit of the magic.
+ 
+ There's is a bit of magic. It's good to be in love obviously busy with what you do at work, and I'm I'm certainly fascinated and through price quite quite often as well. But I think hopefully, as experts in biology hope we will tell me this is not as Magic and I'm happy to learn that. Through through interactions with the larger community, we can also have a certain level of education that Practice this also will matter because I mean, one question is how you feel about this. But then the other very important is you're starting to interact with these in products and so on it's good to understand a bit what's going on, what's not going on, what's safe, what's not safe and so on.
+ 
+ Right? Otherwise, the technology will not be used properly for good, which is obviously the goal of all of us, I hope.
+ 
+ Lex Fridman: So let me then ask the next question. Do you think in order to solve intelligence or to do to replace the spot that does interviews as we start this conversation with. Do you think the system needs to be sentient. Do you think he needs to achieve something like consciousness. And do you think about what consciousness is in the human mind that could be instructive for creating Ai systems.
+ 
+ Oriol Vinyals: Yeah. Honestly, I think probably not to to the degree of intelligence that there's this brain that can learn can be extremely useful can talent you can teach you converse you teach to do things. I'm not sure it's necessary personally speaking. But if consciousness or any other biological or evolutionary lesson can be repurposed to then influence our next set of algorithms. That is a great that is a great way to actually make progress.
+ 
+ Right? And the same way I try to explain transformers a bit how it feels we operate when we look at text specifically. These insights are very important. Right? So there's a distinction between details of how the brain might be doing computation.
+ 
+ I think my understanding is sure there's neurons and there's are some resemblance to neural networks, but we don't quite understand and enough of the brain in detail. Right, to to be able to replicate it. But then more if you if you zoom out a bit, how we then our thought process how memory works, maybe even how evolution got us here, what's exploration exploitation. Like, all the... How these things happen.
+ 
+ I think these clearly can inform algorithm level of nick research. And I've seen some examples of this being quite useful. To then guide to the research. Even it might be for the wrong reasons. Right?
+ 
+ So I think biology and what we know about ourselves can help whole lot to build essentially, like what we call Ag or this these general the the real ga. Right, The the the last step of the chain hopefully. But... But consciousness in particular, I don't... I don't myself at this thing too hard about how to add that to to the system.
+ 
+ But maybe maybe my understanding is also very personal about what it means. Right? I think this... Even even that in itself is a long way that I know people people have often And maybe i I should learn more about this.
+ 
+ Lex Fridman: Yeah. And I personally I noticed the magic often on a person level, especially with physical systems like robots. I have a lot of legged robots now in the Austin that I play with And even when you program them, when they do things you didn't expect there's an immediate ant commercialization. And you notice the magic and you start to think about things like sentience. That has to do more with effective communication less with any know these kind of dramatic things it it seems like a useful part of communication.
+ 
+ Having the perception of consciousness seems like useful for us humans. But we we treat each other more seriously. We are able to do a nearest neighbor shoving of that entity into your memory correctly, all that kind of stuff. Seems useful, at least to fake it, even if you never make
+ 
+ Oriol Vinyals: So maybe like, yeah, mirroring the question and since you talk to a few people. Do then you do think that will need to figure something out in order to achieve intelligence in a grander sense of the world.
+ 
+ Lex Fridman: For Yeah. I I personally, yes, but I don't even think it'll be like a separate island we will have to travel to. I think you'll emerge quite naturally.
+ 
+ Oriol Vinyals: Okay. That's easier than for then. Thank
+ 
+ Lex Fridman: you. But the reason I think it's important to think about is you will start, I believe like, with this Google engineer, you'll start seeing this a lot more, especially when you have Ai systems that are actually interacting with human beings that don't have an engineering background. And we have to prepare for that. Because there will be... I do believe there will be a civil rights movement for robots as silly as as it is to say.
+ 
+ There's going to be a large number of people that realize there's these intelligent entities with with whom I have a deep relationship and I don't wanna lose them they've come to be a part of my life, and they mean a lot. They have a name. They have a story. They have a memory, and we start to ask questions about ourselves well what this thing shirt seems like it's capable of suffering because it tells all these stories of suffering. It doesn't wanna die and all those kinds of things and we have to start to ask ourselves questions.
+ 
+ Well what is the difference between the human being in this thing? And when... So when you engineer I believe from an engineering perspective from like a deep mind or anybody that builds systems, there might be laws in the future where you're not allowed to engineer systems with the displays of sentience. Unless they're explicitly designed to be that, unless it's a pet. So if if you if you have a system that's just doing customer support, you're legally not allowed to display sanctions.
+ 
+ We'll start to, like, ask ourselves of that question. And then so that that's that's going to be part of the software engineering process. Do we do we... Which features do we have in one of them as communications sanchez? But it's important to start thinking about that stuff, especially how much it cap public attention.
+ 
+ Oriol Vinyals: Yeah. So absolutely. It's... It's definitely a topic that is important we think about. And I think in a way, I I always see not.
+ 
+ I mean, not not every movie is is is equally on point with certain things, but certainly science fiction in this sense, at least has prepared society to to start thinking about certain topics that even if it's too early to talk about as long as we are, like, reasonable it's certainly gonna prepare as for for both the research to come and how to... I mean, there's many important challenges and topics that come with with building an intelligent system, many of which you you just mentioned. Right? So I think being... We're never gonna be fully ready unless we talk about these and we start also as I said, just kind of expanding the the people we talk to to not include only our our own researchers and so on.
+ 
+ And in fact, places like Deep mine, but elsewhere, there's more inter groups forming up to start asking and really working with us on these questions because, obviously, this is not initially what your passion is when you do your Phd, but certainly, it is coming. Right? So it's it's fascinating kind of, it's it's the the thing that brings me to one of my passions that is learning. So the in this sense, this is kind of a new area that as a learning system myself, I want to keep exploring, and I think it's it's great that to see, you know, parts of the debate and and even I seen a level of maturity in the conferences that deal with Ai, if you look five years ago, to now, just the amount of workshops and so on has changed so much It's is impressive to see how much topics of, you know, safety ethics and so on come to to the surface, which is great. And if you were too early, clearly, it's fine.
+ 
+ I mean, it's a big field and there's lots of people with lots of interest that will do progress or make progress. And obviously, I don't believe we're are too late. So the in in that sense, like, I think it's great that we're doing these already. It's
+ 
+ Lex Fridman: better be too early than Too late when it comes to super in has systems. Let me ask speaking of sentient Ais, you gave props to your friend Il it's skip. For being elected, the fellow of World society. So just as a shout to fellow researcher and a friend, what's the secret to the genius of Il discover. And also, do you believe that his tweets of as you have hypo in Andre andrei Cop did as well?
+ 
+ Are generated by a language model.
+ 
+ Oriol Vinyals: Yeah. So i I strongly believe I... Il is gonna visit sitting in a few weeks actually. So I'll I'll ask him in person, but will he tell you the truth? Yes.
+ 
+ Of course yeah. Okay. I mean, we're... You know, ultimately, we we all have share pads and there's friendships that go beyond obviously institutional institutions and and so on. So hope he tells me the truth.
+ 
+ Maybe the Ai system
+ 
+ Lex Fridman: was holding him hostage somehow maybe he has some videos about he doesn't wanna release. So maybe he has taken control over him. So he
+ 
+ Oriol Vinyals: can... If I say him in person that... He will kill on that. Yeah. I'll but but I think I think it's a good...
+ 
+ I think Personality just knowing him for a while. Yeah. It's he's he's everyone in twitter, I guess, gets a different persona and and I think one does not surprise me. Right? So I think knowing il from before social media, before Ai was so prevalent, I recognize a lot of his characters.
+ 
+ So that's something for me that I feel good about a friend that hasn't changed or, like, it's still true to himself. Right? Obviously, there is... There is though a fact that your field becomes more popular and he is obviously one of the main figures in the field, having done a lot of advancements. So I think that the tricky bit here is how to balance your true self with the responsibility that you're worst carrier.
+ 
+ So in this sense, I think... Yeah. Like, I I I appreciate the style and I understand it, but it created debates on, like some... Some of his tweets, Right? That maybe it's good.
+ 
+ We have them early anyways. Right? But... But, yeah, it's it's... Then the reactions are usually polarizing.
+ 
+ I think we're just seeing kind of the reality of social media bit there as well, reflected on on that on that particular topic or set of topics key tweeting about.
+ 
+ Lex Fridman: Yeah. I mean, it's funny. They used speak to this tension. He was one of the early seminal figures in the field of deep learning, and so there's a responsibility with that, but he's also from having interact with them quite a bit. He's just a brilliant thinker about ideas.
+ 
+ And which... As as are you and that there's tension between becoming the manager versus, like, the actual thinking through very novel ideas. The... Yeah. The the scientist versus the manager and he's he's one of the great scientists of our time.
+ 
+ Was quite interesting. And also people tell me quite silly, which I haven't quite detected yet. But in private, we'll have to see about
+ 
+ Oriol Vinyals: that. Yeah. Yeah. I mean, just just on the point of... I mean, Eli has been inspiration I mean, quite a few colleagues I can think shaped, you know, the person you are, like, Il certainly, gets probably the top spot if not close to the top.
+ 
+ And if we go back to the question about people in the fields, like how the role would have changed the field or not. I think Il case is interesting because he really has a deep belief in the scaling up of neural networks. There was a talk that that that is still famous to this day. From the sequence to sequence paper where where he was claiming just give me supervised data and network, and then, you know, you'll solve basically all the problems. Right?
+ 
+ That that that vision, right? Was already there many years ago. So it's it's good to see, like, someone who's in this case, by deeply into this style of research and clearly has had a tremendous track record of successes and so on. The funny beat about that talk is that we rehearsed the talk in the hotel room before and the original version of that talk would have been even more controversial. So maybe I'm I'm the only person that has seen the filter version of the talk.
+ 
+ And, you know, maybe when the time comes may we we should revisit some of the the skip slides from from the from from the dark familiar. But I really think that deep believe into some certain style of research pays out. Right? This is is good to be practical sometimes, and I actually think Il and myself are like, practical, but it's also good. There's some sort of long term belief and trajectory.
+ 
+ Obviously, there's a bit of luck involved, but it might be that that's the right path then you clearly are and and and hugely influential to the field. Ask has been... Do you agree with that intuition that may was
+ 
+ Lex Fridman: written about by rich out in the the bitter lesson that the biggest lesson that can be read from seventy years of Ai researches that general methods, that leverage computation are ultimately the most effective. Do you think that intuition is ultimately correct? General methods, leverage computation, allowing the scaling of computation to do a lot of the work. And so you... The basic task of us humans is to design methods that are more and more general versus more and more specific to the tasks at hand.
+ 
+ I I certainly think this
+ 
+ Oriol Vinyals: essentially mimics a bit of the deep learning research almost like philosophy that on the one hand, we want to be data diagnostic agnostic. We don't want prep data sets. We wanna see the bytes. Right, like the true data as it is, and then learn everything on top. So very much agree with that.
+ 
+ And I think scaling up feels at the bailey least again necessary for building incredible complex systems. It's possibly not sufficient barring that we need a couple of breakthroughs. I think Reed Sat mentioned search being part of the equation of skill skill and search. I think search, I've seen it that's been more mixed in my experience or from that lesson one in particular search is a bit more tricky because it is very appealing to search in domains like go where you have a clear reward function that you can then this discard some search traces. But then in some other tasks, it's not very clear how you would do that.
+ 
+ Although recently one of our recent works which actually was mostly mimicking or a continuation and even the team and the people involved were pretty much very, like intersecting with Alpha star was alpha code. In which we actually saw the lesson how scale of the models and then a massive amount of search yielded this kind of very interesting result of being able to have human level code competition. So I've seen examples of it being literally mapped to search and scale I'm not so convinced about the search beat, but certainly I'm convinced skill will be needed. So we need general methods. We need to test them and do need to make sure that we can scale them given the hardware that we have in practice, but then maybe we shoot also shape how the hardware looks like based on which methods might be needed to scale, and that's it an interesting and an interesting contrast of this Gpu comments that is...
+ 
+ We got it for free almost because games were using these, but maybe now if spa is required, we don't have the hardware although in theory. I mean, many people are building different kinds of hardware these days. But there's a bit of this notion of hardware lottery for scale that might actually have an impact at least on the year again scale of years on how fast will make progress to to maybe a version of Neural nets or or whatever comes next that might enable truly intelligent agents.
+ 
+ Lex Fridman: Do you think in your lifetime, we will build an Ag system that would undeniably be a thing that achieves human level intelligence and goes far beyond.
+ 
+ Oriol Vinyals: I definitely think it's possible that it will go far beyond, but I'm definitely convinced that it will be human level interactions And I'm I'm about the Beyond because the beyond beat is a bit tricky to define especially when we look at the current formula of starting from this imitation learning standpoint. Right? So we can certainly imitate humans at language and beyond. So getting at human level through mutation feels very possible. Going beyond will require reinforcement learning and other things.
+ 
+ And I think in some areas, that certainly already has paid out. I mean, go being an example that's my favorite so far in terms of going beyond human capabilities, but in general, I'm not sure we can define reward functions that from a seat of i eliminating human level intelligence that is general and then going beyond. That that bid is not so clear in my lifetime time. But certainly, human level, yes. And I mean, that in itself is already quite powerful, I think.
+ 
+ So going beyond, I think it's obviously not... We're not gonna not try that. If if if then we get to super scientists and discovery and advancing the world, but but at least human level is also in in general it's is also very very powerful.
+ 
+ Lex Fridman: Well, especially human level or or slightly beyond is integrated and deeply with human society and there's billions of agents like that, Do you think there's a singularity moment beyond which our world will be just very deeply transformed by these kinds of systems because now you're talking about intelligent systems that are just... I mean, this is no longer just going from horse and buggy to to the car. It feels like a very different kind of shift. And what it means to be a living entity on Earth. Are you afraid are you excited of this world?
+ 
+ I'm I'm afraid if there's a lot more. So I think maybe
+ 
+ Oriol Vinyals: we'll need to think about if we truly get there, just thinking of limited resources like, you know, humanity clearly hit some limits and then there's some balance hopefully that biologically, the planet is imposing, and we we should actually we try to get better at this as we know, there's quite a few you know, issues with having too many people existing in a resource limited way. So for digital entities is an interesting question. I think such a limit maybe should exist, but maybe it's going be imposed by energy availability because this also consumes energy. In fact, most systems are more inefficient than we are in terms of energy required. Correct.
+ 
+ Yeah. But definitely, I think as a society we'll need to just work together to find what would be reasonable in terms of growth or how we coexist exist if that is to to happen. I am very excited about obviously the aspects of automation that make people that obviously don't have access to certain resources or knowledge for them to have those that access. I think those are the applications in a way that most exciting to see and to personally work towards.
+ 
+ Lex Fridman: Yeah, there's going to be significant improvements in productivity and the quality of life. Across the whole population. Which is very interesting. But I'm looking far beyond us becoming a multi planetary species. And just as a quick bet last question.
+ 
+ Do you think as humans become all species go outside our solar system, all that kind of stuff. Do you think there be more humans or more robots in that future world. So will humans be the quirky intelligent being of the past or is there something deeply fundamental to human intelligence that's truly special? Where we we will be part of those other planets, not just Ai systems. I think
+ 
+ Oriol Vinyals: we'll we'll all excited to build Ag to empower or make us more powerful as human species. Not to say there might be some hybrid prioritization. I mean, this is obviously speculation, but there are companies also trying to the same way Medicine is making us better, Maybe there are other things that are yet to happen on that But if the ratio is not at most one to one, I would not be happy. So I would hope that we are part of the equation, but maybe there's maybe a one to one ratio feels like possible constructive and so on, but it would not be good to have a miss balance at least from my core beliefs and the why I'm doing what I'm doing when I go to work and I reset what I researched.
+ 
+ Lex Fridman: Well, this is how I know you're human, and this is how you've passed the touring test. And you are one of the special humans ariel, is huge honor that you would talk with me, and I hope we get the chance to speak again, maybe once before the singularity once after and see how our view of the world changes. Thank you again for talking today. Thank you for the amazing work you do here. Shining example of a research a human being in this community.
+ 
+ Thanks
+ 
+ Oriol Vinyals: a lot yeah. Looking forward to before the singularity starts and maybe after. Thanks for listening this conversation with Ariel. To support
+ 
+ Lex Fridman: this podcast. Please check out our sponsors in the description. And now let me leave you some words from alan turing. Those who can imagine anything can create the impossible Thank you for listening, and hope to see you next time.

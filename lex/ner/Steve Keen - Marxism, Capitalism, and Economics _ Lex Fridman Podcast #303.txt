@@ -1,0 +1,314 @@
+PERSON Marks 
+PERSON Man 
+PERSON Steve Keen 
+PERSON Karl marx 
+PERSON John Maynard 
+PERSON Ham 
+PERSON minsk 
+PERSON karl marx 
+PERSON karl marx 
+DATE many years 
+PERSON Steve Kain 
+PERSON Tim Ga 
+PERSON Adam 
+PERSON Smith 
+PERSON Smith 
+PERSON Smith 
+TIME two hours 
+TIME two minutes 
+TIME sixty times as much 
+PERSON marx 
+PERSON Marx 
+DATE one hundred and fifty years later 
+DATE the first few weeks 
+ORG Microsoft 
+PERSON kain 
+PERSON Adam Smith 
+PERSON joseph Sean pe 
+PERSON Mackenzie 
+DATE the eighteen 
+PERSON Meng 
+PERSON Vol 
+PERSON Vol 
+PERSON Evans 
+PERSON Gave Marshall 
+PERSON Meng 
+PERSON Sean pe 
+PERSON Steven 
+PERSON Sean pe 
+PERSON Sean peters 
+DATE the fifteen hundreds 
+PERSON Elon 
+DATE thirty five years ago 
+TIME the past minute 
+DATE May 
+ORG the Federal reserve 
+PERSON gust 
+PERSON gust 
+PERSON Bard 
+PERSON Karl marx 
+PERSON Marx 
+PERSON Marx 
+PERSON Marks 
+PERSON Marx 
+PERSON Marx 
+ORG Sydney University 
+ORG the political political economy movement 
+ORG Sydney University 
+PERSON red karl marx 
+ORG the university of sydney 
+PERSON Karl marx 
+PERSON marx 
+PERSON Mark 
+PERSON Marx 
+DATE eighteen forty four 
+PERSON Mark 
+PERSON Jane 
+TIME about twenty minutes 
+MONEY two dollar 
+PERSON Marx 
+PERSON Mark 
+PERSON Marx 
+PERSON Marx 
+PERSON Marx 
+TIME six hours 
+TIME twelve hours 
+TIME Twelve minus six 
+PERSON Marx 
+PERSON marx 
+PERSON Marx 
+PERSON Marx 
+PERSON Marx 
+PERSON Karl Marx 
+DATE the eight eighteen fifty seven 
+PERSON Marx 
+PERSON Marx 
+PERSON Thompson 
+PERSON thompson 
+PERSON Ricardo 
+PERSON Ricardo 
+PERSON h 
+DATE thirteen years 
+DATE forty four 
+PERSON Karl Marx 
+PERSON Carl 
+PERSON Marx 
+ORG sydney university 
+PERSON Marx 
+PERSON Jeff 
+PERSON Jeff 
+PERSON marx 
+PERSON marx 
+PERSON Gall 
+PERSON Marx 
+PERSON Marx 
+PERSON Gu 
+PERSON Max 
+PERSON marx 
+PERSON Ricardo 
+PERSON Smith 
+TIME a hundred hours 
+DATE post eighteen fifty seven 
+MONEY a hundred bucks 
+MONEY a hundred bucks 
+TIME six hours 
+TIME six hours 
+DATE a twelve hour day 
+TIME the six hours 
+PERSON marx 
+DATE eighteen fifty seven 
+PERSON Marx 
+PERSON Marx 
+ORG Cadbury 
+PERSON Mark 
+PERSON Jeff Bezos 
+LOC Americas 
+LOC Europe 
+PERSON Y Ko 
+PERSON Ko 
+PERSON Marx 
+PERSON Mark 
+PERSON Man 
+PERSON Y Jan 
+DATE year 
+DATE last year's 
+DATE last year 
+MONEY about three thousand dollars 
+MONEY The six hundred and fifty dollars 
+MONEY One dollar 
+DATE forty two 
+PERSON Steve Mcqueen 
+DATE thirty years 
+ORG Kawasaki 
+PERSON Jon Corn 
+PERSON Christian 
+ORG the United Nations 
+PERSON Marx 
+PERSON Felt 
+EVENT the first world war 
+PERSON Marx 
+LOC Earth 
+PERSON Musk 
+PERSON Ricardo 
+PERSON Ricardo 
+LOC Mars 
+PERSON Marks 
+PERSON Hiv 
+PERSON the karl marx 
+DATE twentieth century 
+PERSON karl 
+PERSON Ham Min 
+PERSON Ham minsk 
+PERSON Joseph Sc pe 
+PERSON Marx 
+EVENT the second world war 
+DATE the lady fifties 
+DATE mid eighties late eighties 
+TIME the seminar hour 
+TIME monday day 
+PERSON Karl marx stalin 
+PERSON Karl marx 
+PERSON Karl marx 
+PERSON marx 
+PERSON marx 
+PERSON Donald ko 
+ORG goodyear 
+DATE ten years 
+PERSON Stalin 
+DATE about eight years ago 
+PERSON Ko 
+PERSON michael mouse 
+PERSON Michael Michael M 
+PERSON Ana 
+DATE three days 
+PERSON Brian 
+PERSON Mao 
+DATE five years 
+MONEY two dollars 
+MONEY two cents 
+PERSON Go 
+DATE today 
+DATE about four years 
+DATE the six years 
+DATE the previous year 
+PERSON George 
+PERSON Naught 
+PERSON Mao 
+DATE about two thousand and six 
+ORG the Chinese Communist Party 
+PERSON abbot 
+PERSON Malcolm 
+DATE the twentieth century 
+PERSON Andy Franchise 
+PERSON william North house 
+ORG the American economic Association 
+TIME evening 
+DATE a last million years 
+DATE about twelve thousand years 
+LOC Europe 
+ORG Oecd 
+DATE last year 
+LOC Atlantic 
+LOC the North Atlantic 
+LOC Gulf stream 
+PERSON Richard 
+DATE fifty years 
+DATE twenty twenty one 
+LOC Europe 
+DATE these days 
+DATE Forty, fifty years ago 
+LOC Siberia 
+LOC Tundra 
+DATE years 
+DATE decades 
+DATE centuries 
+PERSON Paul Air 
+DATE seventeenth century 
+EVENT the Arab spring of the walls 
+EVENT the second world war 
+PERSON Marx 
+PERSON Ginsburg 
+PERSON Alan Gin 
+PERSON Smith 
+DATE two hundred years 
+DATE the last two and fifty years 
+PERSON Mu 
+PERSON Bezos 
+PERSON marvin 
+PERSON marvin 
+PERSON Steve Keen 
+PERSON Russell Stand 
+PERSON Bud 
+PERSON Forrest 
+DATE the fifties 
+PERSON forrest 
+DATE decades 
+ORG minsk 
+DATE nineteen ninety two 
+DATE twelve years old 
+PERSON Guy richard 
+PERSON Mh 
+DATE sixty seven 
+PERSON Mocks 
+PERSON Henry 
+PERSON Marx 
+PERSON Marx 
+PERSON Mark 
+PERSON John 
+ORG New South wales University 
+DATE this nineteen eighty two 
+DATE ninety five 
+DATE nineteen ninety three 
+DATE ninety five 
+PERSON Paul K 
+PERSON Paul 
+ORG the Bank of England 
+DATE two thousand and fourteen 
+DATE twenty nineteen 
+DATE two thousand 
+EVENT the second world war 
+DATE two thousand and seven 
+DATE two thousand six 
+DATE two thousand and eight 
+PERSON Kane 
+TIME one hour 
+PERSON irving fisher 
+MONEY a hundred thousand dollars 
+MONEY million dollars 
+DATE twenty nine 
+DATE two thousand seven 
+DATE two thousand and seven 
+DATE the knot twenties 
+PERSON Calvin Coolidge 
+DATE the nineteen twenties 
+DATE the beginning of the nineteen twenties 
+DATE March 
+PERSON Karl marx 
+PERSON Josh 
+DATE eight years 
+DATE centuries 
+DATE the next twenty to fifty years 
+PERSON Kenneth bowling 
+PERSON Marx 
+LOC the asteroid belt 
+PERSON Ernest becker 
+DATE about twenty eight 
+TIME one night 
+DATE about a decade 
+PERSON Steve 
+DATE the next week 
+PERSON Steve 
+DATE two thousand and nine 
+DATE all day 
+ORG Cartel 
+DATE millions of years 
+DATE ten thousand years 
+LOC Earth 
+PERSON oxford 
+PERSON Jenny von 
+PERSON jennings 
+PERSON jenny 
+PERSON Jenny 
+PERSON Ben bernard 
+PERSON Steve Keen 
+PERSON karl marx 

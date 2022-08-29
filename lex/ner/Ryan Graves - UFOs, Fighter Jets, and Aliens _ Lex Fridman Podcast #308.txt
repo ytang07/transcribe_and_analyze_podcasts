@@ -1,0 +1,104 @@
+LOC the East Coast 
+PERSON Ryan Graves 
+ORG Navy 
+LOC Quadrant 
+PERSON Ryan 
+ORG Wpa 
+PERSON Ryan 
+PERSON Grace 
+PERSON Tom Cruise 
+TIME A millisecond 
+EVENT the world war two 
+ORG Lockheed Martin 
+PERSON Tom Cruise 
+PERSON Tom Cruise 
+PERSON chuck Norris 
+ORG Navy 
+DATE the day 
+TIME that hour 
+ORG Navy 
+LOC the Middle East 
+ORG Navy 
+DATE two thousand nine 
+ORG Navy 
+ORG Navy 
+DATE about two months later 
+DATE about three months 
+TIME a few milliseconds 
+TIME a split second 
+ORG Lockheed Martin 
+LOC Mars 
+LOC Mars 
+DATE five years ago 
+LOC Mars 
+DATE this last century 
+LOC mars 
+LOC Mars 
+LOC Earth 
+LOC Mars 
+LOC mars 
+PERSON Gordon 
+DATE nineteen eighteen 
+DATE the same day 
+DATE a zero wind day 
+PERSON John 
+PERSON Dji 
+TIME a second 
+LOC Eastern Sea 
+DATE many years 
+DATE many months 
+LOC the East Coast 
+PERSON Roosevelt 
+PERSON the David F 
+LOC the East coast 
+TIME hours 
+LOC the East coast 
+ORG the American Institute aero and astro 
+PERSON Andre Carson 
+ORG Congress 
+ORG Navy 
+ORG Pentagon 
+PERSON Sean 
+PERSON patrick 
+PERSON Evan 
+PERSON Sp 
+ORG Nasa 
+ORG Pentagon 
+ORG Navy 
+DATE six weeks 
+DATE about eight months ago 
+LOC East Coast 
+ORG Dod 
+PERSON David Favor 
+PERSON Dave 
+DATE a month 
+PERSON God 
+ORG Dod 
+ORG Dod 
+ORG Pentagon 
+PERSON Gimbal 
+TIME five or six seconds 
+TIME a few seconds 
+ORG pentagon 
+PERSON Midwest 
+DATE the past next years 
+DATE the next few centuries 
+DATE the twentieth century 
+PERSON Jenna 
+DATE the next quarter 
+LOC Earth 
+LOC Mars 
+LOC Mars 
+DATE thousands or millions of years 
+ORG Air force 
+ORG Plc 
+DATE ten years 
+PERSON Putin 
+MONEY hundred million dollar 
+PERSON gen khan 
+ORG Navy 
+ORG Navy 
+PERSON Dan 
+DATE today 
+PERSON Ryan Graves 
+PERSON Bo 

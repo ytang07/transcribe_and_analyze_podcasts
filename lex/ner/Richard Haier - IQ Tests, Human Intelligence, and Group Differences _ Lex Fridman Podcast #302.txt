@@ -1,0 +1,111 @@
+PERSON Richard Hire 
+PERSON Richard Higher 
+PERSON Charles Sp 
+PERSON marie 
+PERSON Musa 
+DATE the nineteen thirties 
+DATE age eleven 
+ORG the university of Edinburgh 
+DATE today 
+DATE age eleven 
+DATE seventy years later 
+DATE seventy years later 
+PERSON Lincoln 
+DATE that day 
+PERSON Judy 
+PERSON michael M 
+DATE the twenty century 
+PERSON Hitler 
+PERSON hitler 
+DATE a couple of decades ago 
+ORG Netflix 
+DATE nineteen ninety four 
+PERSON Richard Tu 
+PERSON Charles Murray 
+PERSON Charles Murray 
+PERSON murray 
+PERSON Murray 
+DATE nineteen sixty nine 
+PERSON Arthur Jensen 
+PERSON Arthur Jensen 
+ORG uc Berkeley 
+DATE nineteen sixty nine 
+DATE sixty eight 
+ORG Harvard 
+PERSON Jensen 
+PERSON Jensen 
+PERSON Jensen 
+DATE nineteen sixty nine 
+ORG the American psychological Association 
+PERSON jensen 
+PERSON Jensen 
+ORG White House 
+DATE twenty five years later 
+DATE Twenty five years later 
+PERSON Murray 
+TIME late at night 
+PERSON Jensen 
+TIME five seconds 
+TIME thirty seconds 
+PERSON Justin 
+ORG intelligence 
+DATE today 
+ORG Bbc 
+TIME a second 
+PERSON Coleman 
+ORG the Gates foundation 
+PERSON Steel 
+DATE nineteen eighty five 
+DATE nineteen eighty four 
+PERSON Hitler 
+PERSON Hitler 
+PERSON Murray 
+PERSON Marie 
+DATE the last couple of years 
+PERSON nobel 
+DATE fifty years 
+DATE the twenty century 
+PERSON Jordan Peterson 
+ORG Mit 
+ORG Johns Hopkins 
+DATE age eleven 
+DATE twelve 
+DATE twelve years old 
+ORG Hopkins 
+PERSON Gene 
+DATE fifty year 
+DATE age twelve 
+PERSON Johnny Depp 
+PERSON James Flynn 
+DATE about about a year ago 
+DATE fifty years ago 
+DATE Today 
+DATE a couple of decades ago 
+PERSON James Flynn 
+PERSON Flynn 
+DATE nineteen forty 
+DATE today 
+DATE decades 
+DATE the first few months 
+DATE nine months 
+DATE the few months 
+PERSON Jensen 
+DATE decades 
+DATE fifty years 
+DATE fifty or sixty years 
+DATE fifty years 
+TIME the first nano seconds 
+TIME the first nano seconds 
+PERSON mike A 
+PERSON Mike 
+DATE a few centuries 
+PERSON alan turing 
+ORG Apple 
+PERSON Fran Lay 
+ORG Google 
+ORG Amazon 
+ORG Neural link 
+PERSON Richard 
+TIME another many hours 
+PERSON Richard Hire 
+PERSON Albert Einstein 

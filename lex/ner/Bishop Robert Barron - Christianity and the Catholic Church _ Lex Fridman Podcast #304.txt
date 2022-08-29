@@ -1,0 +1,154 @@
+PERSON Robert Baron 
+ORG Christianity 
+PERSON Robert Barron 
+PERSON God 
+PERSON Thomas 
+PERSON God 
+PERSON God 
+PERSON Bert Russell 
+LOC Earth 
+LOC Mars 
+PERSON God 
+PERSON Paul Till 
+PERSON God 
+PERSON Moses 
+PERSON tolkien 
+PERSON Tolkien 
+PERSON Tolkien 
+PERSON Augustine 
+PERSON God 
+PERSON Ali 
+ORG Christianity 
+PERSON God 
+ORG Christianity 
+PERSON God 
+ORG reddit 
+ORG Christianity 
+DATE our modern day 
+DATE today 
+PERSON Dante 
+PERSON Barren 
+PERSON Dante 
+PERSON Dante 
+PERSON Satan 
+PERSON Satan 
+PERSON Michael 
+PERSON Mic 
+PERSON God 
+PERSON Dante Satan 
+PERSON Burner 
+PERSON Envy 
+PERSON Envy 
+DATE today 
+MONEY three dollars 
+PERSON god 
+PERSON ir 
+PERSON Theresa 
+DATE valentine's day 
+TIME Several minutes ago 
+PERSON Johan Ad Mueller 
+DATE nineteenth century 
+PERSON God 
+PERSON John Lennon 
+PERSON Bla 
+PERSON Peter Damien 
+DATE the eleventh century 
+DATE the last thirty years 
+DATE two thousand two 
+DATE several days 
+PERSON Solve 
+PERSON Andrew g 
+PERSON Andy 
+PERSON Job 
+PERSON Dos 
+PERSON Yvonne 
+PERSON dos 
+PERSON Job 
+PERSON Thomas 
+PERSON Stephen Fry 
+PERSON Job 
+PERSON Stalin 
+PERSON Stalin 
+DATE the twentieth century 
+DATE the twentieth century 
+PERSON Stalin 
+PERSON Steven Fry 
+DATE four year old 
+DATE three year old 
+TIME one night 
+DATE twenty seven year old 
+PERSON Steven Fry 
+PERSON Ivan yvonne 
+DATE the ian eons 
+PERSON Thomas Ac 
+PERSON Christopher Hitch 
+PERSON Plato 
+PERSON Plato 
+PERSON Vi 
+PERSON Aristotle 
+PERSON Plato 
+PERSON Eugene Victor 
+PERSON God 
+PERSON Jordan Peterson 
+PERSON Peterson 
+PERSON Jesus 
+PERSON Jesus 
+PERSON Jesus 
+PERSON Jesus 
+PERSON Jesus 
+ORG Christianity 
+ORG Christianity 
+PERSON Carl Jung 
+PERSON Joseph Campbell 
+PERSON Jordan Peterson 
+PERSON Hitler 
+PERSON Nazi 
+PERSON Hitler 
+DATE the Easter season 
+PERSON spielberg 
+PERSON Paul 
+PERSON Paul 
+ORG Christianity 
+PERSON Thomas 
+PERSON Plato 
+PERSON Aristotle 
+DATE the twentieth century 
+PERSON God 
+DATE the twentieth century 
+PERSON Jordan Peterson 
+PERSON God 
+DATE the twentieth century 
+LOC earth 
+PERSON Aristotle 
+TIME five fifteen 
+TIME fifteen minute 
+MONEY fifty thousand dollars 
+TIME fifteen minutes 
+TIME five fifteen 
+PERSON Jordan Peterson 
+PERSON Dave Rubin 
+PERSON God 
+PERSON Aristotle Thomas 
+ORG uni 
+DATE today 
+ORG the Supreme court 
+PERSON Ro Wade 
+PERSON Casey 
+PERSON Casey 
+PERSON Casey 
+PERSON Casey 
+PERSON William 
+PERSON Louis 
+PERSON nietzsche 
+PERSON John polk Horns 
+PERSON John tolkien 
+ORG Cambridge University 
+ORG Cambridge 
+PERSON Bobby Baron 
+LOC Earth 
+PERSON God 
+PERSON Robert Baron 
+PERSON Robert Barron 
+PERSON Dusty 
+PERSON Prince Mis 
+PERSON Robert 

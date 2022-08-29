@@ -1,0 +1,141 @@
+PERSON Joe Rogan 
+DATE three hundred 
+DATE the fourth of July 
+PERSON Joe broken 
+PERSON Charles B 
+PERSON Cameron Hai 
+TIME four o'clock in the morning 
+LOC Earth 
+PERSON a David Go 
+PERSON thompson 
+DATE January 
+PERSON andrew Hu 
+ORG Cnn 
+PERSON Steven Cog canada 
+DATE nineteen late nineteen twenties 
+EVENT World war one 
+EVENT the two world wars 
+DATE the twentieth century 
+DATE the beginning of the twentieth century 
+DATE Nine eleven 
+DATE nine eleven 
+PERSON Trump 
+PERSON Trump 
+PERSON Biden 
+PERSON Donald Trump 
+PERSON Kanye 
+PERSON Kanye 
+PERSON Alex Jones 
+PERSON Alex Jones 
+PERSON Epstein 
+PERSON Clinton 
+PERSON clinton 
+PERSON Elon musk 
+PERSON Alex Jones 
+PERSON donald trump 
+PERSON Alex Jones 
+PERSON Trump 
+PERSON Trump 
+PERSON Chris Wall 
+DATE two thousand sixteen 
+PERSON clint 
+PERSON Trump 
+PERSON Hunter Biden 
+PERSON Bob 
+PERSON Bob 
+DATE thirty plus years 
+ORG Nasa 
+PERSON Neil d Tyson 
+PERSON Sean Carroll 
+ORG Lockheed Martin 
+ORG Pentagon 
+ORG Nasa 
+ORG New york Times 
+ORG Pentagon 
+PERSON Jack Barr 
+PERSON Bob 
+PERSON Bob 
+PERSON George Nap 
+PERSON Joe rogan 
+ORG cia 
+ORG Cia 
+PERSON Mike baker 
+PERSON Ari 
+PERSON Shane gill 
+PERSON Shane 
+PERSON Marc Norman 
+PERSON Mitch 
+PERSON Norm 
+PERSON Lenny Bruce 
+PERSON Lenny Bruce 
+PERSON whitney cummings 
+PERSON Lenny Bruce 
+DATE nineteen sixty three 
+DATE nineteen sixty three 
+DATE nineteen sixty three 
+DATE today 
+PERSON D Lawrence 
+PERSON Lenny Bruce 
+PERSON Lenny Bruce 
+PERSON richard prior 
+PERSON richard Prior 
+DATE fifteen years old 
+LOC Sunset 
+PERSON Richard p 
+PERSON Una 
+TIME Night 
+TIME night 
+PERSON Dan Cook 
+DATE twenty one 
+PERSON donald trump 
+TIME one five five minute 
+TIME five minutes 
+PERSON Steven Wright 
+LOC the Le free Neighborhood 
+LOC Earth 
+PERSON Shane gill 
+TIME one minute 
+DATE eighty 
+DATE twenty 
+PERSON Tim Dillon 
+PERSON Tim Dillon 
+DATE five 
+PERSON A Wolverine 
+PERSON Wolverine 
+PERSON Wolverine 
+PERSON Lenny Bruce 
+DATE the nineteen seventy 
+DATE nineteen seventy two 
+PERSON carl Young 
+DATE today 
+DATE fifties 
+DATE nineties 
+DATE fifties 
+PERSON David Go 
+PERSON David Go 
+DATE seventy 
+PERSON David 
+DATE your fifties 
+DATE ninety years old 
+DATE a month 
+DATE seventies 
+DATE sixties 
+PERSON Stephen hawking 
+PERSON Alex Jones 
+PERSON Putin 
+PERSON Putin 
+PERSON Hillary Clinton 
+PERSON Trump 
+PERSON Putin 
+PERSON Putin 
+DATE forty eight years 
+DATE every four years 
+DATE eight years 
+PERSON Putin 
+PERSON stalin 
+PERSON Stalin 
+PERSON putin 
+DATE twenty years 
+PERSON Hope 
+PERSON Joe Rogan 
+PERSON Joe 

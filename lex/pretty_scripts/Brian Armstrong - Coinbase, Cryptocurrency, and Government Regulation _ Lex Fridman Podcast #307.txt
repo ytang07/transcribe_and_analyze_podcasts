@@ -1,0 +1,1318 @@
+
+ Lex Fridman: the following is a conversation with Brian Armstrong, C founder and Ceo of Coinbase, the largest cryptocurrency exchange platform with ninety eight million users in one hundred countries, listing Bitcoin, Ethereum, Card, and over one hundred popular cryptocurrencies. I recorded this conversation with Brian before this week's Sec probe into whether some of the crypto listings, or securities, and thus need to be regulated as such. As always, with conversations that involve crypto cryptocurrency, I try to make it timeless. So that the price soaring high or crashing down low doesn't distract from the fundamental technological economic social and stuff ideas underlying this new form of money, energy and information. Our world runs on money.
+ 
+ The exchange and store of value. And cryptocurrency seeks to build the next chapter of how money works and what it can do. Coinbase and Brian are trying to do this by working together with regulators and governments, which is a long and difficult road. Bureau bureaucracy resist change for better and for worse. The latest Probe is a good representation of this.
+ 
+ It is a serious attempt to limit fraud, but one that also runs the risk of limiting innovation and limiting financial freedom of individuals. This is a complicated mess, and I applaud everyone involved for trying to work through it. I hope in the end, the interest of the individual wins. Decent after all is a hedge against the corrupting nature of centralized power. This is a large frequent podcast to support it Please check out our sponsors in the description.
+ 
+ And now dear friends here's Brian are armstrong. Let's start with the fact that you're a programmer. What was
+ 
+ Lex Fridman: the first program you've ever written? Or the first one you that you remember?
+ 
+ Brian Armstrong: The first memory I have of programming was probably in middle school, and I remember it was recess and they had this, like, this time period where you could read books, and the other kids were like, reading comic books and stuff. And for some reason I had gotten into side yet, I wanted to get into computers, and I was playing to computers at home. And so I got this book. I think from the library, it was called like, how to learn java in thirty days. So I was I was reading this book at, like, you know, the recess.
+ 
+ And I didn't understand anything. And I remember I went home and I tried to get this thing working. And, you know, the if you ever written a java program, the first lines are, like, public static void main string org or whatever and it's just like it's so foreign and it's so difficult to get started. And so I was kind of frustrated. I was like, I don't understand anything that's happening in this book.
+ 
+ So the first The first thing I wrote was probably just like a hello world app in Java. But it was so... I feel like I was so confused about was actually happening that I later learned a bit of Ph and P p was like, more fun for me because it was like, oh, just print out what you want. You know it didn't have all this complexity around it. So then I got more into Ph p.
+ 
+ I started building, like some simple websites. I think learned some Html. So I think that was my introduction of programming, at least the very beginning part.
+ 
+ Lex Fridman: Yeah. You know, Java has a lot of Out of all the hello worlds it could possibly write. Java is the one where I think it's the longest. Yeah. Just quite think because java is often at least for a long time was used as the primary programming language to teach people how to program or at least about object oriented programming.
+ 
+ I think most universities are not switched and high school switch to python. Mh. I'm not sure if that's the case.
+ 
+ Brian Armstrong: Probably better. It's easier to learn. And lowers the... Makes less scary. It it's like less of a hurdle.
+ 
+ Lex Fridman: And certainly none of the use Ph p. I love Pastry, and I feel like it's a dirty secret. I have to keep private it to myself, like, if somebody else seeing on the side or something like that because it's just not a respect programming language because I think there's so many ways you can write poor code with Ph. Yeah. Is why it's not respected.
+ 
+ Brian Armstrong: Yeah. It's a scripting language more so although, of course, Facebook built like a huge stack on top of an invaluable company, but I still love Ruby to this day, Ruby is probably my favorite language. Python great too, but I I just love yeah idea behind Ruby that it's like Let's make it easier for the human harder for the computer and make it a joy to be expressive and all these things. So I was under the best computer scientist this, but I I was a good... I was good hack, I could rapidly prototype products and using languages like Ruby, do a lot of computer science programs still use, like, lisp and scheme and things
+ 
+ Lex Fridman: like that? No. No. They do for... That's like that's if you're hardcore.
+ 
+ If you're legit, you're gonna do some of the functional languages.
+ 
+ Brian Armstrong: Yeah.
+ 
+ Lex Fridman: I think there's there's a few others that popped up, but lisp is a distant memory for a lot of people. That's like, somebody used to, like you go to Library. You dust off the book.
+ 
+ Lex Fridman: Yeah.
+ 
+ Lex Fridman: But scheme a little bit. I think if you're starting... I mean, there's courses about languages themselves like programming languages. Yeah. List might be one of those know how there's languages that nobody uses anymore, like, ancient languages?
+ 
+ Yeah. You gonna have to go to school not same way for programming languages. Yeah. Back in the day, we used these parenthesis. I of course still use Max as the editor for most things that That i do and I max is is know a lot of the customization you could do is lisp.
+ 
+ Yeah. And that's the language probably when I first really fell in love with programming is lisp. Because for a long time throughout the earlier history of artificial intelligence lisp was the primary language, but it still had a life in the nineties and the arts where some people would use it. Yep. Such a beautiful functional language.
+ 
+ But just somehow didn't pick up. That said, I should say sort of push back piece I feel like it's still true that most of the web runs on Ph p, Most of the back still is still Ph b. So if you look at, you know, it's like, the stuff that people don't talk about. Like, what what runs most systems in the world? What runs most back end what runs most front end.
+ 
+ Yeah. Javascript you know,
+ 
+ Brian Armstrong: script. I think is the stack exchange surveys showed Javascript the most popular language the I think. Right?
+ 
+ Lex Fridman: Oh, yeah. In terms of programmers and numbers of... I wonder.
+ 
+ Brian Armstrong: By survey of number of programmers on Stack. Exactly over
+ 
+ Lex Fridman: oh. Yeah. But the the... That's also the cutting edge. Right?
+ 
+ Those are the people that are just like, excited, writing
+ 
+ Lex Fridman: coaster. I wonder if there's there's people that just like, maintaining gigantic code bases.
+ 
+ Brian Armstrong: Yeah. Feel like the amount of java out there just running industrial systems has gotta to be enormous. And then, of course, in the banking industry, finance, it's, like even older stuff, cobalt and whatnot. But I've been actually looking for somebody to interview who who represents cobalt.
+ 
+ Lex Fridman: Like, who's the figure still... Yeah. It's still there that holds the flag. I did, you know, with java a founder of java, a creator of Java, creative a Python greater c plus plus, but nobody wants to hold the flag for cobalt. Unfortunately, even though some of the most important systems in the world still run on those.
+ 
+ Yeah. Like, power systems and infrastructure. Systems. It's just fascinating thing, which and and Atms and stuff like that. Like, a lot of stuff that we rely on.
+ 
+ It just works. And the reason we don't change it because it works well.
+ 
+ Brian Armstrong: Yes.
+ 
+ Lex Fridman: Written which the people don't use anymore.
+ 
+ Brian Armstrong: Yeah. That be a cool series interview interviews get... Get the stuff that tech was invented. Forty fifty years ago. But still is being used why...
+ 
+ I mean, Max, this example of that. Let me ask the big question of
+ 
+ Lex Fridman: what are cryptocurrency exchanges and what's coinbase base? How does it work? Before I'll I'll ask even bigger questions, but it's just a nice kinda pallet cleansing question of what is coinbase base?
+ 
+ Brian Armstrong: Coinbase is a cryptocurrency exchange brokerage, custodian, basically, we're the primary financial account for people in the crypto economy how they buy crypto how they store it how they use it increasingly in different ways, we can talk about that. So, yeah, we wanna be the way that a billion people hopefully access the open financial system globally.
+ 
+ Lex Fridman: How does it work? What what's cryptocurrency? You know, there's there's bitcoin. There's it theory. What does it mean to be an exchange?
+ 
+ What does mean the store? What does it mean transact? How does it... What this coinbase base actually do.
+ 
+ Brian Armstrong: Okay. So, you know, basically, in any given market, there's some people wanna buy some people who wanna sell and there's you keep an order book of all those prices. And then, you know, if someone's willing to buy for more than the lowest price, someone's was willing to sell then, you get a trade to execute. That's kinda of how an exchange works underneath. And the brokerage is kinda simpler than that even.
+ 
+ You don't have to know look at the whole order book and everything. But just go in there and you say, I wanna buy hundred dollars of bitcoin or whatever cryptocurrency, you get a quote. And if you like it, you can hit accept. And, you know, the the core things that we do to make all that kind of just work, make it seamless. It sounds simple in the surface is we gotta we have to do payment integrations know, in a variety places around the world to make it easy people to get fiat currency into this ecosystem.
+ 
+ We have to work on cyber cybersecurity a lot. There's lots of hackers out there trying to break into our systems and steal crypto or to put stolen credit cards and bank accounts, things like that into these systems. We have to integrate with the blockchain themselves, right, which are periodically getting updated and having various air drops and all kinds of things. So we're integrated with lots of different blockchain. And then we have to store the crypto that people buy securely as well.
+ 
+ So Crypto is kinda like storing you store the private keys, essentially. And we've invented a lot of cool technology about how to do that securely. That helps me sleep at night as one of the largest crypto custodian out there. So those are some of the pieces that had to come together to get that early simple buy cell experience to work. And...
+ 
+ Yeah. I mean Coinbase based actually has a lot of different products now. So we have, like, an institutional product we we have Coinbase commerce, which is like, merchant payments, like, Stripe for Crypto. We've got a self custodial wallet, which we can talk about. There's all kinds of cool applications people building with web three and they can access it through that.
+ 
+ We just just launched an N t product. I gone down the list. We have we... So we're sort of, like a portfolio products now we're big enough where we can do multiple things. But, yeah, that the core thing we got started with and still the majority of our revenue today is people just wanna come in and buy.
+ 
+ So some crypto and we help them do that. Make it simple and easy to use.
+ 
+ Lex Fridman: I I'll ask you about wallet and f t is about... What is it called the stripe type,
+ 
+ Brian Armstrong: Coinbase commerce.
+ 
+ Lex Fridman: Columbia Commerce.
+ 
+ Brian Armstrong: Yeah.
+ 
+ Lex Fridman: I'll ask about all that. But order books and exchange... What's the difference gene that in stocks, for example, push also order books.
+ 
+ Brian Armstrong: I mean stocks trades through order books too. So the commodities.
+ 
+ Lex Fridman: This all similar type of situation. So when I wanna buy one bitcoin and I see coinbase base say, the price of that bitcoin is say, forty thousand dollars... And I press by what happens.
+ 
+ Brian Armstrong: Yeah. Okay. So you've got a clear a lot. Like you know, when you press the button your keyboard, like... The electrical signal goes up the wire on your keyboard now it was cut
+ 
+ Lex Fridman: that's also important the timing. Right? Because isn't that price.
+ 
+ Brian Armstrong: Yeah. It's true... It's giving you a quote. Right? That's that's know, some...
+ 
+ There's a whole concept like slippage and, like, by the time the quote is executed, if the price has moved too much, like, we may reject it and, you know, there's there's various things like that. But how do... I mean, what's the simple version I can give you. So we, you know, we'll we'll basically check the order book, give you a quote. The...
+ 
+ It's good for some period of time or for some amount of slippage. And then what's happening is we're initiating a debit to your payment method, whether that's a credit card or a bank count or you know, you're storing dollars a euros or something on our platform. There's various payment methods. So we're basically debit that. And then we're crediting you the crypto.
+ 
+ And we're taking a fee for it too. So that's fundamentally what's happening underneath
+ 
+ Lex Fridman: and then there's just some interesting slippage how do you... How do you calculate the how much slippage is allowed? Like, how do you how do you know these things? You know, because order books have fascinating the, you know, the dynamics of that is pretty interesting.
+ 
+ Lex Fridman: Yeah.
+ 
+ Lex Fridman: The little I know about it.
+ 
+ Brian Armstrong: Yeah. So there there's a lot of people like traders who get super into this and, like, high frequent administrators and arbitrage and all all kinds of interesting topics flash boys, was like an interesting book on this whole thing. You want, like, access information to the fastest, sometimes even putting your, you know, your thing in the data center right next to the thing. We we don't allow that c stuff because we want it to be more democrat. But, you know, basically, you give...
+ 
+ Let's say, we wanted to just keep it math simple. We wanna charge a one percent fee. So you're buying a hundred dollars of bitcoin and we'll charge you a hundred and one dollars, you know, we've presented you the the amount of bitcoin you're gonna get for the hundred dollars. Now let's say ten seconds later you hit accept we go to we go to fill the order. So it's gonna be some error bound around that one percent fee.
+ 
+ Right? And if we think we're
+ 
+ Lex Fridman: actually losing money on the trade, I think we'll often rejected it. So some part of the fee, the slippage is incorporated into that averaged over Yeah. A large number of people Just just... It's fascinating, because like even just like that little detail probably requires a lot of experimentation.
+ 
+ Brian Armstrong: Yeah. And it's kind of like a giant bug bounty out there because if you get it wrong, there's people who are gonna arbitrage that. And we we've had people sort of pen test our systems and, you know, really creative ways where,
+ 
+ Lex Fridman: like
+ 
+ Brian Armstrong: They'll just fire... Like, programmatic with Apis, they'll they'll fire off like, a million different quotes and look for one of them that's out of bounds and then actually take that money right there and, you know, we get people doing all kinds of crazy stuff. But
+ 
+ Lex Fridman: so how do you protect against that? How do you protect? We'll talk about cyber cybersecurity interesting ways, but there's a lot of clever people trying to do clever things to earn that even just to break into the system, but to earn an edge of some kind
+ 
+ Brian Armstrong: yeah in
+ 
+ Lex Fridman: the system. How do you har you stay one step ahead?
+ 
+ Brian Armstrong: There's no silver bullet there's a bunch of lead bullets. Right? So it's it's like... You know, one thing we do is we just have good test suites Right? So you're...
+ 
+ You're testing every piece of code that goes out. That's, like just common good best practice, but it's particularly important in financial services. Another thing we do is we hired third party firms to try to audit this stuff and break in. Another one we do is we have a bug bounty program. So we basically pay White hat hackers to find this stuff before the black hats do.
+ 
+ And we've paid out lots of good bug bounties. So you know, try all the above. And occasionally, don't get it right, and you lose some money, and then you fix it, and you keep going. So, yeah
+ 
+ Lex Fridman: let's talk about bit security a little bit more. Yeah. You mentioned using installing bank accounts.
+ 
+ Brian Armstrong: Yeah.
+ 
+ Lex Fridman: So that's another one. That's another interesting one. How do you protect against that?
+ 
+ Brian Armstrong: Okay. So fraud prevention, yeah, is a big topic. So one of the... There's a lot of things people do. But one of the things they do is that use machine learning.
+ 
+ Right? So you look at
+ 
+ Lex Fridman: to attack
+ 
+ Brian Armstrong: to protect against it. So what you wanna do is kind of build up a labeled dataset of all the different people who have turned out to be fraudulent and good good actors. And hopefully collect as much data as you can. And then you'll you know, you might feed hundreds or thousands of these factors into your machine learning model. And it'll come back with a risk score.
+ 
+ So, you know, an example of, like, the kinds of factors people create are put in there, you know, obviously, I don't wanna disclose too many of them because it's it's it's a cat mouse game but. Just kind of... I don't know relatively well known stuff might be. You know, you have device fingerprints. Right?
+ 
+ So, like, What kind of device are you on and what fonts do you have installed? A lot of people who are farming lots of these accounts. They're using emulator and, like, virtual machines and stuff. They're not like, you know, an average person on that device. And then you'll see sometimes, like, one of my favorite metrics we track for for this was called like, improbable travel velocity.
+ 
+ So we would... You we're tracking people's Ips. Right? And you might see someone who was one day in Austin, Texas and then, like, an hour later, they were in London. It's like, well, that's very improbable.
+ 
+ I mean, some people are using Vpn, so you gotta be careful with that because, like, there's legitimate people who use Vpn too, but If it's not possible for them, we've gotten on a plane gotten know that quickly, then that's usually there's, like, spoof a device or Ip. Sometimes those are interesting factors. But yeah. If you feed enough of these in, you will... Oh oh, yeah another fun one is, like, you know, real users will type their credit card like one number at a time.
+ 
+ Yeah. Scammers have a list of them and they'll just paste in a a whole number. So you can look at like, the the number of milliseconds between keys drugs. Like, there's all kinds of stuff people have come up with.
+ 
+ Lex Fridman: You need for travel loss City, you could probably incorporate Vpn too because it's probably a travel velocity for Vpn switching to. That's human like if you're using legitimately Vp vpn or something else. Yep. That that might be... There's like, legitimate use to.
+ 
+ Actually, you know, I feel embarrassed that I don't know this. Probably should. But the... I'm not a robot
+ 
+ Brian Armstrong: caption
+ 
+ Lex Fridman: thing? Capture thing. Yeah. That probably works in the same way. Yeah.
+ 
+ Like how do you move your mouse maybe or how the dynamics of the clicking totally? But how does That even work that well then? And why can't you be fake? I need to look into this because it's it's such a trivial capture. It feels like should be very crack.
+ 
+ And yet a lot of high security places use that. Yeah. That's really interesting.
+ 
+ Brian Armstrong: It's another cat mouse game. So I think they've... Yeah, but it's using a lot of similar signals like mouse movements, keys strokes, And then obviously, all the stuff that comes over the the wire with your browser. So like, what operating system what fonts, you know, what headers are being sent over and Yeah. There's actually...
+ 
+ There's an old website a camera remember was call it was kind like pan click or con or something. But it basically was, like, a proof of concept site that would just show you all the data that was kinda getting sent over with your your request. And, like, say that there's only one person in the world who has exact set of data. It's you. And so it's almost like a workaround a clever workaround to track somebody make identify a unique person even if, like, there wasn't there's a cookie involved or something.
+ 
+ Lex Fridman: Yeah. This is a fascinating world. Well we can't see anybody here in the dark and yet, you have a lot of signal you have to figure out who's a real person who's not. Who's a robot who's not? Yeah.
+ 
+ Let me step back. We're gonna jump around all over Right step back
+ 
+ Lex Fridman: why
+ 
+ Lex Fridman: I like your interviews. You get into, like, technical topics. So so just let's use bitcoin as a measure of time. You started coinbase based on Bitcoin was ten dollars. Yeah.
+ 
+ And you just mentioned an incredible system. With security, with transactions, everything is thought through. There's a lot going on, but what was version one? Back in those early days, the first part type of coinbase base. What did that look like?
+ 
+ Yeah. Like, what what did it take to write it to think through it and and make it work enough to at least make you believe that it's gonna work.
+ 
+ Brian Armstrong: Well, I definitely didn't know if was gonna work. I mean, it was kind of... I felt like I was just following my gut. So i mean, I was working at Airbnb. I was a software engineer there.
+ 
+ Project manager. I was working on some fraud prevention stuff for instance. And I read the bitcoin white paper in kinda of December of two thousand ten. I started going to some bitcoin meetups ups in the bay area. Met lots interesting people there, like, crazy people In arc, you know, like, really brilliant people all the above and so I started nights and weekends, trying to hack put together a prototype.
+ 
+ And my initial thought was... Well, you know, Sm p is a protocol that runs email. And you know, get is is a protocol for version Control that and but people made like gmail and github. They don't peep most people don't wanna run their own email server. Or even their own git server.
+ 
+ They just wanna, like, use a hosted thing that, you know, we'll do all the security and backups for them. So the thought in my head at that time was Bitcoin this new protocol. There's probably gonna be somebody who makes a hosted service that does all the security backups for you makes bitcoin as a protocol easy to use. So maybe I should maybe I should make like, I hosted bitcoin wallet or something. That that was my my...
+ 
+ It was a gonna make Gmail for bitcoin or something. And a bunch of people told me that was a bad idea. Like, bunch most of my smart friends who I told about it, They were like... Well, first of all, I don't really get what you're doing at all, like, that bitcoin sounds like a scam or something you got you've gotten involved in. But then other people who understood what Bitcoin was, told me that thought it was a dumb idea because they're like, dude, if you store all this bitcoin, you're just gonna get hacked.
+ 
+ Like, nobody... You know, why would you... Why would you do that? And so I... I I kinda had this thought like, you know what?
+ 
+ I'm not gonna go all in and like, make a store everyone's bitcoin. That would be too much right now. I have a job By have a day job. You know? But let me just make a prototype.
+ 
+ And I'll tell people this is like a beta thing like, don't put any real money in it and just see if there's interest. And if I feel like I'm onto something, maybe I'll go do this. A company. Because I did... I really wanted to be an entrepreneur at that time.
+ 
+ I was like, I was twenty nine. I was almost turning thirty and I was I always wanted to, like, start a company, but I was I was, you know, I wasn't yet. I was an employee at a company that was great. But so anyway, I had this prototype, I was hacking together nice and weekends. I actually wrote a whole bitcoin node in Ruby, which turned out to be a maybe a weird decision in hindsight, because Ruby wasn't the most performant language.
+ 
+ We've subsequently had to rebuild that many times, but Yeah. I had just hosted Bitcoin wallet and the thing that... I didn't have any users for it, by the way, I applied to y comb because I was like, maybe somebody there writes me a check, this will, like, make it feel like a real company. And I was trying to find... I was trying to find a c cofounder at that time unsuccessfully.
+ 
+ So I was basically just wandering in the desert. I had a lot of self doubt about this, because I I was like, I don't know all my friends don't... Things is kinda dumb and maybe Bitcoin is just gonna get shut down and like, this is all be some stupid thing. So there was definitely a feeling of just wandering lost in the desert lots of self doubt. Paul and and the Y Comb group kinda wrote me the first check after I went and interviewed and stuff, and they they wrote me a check for, like, a hundred and fifty k.
+ 
+ And that was the first time somebody who I really looked up to kind of said, this isn't this is worth pursuing. Like, maybe maybe you're on something maybe or not, but like, let's at least try it. And So I... That i was kinda gave me the confidence to quit my job and try it and I'll wrap the store here by saying that like, we you know, I I found the right cofounder after y comb. We still didn't have any customers.
+ 
+ The thing that, you know, I basically launched the hosted Bitcoin wallet. There were people signing up. I just posted on reddit and places like that. And, you know, maybe, like, a hundred people would sign up, and then nobody would come back. And so I was like, I just...
+ 
+ You in why comment do they often tell you, like, you know, talk to your customers improve your product. Talk to your customers and improve your product. That's all you're supposed to be doing. Try to find product market fit. So I emailed like, five of the users that had signed up.
+ 
+ And I was like, hey. I'm I worked on this app. I saw you signed up. Can I get on the phone with you? I get on the phone with, like, five of these folks.
+ 
+ And I was like, know, why didn't you come back and in the Guy was like, well, the app was okay for for a beta, but like, I don't have any bitcoin. So I didn't really know what to do with it. And I remember this light bulb kinda went off my head I was like, well, if I put a buy bitcoin button in there, would you have used it? And he was like, yeah, maybe. So then I had this...
+ 
+ We went about the process. My cofounder at that time. We like, got... They basically, you had to get like, a bank partnership payment rails, you know, exchange basically exchange functionality all that stuff I was mentioning earlier in place. In the minute we launched that feature where you could just click by put in your bank account or credit card buy by that bitcoin it showed in your account.
+ 
+ From that day forward, like, the number of users started to go up like this. And so we finally had found product market fit after two years of wandering in the desert.
+ 
+ Lex Fridman: So you weren't even thinking about to buy the on ramps. You would think it would be just the wall it will place the store because you you've already gotten Yeah. Okay. This is... I mean, because that's what you're pain to do to have to work with others to convert dollars of any fiat currency into into bitcoin.
+ 
+ Yeah. So did you... I mean, were you overwhelmed by the of the task here or will you just Sort of not allowing yourself to think too deeply through this whole thing and just letting the optimism take over here.
+ 
+ Brian Armstrong: You know, I was really looking forward to, like, doing something crazy and, like a big challenge. And I wanted to I I I love kind of crisis moments like that. Where, you know, I'm very determined. Right? Especially when I I get, like, very set on something.
+ 
+ I'm just like, you know what? I'm gonna figure out a way to make this fucking thing work. Like no matter what. And so I I revel in that. I I was sort of...
+ 
+ I had... I had read all these books about startups and like, every startup has these like, you know, major setbacks and just like, nothing works. And so because that was a sign that you're doing something right. I had no idea if I was doing anything right at all, but I was like, I was kinda loving the experience of it in a weird way it felt it felt stressful at the time, like, you know, nothing was working and... But I was just...
+ 
+ I felt like I was on the right path somehow. And so I just kept going. I don't know.
+ 
+ Lex Fridman: What was the darkest moment that you gone to in your mind during that time? What was what were some of the tougher moments? You said self doubt?
+ 
+ Brian Armstrong: Yeah.
+ 
+ Lex Fridman: I you... Yeah. Where where where'd did you go? Where'd you go in your mind? So is there a moment where you're just like, laying there.
+ 
+ This is this is hopeless. Well, there's
+ 
+ Brian Armstrong: a couple moments I'm remembering. I mean, so for whatever reason, I had this, like, big chip on my shoulder at that time and I was like, i really wanna do something important in the world. Like, you know, I can have a good life and like, work for some good companies and write some software, and I'm for some reason I never wanted that for myself. That probably wouldn't been healthier. Honestly, just like, that as an expected value outcome that's probably a better thing in life, but I was, like,
+ 
+ Lex Fridman: I
+ 
+ Brian Armstrong: was like, man I really wanna do something important and have a bigger impact. And I was like, I was willing to sacrifice a lot for that. I was, like, sleep and not going out with friends and stuff. I've remember one of the... Just for, like, years working on this stuff.
+ 
+ Remember, one of the darker moments was we probably had, like, maybe five employees at that time and I remember like, a bunch of bad things happened, like, all at once, and it was... So first of all, you have to remember at this time, we were all very sleep deprived, which kind of exacerbate everything. If you look at like, the Exxon Val spell spill and all these, like, natural disasters like sleep deprivation often involved So... Because the reason why we still sleep deprived, is not just because we're working so much, but, like, the site would go offline in middle of the night we'd get... I get page.
+ 
+ I was, like, on pager duties. So I get woken up sometimes, like, two or three times a night, like, have to try to fix something go back to sleep. So in that environment, you can kinda get... You can get discouraged. So one bad thing that happened was we had a bug on the website and there was thousands of people on reddit and Twitter who were all like, pissed at Coinbase because like the balances were showing wrong.
+ 
+ And they were just like, you know, fuck this company. It's over, like, I hate these guys. And so that was... I'd never had this feeling of a thousand people mad at me. Same time.
+ 
+ You know? I felt like I'm pretty chill guy. Like, most time people don't get mad at me. So that was one. Another one was that who boss on that.
+ 
+ That's so interesting
+ 
+ Lex Fridman: thing. So you you were saying like, here's a dream. I'm trying to create something and now forever... The reputation of this dream is ruined. I will never...
+ 
+ It's a recoverable. It's over that kind of feeling.
+ 
+ Brian Armstrong: Yeah. Well, I didn't... You're right. I didn't know at that time I was like. Is this is this the end?
+ 
+ Like
+ 
+ Lex Fridman: this what the everybody
+ 
+ Brian Armstrong: like we're so we're so tiny now hates us. So is it over? Yeah. Yeah Nobody told me this before starting a company that, like your bunch of people will hate you for this, which is like a very counter thing because you know, if... Most companies I think are doing good things in the world list you're trying.
+ 
+ Right? And so even if someone's, like, trying, but they're not they're failing. I'm generally rooting for them least are trying right. But that's not the case at all. And most founders I've known have gone through this too where they're very surprised at the amount of hate that they get.
+ 
+ And if it's... I think it's actually like a muscle you can build your your tolerance to it. Like, because, you know, you go talk to somebody who's like, for you, it feels terrible because you're at the center of this storm and, like, But if you go... Then you go talk to, like, you know, your your family or some other person like, dude I need... I didn't even hear about that.
+ 
+ Like my they're just busy in their own life. And so they they have no idea that you had all this negative press or, like, whatever it was. Can I...
+ 
+ Lex Fridman: Once again put linger on that.
+ 
+ Brian Armstrong: Yeah.
+ 
+ Lex Fridman: There's an interesting person like to bring up just as an example, bill gates. Yeah. So he gets a very large amount of hate on the Internet. Yeah. And there's something about him.
+ 
+ This is me talking that you that that he seems out of touch about that hate. He... I I believe at least in my understanding, they with the with the resources he has, he's trying and he's actually doing a lot of good. And yet, there's a gigantic amount of hate conspiracy theories and stuff like that. Right.
+ 
+ And it feels like that's the case because he's somehow out of touch with with people. So I wonder how you stay in touch with the voice of the people without being destroyed by the outrage. Is there is there any wisdom you have to that or or...
+ 
+ Brian Armstrong: I don't know about wisdom, but I've thought about this too because Yeah. You wanna always be open to feedback, especially from people who have, like, your best interest at heart. Right? And if you can become isolated from it and just like, you know, surrounded by yes people and... I mean, who knows maybe maybe like, she and Putin and people like that are in situations.
+ 
+ I have no idea. But if you listen to too much of it, and you just try to please everyone. You'll never get anything done. And I mean most of the best leaders are people who they can act when they believe that they... They're doing something net positive for the world and humanity.
+ 
+ And they actually don't really care if they piss off some proportion of the people. Almost anything you're gonna do of significance in the world today is gonna piss off five percent of people maybe maybe forty nine percent of people or whatever, maybe sixty percent I don't know. So you never wanna become so surrounded by people who just work for you and we'll say yes. And then you you think like, bio genius and I like, I'm a... That's how you become a dictator or whatever.
+ 
+ But you also can't care so much about what people think because then you'll never do anything that's truly authentic to yourself. One other thought on that, by the way, I think it's a really good question. So I've thought about this a lot like, why, you know, people generally kinda hate on Z and they hate on bill gates and they hate on don't really hate on Elon actually, has a lot of haters too, but is the different
+ 
+ Lex Fridman: there's this is measured. This is measured. I I was looking some surveys. So I think Zach is the most... So loved and hated.
+ 
+ Brian Armstrong: Right? Yeah.
+ 
+ Lex Fridman: Zuckerberg is the most both loved and hated. Yeah. He's d most hated. And then I think his bill gates and Elon is down there. I think it's, like forty percent hey z, people asked and then elon is in the double digits but low double digits.
+ 
+ And so. It's interesting you you just look at these day as you so why. Right. So I
+ 
+ Brian Armstrong: i asked myself this sometimes too because I I don't claim to know any of these people well, but, like, I've I've met them briefly. And I... My impression is that they're are actually all smart people trying to do good things in the world. So there's not too much difference there despite public perception. So why is it that summer are really hidden some?
+ 
+ I mean, It's a complicated question. Obviously, seen in his facebook got blamed for the whole election thing and all that. Didn't help. Social media has gotten a lot of pressure just from, like, you know, hey why aren't you solving all society's tough problems? It's like, well, they're just one company.
+ 
+ But one thing I've noticed is that, you know, a lot of these people... They're little... They have like asp, right a little bit. And sometimes you know, people with asp don't really emo in the same way. And so I think it's almost a form of, like like, bias against their cognitive type or something, which is like, person doesn't emo right.
+ 
+ I I don't trust their in their intentions. And the other thing I've thought about too is that sometimes I think some leaders you know, like, maybe docker bill gates. They can come across as like, a little bit P r rehearsed. Like, they're basically they're giving the P r approved answers as where Elon just says whatever he thinks, like, to fault. So even if people hate what he says or like, at least, I believe it's authentic.
+ 
+ Yeah. I've always thought about that too for myself. I'm like, how do I... Because you can you can fuck it up on both sides. Right?
+ 
+ Like, if you just come out and you're like, saying, whatever stream of consciousness, you often end up like, pissing off people on your team or, like, saying tripping over some like, regulation that you've, you know, all kinds of things about running a public company, you know you can't say certain stuff. But if your two P r approved and your answer is like, nobody trusts you what you're saying. And so anyway, this is something I think about a lot. I don't think I have the right answer but I'm trying to... I'm trying to find out.
+ 
+ Lex Fridman: And more and more with the Internet, there's a premium on authenticity just like you're saying Yeah. People really really appreciate this. So for leaders, it's a it's a challenge to be how do I make sure authentic, but also Don't say stupid shit. Yeah. And so that's a interesting thing.
+ 
+ I've noticed that just having interactive with with a bunch of leaders, that you have to be careful, how much you surround yourself with P r folks.
+ 
+ Brian Armstrong: Mh.
+ 
+ Lex Fridman: Because the best I would say, Let me just say nice thing about marketing and P folks. The best marketing folks are extremely good. Yeah. So they understand exactly what great marketing is and get great P. It's authenticity.
+ 
+ It's showing reviewing the beauty. As opposed to P and marketing out of fear. Oh, don't say that. Don't say this. Don't that.
+ 
+ Because then you you start living in this kinda that pushes you tones bubble. We can't express the wheat your beautiful quirks and weirdness and all that kind of stuff. And also the cool the beautiful things about what you're doing. I find like, especially with the tech thing that even like coinbase, the way to review the beauty of it is not only by showing all the things you could do with it, but showing that there's great engineering going on underneath letting the nerds shine too. It doesn't have to be like, these kind of commercials where it's like a happy family using a coinbase base to send a transaction about flowers for mom or something like that.
+ 
+ Like, it could be also, like gritty stuff. And real stuff. So that's a general just observation I made. But you said you were talking about dark moments and that there's people on the internet internet. They were pissed off at the i was down is...
+ 
+ And you said there might be something else. Yeah.
+ 
+ Brian Armstrong: So sleep deprived, like, bunch of people on the internet were pissed at me, the balances were fucked up like, people tweeting the companies over, just give the money back, whatever. And then... Oh, yeah. Somebody posted So we had all this... We we didn't...
+ 
+ We had trying to get all these customer support inquiries. And, like, we only had like, a few people at the company. And so we were backed up maybe like, twenty twenty thousand support requests. So people couldn't get a hold of us. So somebody posted my cell phone number on reddit, and they were like, They're like, if you need to get a hold of the Ceo, whatever do...
+ 
+ Because everyone's upset about where their money is. So I remember we're in the office. It's like it's like, late at night. We've been working like, twelve hours we're all sleep to deprived. I'm trying to...
+ 
+ I'm trying to hack and, like, get this bug fixed. And we all need like, food at the office. And so my phone... My phone has been blowing up all day because Someone posted my phone number on Internet. And there's like a guy there was a guy, like, trying to deliver food and I needed to answer my phone to, like, get the food from downstairs.
+ 
+ So I was like, shit I gotta just see who if that's him. So I started answering entering the call and it's
+ 
+ Lex Fridman: and it's
+ 
+ Brian Armstrong: like Is this Brian? I'm like, no wrong number click, you know and I you know... The next... I pick up the next call. It's like, every...
+ 
+ Every when I finished the call and another call is like, coming in talk, I was like, this... I'm a reporter from Japan, like, asking about a security nope wrong number, click, And i like finally, Get the delivery guy downstairs bring the food up. We're all like, you know, surviving to, like, fix this bug. I remember there was just basically a point that night where I was like, fuck. I need to just...
+ 
+ I I basically just caught up on a like a ball on the floor. And I I just, like cried for a little bit. I think I let myself just kinda wall and self pity kinda took nap for about five minutes, and I was like, let's fucking solve this. And I like, you know, stop, like a little whatever. And, like, got back up
+ 
+ Lex Fridman: deprivation and combined with just the stress and the pressure of the site going down and everybody wants you decide to be up. Just the pressure from people. And the number of users is growing and growing and going.
+ 
+ Lex Fridman: Yeah
+ 
+ Lex Fridman: that pressure is just mentally mentally tough. Yeah. What was your source of strength during that time? Like, what like, somebody that pat on the back and said, we got this.
+ 
+ Brian Armstrong: Yeah. Well, it definitely helps to have a cofounder. So, you know, there's, like that old saying about... It's better to be in a great relationship than be single, but it's better to be single than mean bad relationship. So founders actually blow up a lot of companies too.
+ 
+ But when you find the right c cofounder, which I was lucky to find with with Fred or some, that was very important. There was definitely moments where you know, I was, like, kinda... you know, at at the end or whatever, and he was like it's like dude let's rally. And he he basically carry the team, you know, a couple times like, in really key moments.
+ 
+ Lex Fridman: What advice would you give to start up founders about this particular stage? About surviving it to the five and through the five employees stage
+ 
+ Brian Armstrong: Where you... Yeah. Well, if your pre product market fit, the best advice that I have from that period is action produces information. So just just like, keep doing stuff. You know I I remember, like, Paul Paul.
+ 
+ Lex Fridman: A line. Yeah.
+ 
+ Brian Armstrong: Paul graham had this great line like that. I think that's his line, and he he was, like, start up for like, sharks if they stop... Swimming they die. You know, so even if you're, like, not sure what to do, like, just do anything because when you do it, it like it'll produce some information, like people liked it. They didn't this was very true for me There was times where I just did something instead of debating it endlessly.
+ 
+ And like, just try it. You know? Like, right. So we shipped it And, like, there was a couple of times are, like, the minute I shipped it. I I was like, I knew I know we we built this wrong, but now I have an idea of what to do next.
+ 
+ And it wasn't... I only would have had the idea if we'd actually gone through the exercise going to build it. It's like my my other favorite analogy for this is that You're like at the base of a mountain that shrouded in fog, and you're looking up at the mountain and you're trying to think like, okay. How do I get up there? But you can only see like, three or four steps ahead the fog is so thick.
+ 
+ So you have to just take steps into the unknown. And when you take three steps another three steps will be revealed ahead of you. And sometimes you'll end up on some local maximum. You'll have to retrace your steps or whatever, but or come up to a cliff, you know But most people in life don't take the steps into the fog into the unknown because it's scary. Or they're like, I don't know what if I fail or, like, don't know how that's gonna work or I might run out of money or I won't be able to get a job after or...
+ 
+ I don't know whatever reason. But that that is like one of the things that separates I think entrepreneurial people with that kind of inclination is that they have sort of a comfort with this risk tolerance But it's actually not really risky if you think about it It's not like, you know, in at least in most places like, you know, if you go to... If you go to a startup up and it fails, like, you're gonna you're even more valuable to your next employer. Right? Or you can go raise a seed round, pay yourself a salary, Try it for, like, two years or three years, If it doesn't work, go get another job.
+ 
+ It's not like your weren't paying yourself a salary during that time. So I think I think people over overestimate the risk of doing a startup up and they just never they never start because It seems crazy. And all your friends think it's silly, Like, that's sort of the default nature of every big startup up idea.
+ 
+ Lex Fridman: It's just basic fear. It's the same kind of fear that if you see if you're guys take you girl at a bar, the fear associated with coming out to there Yeah. Like her asking her... It's like, what's the actual risk? Exactly?
+ 
+ Right.
+ 
+ Brian Armstrong: She'll say i'm no thanks. I'm not thanks. And
+ 
+ Lex Fridman: I I guess the risk is, like, that's going to be mentally difficult to deal with the rejection. So just like it's mentally difficult to deal with failure. Yeah. You if you had a bunch of ideas and you're excited about them, and you implement them and you realize they're not good. That could be difficult to to keep pushing through that.
+ 
+ But I suppose that's life. You're supposed to, you know, perseverance through the failures. Yeah. And then the risk is low. So that's...
+ 
+ And then the whole time through the fog up to mile, and you're looking for product market fit.
+ 
+ Brian Armstrong: Yeah. That's right. So you know you have it when the usage of your product keeps growing without any marketing dollars or anything like that it's just like more people keep going back every week or month. So you're kinda keep... You're you're basically washing your stats.
+ 
+ Nothing is working. You see these little wiggle of of false hope in your metrics. And you basically just keep talking to customers fixing the improving the product, talk to customers improve the product talk to customers food product. You know, and trying run out of money, so it'd be really scrappy. And then if you're lucky, you hit some kind of threshold.
+ 
+ We're like, okay. The thing is good enough now or we hit on some use case, and then it'll organically start to grow a bit. And then then you have a host different set of problems once you get product market fit, which is how do we scale this thing. How do we hire people? How do we you know, hire executive team or raise more money and, like so the problem totally changed, but
+ 
+ Lex Fridman: well you weren't there through the whole thing. So that's the other question that's fascinating. Mh. Again, back to the girl at the bar, how do you hire people? It's like how do you find good friends?
+ 
+ How do you find good relationships. And in this specific case, how do you hire good people? Engineers, executive, all
+ 
+ Brian Armstrong: the. One thing is I've done a lot of reps on hiring at this point. So Coinbase has about five thousand people. Probably the first five hundred people or something maybe in that range. You know, I I interviewed every single one of those, but you have to remember there's probably, like, I don't know, on average maybe ten people that we went when in the process, for everyone we hired or something.
+ 
+ So it was like, by the time that we had five hundred employees I had done, like five thousand interviews or something. I was, like, very burned out of interviews. I I had been doing... I... Some days I did, like, seven interviews in a day or maybe you know, you've you could do a lots of, maybe you wouldn't get burned out, but different kind of interviews.
+ 
+ Lex Fridman: Very different. Very different. Yeah. Very different because you're So first of all, most of your interviews lead to rejection.
+ 
+ Brian Armstrong: Yeah.
+ 
+ Lex Fridman: Which is also exhausting.
+ 
+ Brian Armstrong: Yeah. And there's a whole... There's a whole part of the interview, which is about candidate experience. Right? Sometimes you know it's not the right person.
+ 
+ But you wanna make sure they have a good experience like. If you're just exhausted you're on your sixth interview and you're like, well, thanks for coming in and you rep and you just... And then, like, you're gonna create a d tracker or someone is out there like, fuck that company or Brian was rude to me, whatever. So I had to honestly, I had to work on that a little bit in early days. So I was doing so many interviews.
+ 
+ Like, I needed to make sure that when people came in, I was, like, you know, made them feel comfortable, ask them a couple of, like, warm questions. Just like, oh how what how was it getting an office? Like, find it okay and like, what even up to this week and not just like, you know, like, a factory assembly line like, boom boom like... Yeah.
+ 
+ Lex Fridman: But also there's a moment, because I've interviewed a bunch of people for, like, teams and stuff. Yeah. There's also a moment when you early on no it's not gonna be a good fit. Yeah. And you still have to land that plane
+ 
+ Brian Armstrong: and... Yeah.
+ 
+ Lex Fridman: And all that kind of stuff, and that could get really, really really exhausting. So... yeah, Anyway, sorry. So
+ 
+ Brian Armstrong: Yeah. So basically we try all we've tried so many things with years to make interviews more efficient because it's a huge time sync for the team. So, we we basically will usually get them down to, like, twenty five minutes. I've seen if you're trying to hire, like, a big team, let's say, you know, of people who are, like, contractors something not necessarily full employees. I've seen people actually do ten minute interviews.
+ 
+ You can even interview like a thousand people almost like in a week I'm not sure if that quite works out, but let me little listen than that. But you can basically get six and six down an hour or if you're just... I need to get a team of thirty contractors whatever purpose. But if you talking about full time employees, I usually do, like, twenty five minute. You know, you're you're oftentimes, like one one thing we've done is we'll put, like, like, a Google form online, and it's, like, put some basic hurdles in there, Like, you know, ask them to put in an answer which you can check in spreadsheet if it was correct or not.
+ 
+ And like, there were some funny examples normally days a coinbase base where we put in, like, brain teaser and stuff, but we don't do that anymore. We do like normal interviews do references. The the kinds of things i asking interviews, you know, it's usually, like I I like to think about what what do we need this person to accomplish in this role? Right? And get really specific about that.
+ 
+ It's like usually something pretty hard. And then I'll ask them a question. It's like tell me about a time you did x. Mh. And for tell me what the hardest the hardest kind of problem you had to solve in why And what did you do specifically overcome it?
+ 
+ Right? So I'm asking to see if they can actually do the stuff we need to get done. Then I'm also kinda asking inter, like, culture questions if I'm interviewing for that. And so I'm trying to see, like are they concise communicators? Can they just give me a clear answer and stop talking.
+ 
+ Some people, like, ramble on for, like, five, ten minutes. If you asked the first question, some people are you know, their interrupt, like, church of interruption. So, like, they won't stop talking until you interrupt them. Which for me. I'm...
+ 
+ I know I'm always patient and I wait. So yeah. That's weird. I'm looking to see for humility too, like, you know, I'll tell ask people... I'll tell you a out a time something went really wrong like you had conflict for someone on a team or And what I'm kinda looking for is were they part of the solution?
+ 
+ Or are they still holding on to, like, blame and criticism about that and be like, well, I told him that it shouldn't do that way, but they didn't listen to me and, you know, these are all like, bat signs. So I'm looking for... Yeah. Can they get the job done? Will they work together in a team?
+ 
+ Can they communicate effectively? Do they fit into our cultural values and, you know, those kind.
+ 
+ Lex Fridman: Yeah. I mean, there's... Because I've even even for help with this with podcast here, but also my and so on I done bunch on hiring. And I was always looking for it... You said brain teaser.
+ 
+ All kinds of simple questions that can they can reveal a lot of information. And it's always been challenging. I I used to... I I still ask this question, but do you think it's better to work hard or work
+ 
+ Lex Fridman: smart.
+ 
+ Lex Fridman: And, you know, I had this idea that I've that I think I've matured about which is I kinda of believe that people who say work smart on that question, don't actually work smart. So the the right textbook answer is what is butter to work smart. But the reality is it's it's people that haven't actually ever done anything that say work smart. They're like they haven't really struggled because my general belief at the time was in order to discover what it means to work smart to be efficient to you have to work your ass off. So you have to really fail a lot and failure feels like hard work.
+ 
+ And so I was always suspicious of people that would say works smart. I want to inter that question. But then I also you know, have I've learned that there is people that are just exceptionally exceptionally efficient. They really do know what it means works smart even at a young age. And so like, you can't just disqualify based on that.
+ 
+ You have to dig in deeper. But some of the most interesting people I've ever worked with would say work hard una. And they're usually the ones that know how to be efficient. Which is it's just getting an interesting thing like that. And and and I've always searched for questions of that nature to see.
+ 
+ Can I can I get Can I get a person to reveal something profound about them in as brief of a question as possible? And I... You know, and then of course, there's basic attention in detail and brain teaser and stuff like that depending on the role programming and so on to see. They can they solve a tricky puzzle? And do so.
+ 
+ Like, one that doesn't require a lot of effort, but requires a certain nonlinear way of thinking. Is there is there some... Let me maybe you don't wanna reveal, but is there some questions do you sometimes find yourself leaning on. As you said, like, how did you solve a hard problem in your past? And yeah.
+ 
+ Have them talk to it. That's one.
+ 
+ Brian Armstrong: You know, it's we started with brain teaser periodically at Coinbase based and I we got... We got away from that relatively quickly. And I think one... It's a tough one because I actually think it does show how somebody kinda performs under pressure, but it's... I don't think it's a super reliable indicator because there's some people who are really good in at what the typical work situation?
+ 
+ That's not a typical situation where somebody puts you on the spot like, in live interview and... And sometimes you'll get nervous and they can't think clearly and like, they don't have their computer in front of them or whatever they normally use. So, yeah, I... I'm a little skeptical now of the the brain teaser thing. There is a whole Yeah.
+ 
+ There is a whole question about... Like, a lot of universities are getting rid of, you know, entrance interest exams. So if you're hiring right out universities, sometimes it's becoming a less reliable indicator. I like are they in that university? And so I've heard some companies.
+ 
+ We haven't done this yet. But I've heard some companies are actually creating their own like, for college grads, like their own basically exams like standardized testing almost to get people in the door because the degree almost like doesn't mean what it used to, which is the whole topic, but Yeah.
+ 
+ Lex Fridman: That that's fascinating thing. Because it's fascinating saying both for that, because it's not just about you trying to hire a great team. It's also to help them find the right place to work at. Yeah. It's like it's a like a two way street.
+ 
+ Alright. So once you found the the product market fit, how coinbase base become what it is
+ 
+ Lex Fridman: today.
+ 
+ Lex Fridman: Let me ask on an engineering question, actually yeah. Sort of from the the ruby wallet days. What are some of the interesting challenges there? Or are they not engineering? Just...
+ 
+ The the the things that had to be solved, what were they? Engineering, regulation, financial hiring lawyers, what was it?
+ 
+ Brian Armstrong: So post product market fit yeah. A lot of its scaling, and you gotta build up build out an actual company. So I remember I was still writing a lot of code there for a while. And we were we were hiring in. We had, like, maybe twenty five people or something.
+ 
+ I remember one of our investors came by one day, and he was like, right. How much your time are you spending writing code? I was like, maybe maybe fifty percent or something. He was like, how much time you are you spending hiring people. I was, like, probably twenty percent.
+ 
+ And he's like, I think you need to flip those numbers. Like, this company is not gonna scale. You're the Ceo. You don't need to be writing code every day. You're gonna have to transition that stuff.
+ 
+ Like, even if people can't... All that stuff locked in your head, so maybe they're not gonna do it as well as you for the first six months or something. But, like, you don't start transition it, you're never gonna build a real company. It's just gonna be you're gonna be the bottleneck. So, you know, like, a lot of founders that took me a while and to, like, really internalize that lesson.
+ 
+ I'd always heard people say that. And, you know, but I still was holding on too much to to decision making. I probably still am by the way. Like, even to this day at Coinbase where we continually have to push down decision making in the org like, even with five thousand people. Like, who are the owners of each of these things?
+ 
+ And so temptation people to push it up and you become a bottleneck and, anyway. So, yeah, you want... You basically need to make sure you have enough money or where you don't die. If there's some some kind of a downturn or hit break even in profitability. We we were in a position where we were periodically profitable during up periods but then crypto would go down and we were unprofitable.
+ 
+ And so we had to kind of manage our psychology and the balance sheet to make sure we didn't, like, die in the downturn, which a lot of crypto companies did. We had to basically professional a whole bunch of services that had been just very quickly thrown together by, like, twenty year olds. Right? Where whether that was cybersecurity, It's like, okay. How you get like a really senior experience cyber cybersecurity person, but not someone who's so senior that they can't get their hands dirty and they come into company with twenty five fifty people.
+ 
+ How do you get a finance person to come and do that? Our finances were a mess. Like, we didn't even really know how much money we had at certain times and stuff. And I mean, this was embarrassing to say, but it was true. Like, I remember there was a point where we we had raised, I think like a our series c or something like that and I think we had our bank accounts.
+ 
+ I just put, like, twenty five million dollars like, in a different bank account that none of the stuff was touched to the actual operation of the business because I was like, you know, our operations were so messy and we needed to hire a new finance person and I was like this... I I'd heard horror stories of actually startups where. They thought they had x amount of money. And then it turned out, they had way less and then the whole thing was solving in, like, three weeks.
+ 
+ Lex Fridman: So you wanted to have some padding to Yeah. It's like alright. I can at least count on this to save us if we go like, super negative.
+ 
+ Brian Armstrong: Right. I mean, it it was like a cheap pack, but that was like, don't... I come up with. And, you know, until we could hire, like a real... Cfo and finance financial team who like, Okay.
+ 
+ Now we... We got our arms around how much cash we have. It sounds silly, but we had such high volume of money coming in and out. Anyway what was the
+ 
+ Lex Fridman: ordering of hiring by the way? Like how many engineers was it early on? And you said Cfo was not... You didn't even have a Cfo for a bit. Yeah.
+ 
+ Lex Fridman: I
+ 
+ Lex Fridman: the the the landscape of hiring is you building up this company. Was it engineering focus?
+ 
+ Brian Armstrong: Well, let's see. I mean, so the first person we hired was just like, we we need to solve customer support. So we brought some do that because we were all staying up till minute midnight every night trying to customer support. And then we got more engineers And then I think maybe the sixth higher, something like that was a recruiter because that that turned out to be. You know, you need to build hire the person who can hire more people.
+ 
+ Yeah. That turned out to be a great force multiplier, and then manage you're going down the list. You eventually you wanna hire some more senior people We needed legal and compliance. We need that really badly because we... you know, there's all kinds of questions about what the the legality of it was.
+ 
+ Was it
+ 
+ Lex Fridman: hard to find legal go people that work with Crypto like serious adults because it's a a cutting new world.
+ 
+ Brian Armstrong: Yeah. I mean, there there's was nobody who had like, more than... Nobody had three years of experience but it because there only been around of year. So, yeah. We were finding people from adjacent fields there's a certain personality type of people who are willing to join early companies because they they have no structure.
+ 
+ You can't really commit to them about you're gonna have this team or this boss or whatever. Like, everything's in chaos and flux. So it takes... Yeah. Hiring is one of the hardest things in the early stage.
+ 
+ Sure. You gotta find people crazy enough to join you
+ 
+ Lex Fridman: on this journey. So one one of the interesting things about Coinbase basing you've written with talked... We'll talk about it. A bit. You're very focused on the mission.
+ 
+ Yeah. Yeah. You very kinda... I think that simplifies things. That makes that makes hiring easier that makes working a equipment base easier that makes...
+ 
+ Yeah. I mean, it's similar so of Elon has the same thing. It's pretty clear. Clear what we're here to do. Yeah.
+ 
+ So I suppose what's the mission of coinbase?
+ 
+ Brian Armstrong: Well to increase economic freedom in the world.
+ 
+ Lex Fridman: And
+ 
+ Lex Fridman: what is economic freedom?
+ 
+ Brian Armstrong: Yeah. So economic freedom is this term kinda like Gdp that economists use. And it's basically a measure of different countries around the world. It looks at things like are there property rights and forest, is there free trade? Is the currency stable?
+ 
+ Can you start companies that you wanna start? And can you join the ones you wanna join And, you know, is there corruption and bribery prevalent or is it relatively free of that? And so this there's several different organizations that basically score countries by economic freedom. And the really cool thing about economic freedom is that basically, it positively correlates with things that we all want in society. Like, not only higher growth of the economy, but also things like higher self reported happiness of citizens, better treatment of the environment, better income for the poorest ten percent of people.
+ 
+ And it negatively correlates with things. We don't want society like, corruption and bribery and war, even and things like that. And so it's this pretty pretty crazy provocative idea which is that if you give people good property rights and rule of law and allow them to trade it, it basically encourages them to do more good stuff and the whole society benefits. Like, one of the things, you know, you may have noticed this growing up in various places you did Or you know, I spent a year living in Buenos aires Argentina that went through hyperinflation and there's a certain, like, pessimism that can creep into countries when they don't have economic freedom which it's basically like everyone has this bit of this vibe, which is like, don't stick your head up, you know, don't try too hard because it it could all be gone tomorrow. Like, the things that really are valuable in life for just family and friends and the past was better than the future will be and Mh.
+ 
+ And so you don't really... People don't try as many... They don't try hard because you're not really sure you can actually keep the upside of your labor if you you could try hard, so you just don't try as hard. Whereas in America historically, you know, or high economic freedom countries, you know, people... Basically, like, they just try more stuff because they're like, if I do good other people I'll get the keep part of it for myself, and I can improve my lot in life and for my children and my community, whatever.
+ 
+ So I realized when I read the Bitcoin white paper a long time ago, that at least I had a hunch. At the time. I was like, this might be a really powerful piece of technology that can inject good financial infrastructure into all these countries around the world that don't have it. Basically, good economic freedom, principles in, like, you know, property rights and things like that. Into these countries all over the world with just as long as you had a smartphone and now crypto got invented, we could...
+ 
+ Everybody could have economic freedom. And it's crypto is kinda really well suited for economic freedom because if if you want property rights, it's basically like Crypto is if you can remember a twelve word phrase or, you know, have an app on your phone, you can store as much wealth as you want, and it can't be taken away from you. You can even you know, there's, like, refugees who need to flee and they wanna take their wealth with them and they can't do it often in the traditional financial system. And so Crypto lets them do that. Right?
+ 
+ Crypto inherently global. So it allows free trade and cross border payments. It makes it easy to accept payments from people globally, you know, it's it provides a stable currency to everyone. Not only with Bitcoin which is kind of like this new reserve currency, but also with stable coins, right, which are, you know, new new inventions there. So...
+ 
+ Yeah. I I basically feel like Crypto is is the secret hiding plain site that can create economic freedom for people all over the world and a more fair and free and global economy.
+ 
+ Lex Fridman: Well, so the limit by the way, I didn't know about Argentina. What why'd did you end up in Argentina?
+ 
+ Brian Armstrong: Okay. So I was basically... you know, I was living in Houston Texas after college where went school. And I had never studied abroad. I kind of like...
+ 
+ I don't know. I feel like I needed some adventure or something in my life, and I was, like Was running this other startup that I was trying at the time a tutoring company, and I could I could work from anywhere. So my plan was, you know what? I'm just gonna go do like, a month in every city around South America, just be... Like, almost like to force myself out of my comfort zone because I i had never traveled by myself to foreign country or whatever and I didn't really speak the language.
+ 
+ And... Anyway, I... I landed in Buenos aires thinking i Go around South America where I had I've never been there. I... Basically, once I was set up in south in Buenos aires with an apartment and the cell phone and stuff, then I was like, I wanna do that all again next month.
+ 
+ So I just stayed there for most of the time and took some day trips. But But yeah, it was kind of a formative experience in that
+ 
+ Lex Fridman: regard. You got a chance sort of unexpectedly to experience the the social effects of hyperinflation, which is interesting. But I also... I've I've never been I really even really wanna go. As a person who likes Tango as a person who likes the Argentina argentinian National team and Soccer.
+ 
+ Yeah. And and and steak. Alright. And all the other things that Argentina has known for. Okay.
+ 
+ So economic freedom, one of the limits on economic, freedom council government and government regulations and all those kinds of things Yeah throughout the world. So how does cryptocurrency help resist that? So can you sort of elaborate a little bit further? What are the things that limit economic freedom and how to Crypto help ease
+ 
+ Lex Fridman: that.
+ 
+ Brian Armstrong: You know, today the world like the traditional financial system is basically every country of the world for the most part, has their own currency. And so there's a group of people or institutions in each of those countries that's controlling that economic policy of that money supply. And, you know, it can be... It can be manipulated. Right?
+ 
+ So it's not like many of these currencies are not linked to gold standard, you know, the Us kind of famously that came off that in nineteen seventies for instance, but if you read Ray dahlia and all the stuff like he talks about, there's thousands of fiat currencies that have been in existence over time. And Basically, all of them eventually get disconnected from backing of, like, hard commodities and then they get over inflated and and and print. And so in times of stress, you know, with Nixon, I guess, it was like, in the Us. It was the yet vietnam war or something like that. It can drove government spending.
+ 
+ And so under times of stress, they say, hey, it's a temporary measure. We need to break the peg. Temporary was, like, you know, famous words that he used. And And they go they go, like, they go print. And so the the bad thing about that, of course is that it sort of erode people's like, wealth if they can only hold their assets and cash, which basically, like, poor people tend to do that.
+ 
+ You know, if you're wealthy, you can hold stocks or like real estate and things like that, But so it's a really a tax on the poorest people and society inflation. So anyway, crypto in in a way, is a little bit of, like, a return to the gold standard in this digital era. Right? Bitcoin, there's guaranteed... Scarcity of it.
+ 
+ It's deflation. There's never gonna be more than twenty one million bitcoin. And so that's that's a really important principle. I also think... you know, not just bitcoin but like, cryptocurrency generally, it's really important in terms of this...
+ 
+ You asked about regulation. Right? So think about like, if you wanted to make a global borrowing and lending marketplace or a global exchange. You would have to go to all two hundred countries in the world, sometimes, like, maybe fifty states in the Us and get lending licenses or an operating exchange or whatever. And, you know, they're not gonna...
+ 
+ Is that's just an incredible amount of work and you can't even do business need of these countries because, like, you know, you have to bribe somebody or it's corrupt or whatever. And so... But with D with Decentralized finance, people have published, you know, like, in a swap as a do decentralized exchange. Everybody in the world, no matter what country you're in what your jurisdiction can can interface with that decent decentralized exchange. Because it...
+ 
+ And and there's no central company operating it. It's it's a it's a d... It's a smart contract on the ether ethereum in blockchain, which is globally decentralized. So there's no throat to choke. There's no one person you can...
+ 
+ Or a company you can go to to like, hey, Shut this thing down. Even if everybody who's working on uni swap today stopped, the the smart contract would continue to operate on the ethereum blockchain. Similarly for like a borrowing and lending marketplace, you know, like, it's you know, if you want... Somebody in India wants to borrow from somebody in Us, or whatever, like, there's very difficult to do that in the traditional financial world. But in a smart contract it's decentralized, you can enable anybody to access it.
+ 
+ So it's it's really kind of this great democrat advertising force that is creating a new financial system that is more fair and more free Yeah. In in some ways, it it is... It's a it's a clever... It's a clever way that's Not... Yeah, it's it's enabling people to do that in an all way.
+ 
+ Lex Fridman: So as Uni swapping in some sense that competitor coinbase in which way is it and which way is it not? So because for people who don't know, coinbase is centralized. So let me ask does not go against the spirit of crypto since crypto is is decentralized What are the pros and cons of being centralized? As an exchange.
+ 
+ Brian Armstrong: So I don't think coinbase is fully centralized. There... We have many different products. And the way that I think about it is that our exchange or our brokerage is a centralized regulated financial service business. And it's actually important for the crypto ecosystem to have that because you wanna allow a lot of the fiat money in the world to flow into the crypto economy.
+ 
+ So we, you know, we're very proud of that. And I think we've helped a lot of that money flow in. Now once people have money and crypto, they can choose to hold it in a variety ways, and they can choose to hold it in a self custodial wallet, which is more. They can choose to use decentralized exchanges, which we we love and you know swap is not really... I don't think of them as like, direct competitor to us.
+ 
+ We we basically have integrated you know pop into a number of our products. We we love Defy, decent exchanges all the whole thing. So and Coinbase based wallet, which is a self custodial wallet is more decentralized and it allows people to hold their own crypto. They don't have to trust us.
+ 
+ Lex Fridman: Can you explain what a self custodial wallet is... What is it wallet? And what is your yourself custodian your wallet?
+ 
+ Brian Armstrong: Yeah. So it's it's confusing. So so a custodial wallet means you're trusting Coinbase base to store your crypto, the private keys. Themselves. And, you know, for some people and institutions and everything, just meeting them where they are today, that's nice because it's simpler, you know, they're not afraid of losing their crypto if they make some accidental mistake Or so, you know, a custodial crypto products are important to help get a bunch of people into the ecosystem.
+ 
+ But I'm very supportive of self custodial wallets, and I think in some ways they are the future because more and more people are gonna wanna store their own crypto, not trust a third party institution do it. And in some ways that is much more authentic to the the ethos of crypto. So Coinbase based will help you convert the fiat into crypto in a frankly that's a more centralized thing. But once you have Crypto, you can then go to the self custodial world. Store yourself.
+ 
+ In in a to get into the technical details just for a second, it's basically saying you're gonna store the keys on your own device. And so even if Coinbase, you know, get some court order to sees it, we actually can't, Like, from an architecture point of view, We can't do it. Or, you know, if coinbase gets hacked or something, we can't lose your funds. Like now you... The thing is you have to take the responsibility because we're not taking...
+ 
+ So the individual person could get hacked. Right? And there... There's a whole bunch of really cool research happening to make self custodial wallets more resilient to to accidental loss hacks and just user error, like, you know, they're I don't know how much you've looked at, like, various crypto things, but there's, like basically, you can have multiple key multi sig multiple signatures from different keys on different devices where you need like two of the three or three of the five, there's a whole technology called multi party computation or threshold signing signatures. Which is really cool.
+ 
+ But those are the things you would run locally.
+ 
+ Lex Fridman: Like what these are all security measures, like crypto photography measures to protect you without a centralized component.
+ 
+ Lex Fridman: Right.
+ 
+ Brian Armstrong: So like, a simple example would be... Let's say you had a two of three key signature and, you know, one key might be sort of coinbase based, but that's not a quorum. So we couldn't unilaterally move your funds. But in another key is on your device on your phone, let's say Oh, cool. So that...
+ 
+ So in a normal situation, you have a key on your phone. We have one. But you... And so two out of three, now just, you know, it can all get signed very quickly for data to use. But let's say you lose your phone or something.
+ 
+ Now there there has to be a third key and that's where, you know, you could store it in a backup somewhere. Like, in Google Driver icloud, you could trust a third party that's not coinbase based also have that one key and bet they can't do anything unilaterally with that one So that's a simple example, you can get... You can get way more complicated. Yeah. That's an awesome idea.
+ 
+ And so,
+ 
+ Lex Fridman: like, yeah. If your funds get c's, coinbase be camp, can't do anything. Right. But you better not lose your phone maybe in that case. Yeah.
+ 
+ Brian Armstrong: Yeah. That's okay. But it provides a there is... So even if you lose your phone, then there is a recovery mechanism. Because you can get the one key from Coinbase, the one from your backup provider and recover a new one back on your phone.
+ 
+ Know Yeah.
+ 
+ Lex Fridman: But what if coinbase base is no longer, but because of government because of say in North Korea, governments says you're no longer like, coinbase basis shut down in that country or something like that. Right. Then you can get it even if you have access to those two. Right. So Again, perhaps a silly question, but isn't a self custodial wallet a competitor as a notion to coinbase?
+ 
+ Brian Armstrong: No. I mean, we we so we offer a Self security wallet. We've built one and it's like, but doesn't
+ 
+ Lex Fridman: bleed
+ 
+ Lex Fridman: the... Like, I guess I'm asking a sort of a financial question. Is, like, how does coinbase base make money and transactions. So does this not just... It does not decrease the number.
+ 
+ Or does not significantly negatively affect transactions or you more focused on growing the number of the pie of the number of people that using cryptocurrency?
+ 
+ Brian Armstrong: Yeah. Like, a traditional financial service firm would probably say, well, we should be storing... Let's keep more of the... Or custody do with us because that's how we prove to the world that we're valuable or whatever. I don't really believe that.
+ 
+ Like, I think that actually, we kinda wanna encourage our users to move to self custody over time for those who are ready in willing. And that technology needs to mature. I'm not trying to like, force anybody to do it It doesn't wanna do it. But to me that's, like, the future of how we get billions of people using crypto,
+ 
+ Lex Fridman: but doesn't that mean they can go somewhere else Easier.
+ 
+ Brian Armstrong: Yeah. That's sort of the point is, like, we're all using the same protocol so there's low switching costs, which keeps all the companies accountable. Right? Like, if you you wanna access the Visa network, there's only one company in the world you can go through do that, like, Visa. But if you wanna access the Bitcoin network, there's dozens or hundreds of companies out there who can do that.
+ 
+ So it's... You know, it's arguably... You could argue it's worse for us as a company, but I think it's better for... It's what makes bitcoin interesting and Cryptocurrency interesting is that nobody controls it. There is low switching cost for customers.
+ 
+ It's better for customers. And that means that all the companies in the space are gonna be held to a high standard because minute you lose someone's trust, they're gonna move their bitcoin to some other service. And that's good for the world.
+ 
+ Lex Fridman: Do you think of coinbase base as there's these ideas of layer one layer two layer three technologies. Yeah. Do you think of coinbase as layer one, layer two, layer three? Now that that said, there's so many products that are under the coinbase based on umbrella that's hard to answer that question. But what do you think Yeah.
+ 
+ I do acknowledge the existence of layer three.
+ 
+ Brian Armstrong: So so, you know, usually when people are using those terms layer one they're to... So they're referring to, like, layer one would be the blockchain. Yeah. Later one blockchain itself like like a bitcoin ethereum or something. Not like a a centralized service like coinbase or even our decentralized self custodial wallet.
+ 
+ So, yeah. I I wouldn't consider us to be like a layer one. These are these are the centralized protocols that we're integrating, but we are... Claim itself is not those.
+ 
+ Lex Fridman: Yes.
+ 
+ Lex Fridman: But layer two is the thing that was basically doing transactions without the settlement on the blockchain. So you Yeah you get to have some of the benefits of facet transactions without the the security associated with the blockchain. And layer three, is I suppose sort of apps built on top of that. So, you know, at least, I think talking to Michael sailor. He's considered coin based on their three technology.
+ 
+ Brian Armstrong: Interesting. Okay.
+ 
+ Lex Fridman: Why I'm I'm not not really particularly familiar with this kind of distinction layer three and. I don't see them as fundamentally different. But some of the... Okay. I mean, one way of asking that, is there some layer to, like, of magic happening in order to make transactions associated with blockchain happen instant so that they're quick.
+ 
+ So the ongoing base. Yeah. Is there some magic going on? Because you're okay. We should say, how many cryptocurrencies are currently on ongoing base?
+ 
+ So it's more than two. Yeah. It's a lot more than
+ 
+ Brian Armstrong: too. Yeah.
+ 
+ Lex Fridman: So you have to understand They have to incorporate all these technologies.
+ 
+ Brian Armstrong: Yeah.
+ 
+ Lex Fridman: So how do you make that magic of sort of universal transactions happen across all of these different cryptocurrencies.
+ 
+ Brian Armstrong: There's our centralized products and decentralized products. Right? The the centralized products, we are storing that crypto for you. And so if you're moving from one of your accounts to another account, like eth one account to Ether two account or from my ether east centralized account to you're ethan etcetera. So we can do that transaction off chain to make it faster.
+ 
+ And it saves the customer fees and it it just confirms instantly. But it's not truly using the decentralized blockchain. Right? So you can also send any any bitcoin address or a through address for instance, and that is putting the transaction on chain. Now our decentralized products like Coinbase Wallet, the the self custodial wallet every transaction is happening on chain with that.
+ 
+ And so basically what... It just shows a little bit of the evolution of Coinbase and the blockchain themselves. Like in the early days, these... You know, the we... These networks were not scalable.
+ 
+ And so there were no L two solutions for instance. And so we had to do sort of these hacks like, moving the crypto off chain if you were moving between your own accounts and stuff like that. Otherwise, the the minor fees would have just eaten us alive as a company. Right? And Yeah.
+ 
+ Lex Fridman: But
+ 
+ Brian Armstrong: now that, like... The blockchain are starting to scale. There's a whole bunch of more work that needs to be done on that, and we're getting L two solutions So I think more and more of the transactions are going on chain, whether it's L l one. And, you know, we shouldn't be, like Ideally, we shouldn't be doing that many transactions, you know, off chain but just internal coinbase based ledger or something that's not really in the spirit of crypto. When you say chain, that includes like a lightning network that
+ 
+ Lex Fridman: includes layer two technology that the blockchain proposes. Yeah. So you're... When you... Yeah.
+ 
+ Okay. So I guess I was asking how much fun magic is happening off chain. It was in coinbase based. And you're saying in the early days you had to but you try and do less than less.
+ 
+ Brian Armstrong: So look, there's a bunch of like, high frequency traders that use the centralized products and even just regular retail people, like, they don't wanna pay the the gas fees and stuff and they're trying to... It actually we we we back at the envelope, you know, calculate this out one point and just, like, it would be completely feasible for, like, high frequency traders to put everything on chain at this point. That's basically what Dex is are doing. And so both are important. I think more and more is gonna move decentralized over time, which is great.
+ 
+ And we're... And
+ 
+ Lex Fridman: we're
+ 
+ Lex Fridman: getting our decentralized
+ 
+ Lex Fridman: exchanges. Yeah By.
+ 
+ Brian Armstrong: Yeah. Yeah. Yeah. So anyway, we wanna we wanna encourage more and more of it to move decentralized over time. But I don't...
+ 
+ The centralized things aren't going away for, like, a long time. It's a decade from now there's gonna be some big institution or pension fund or central bank that's like, alright. We gotta a hold crypto. Let's set up the account in a centralized way. So that's that's fine.
+ 
+ Both... Both are important.
+ 
+ Lex Fridman: Do you know the number of cryptocurrencies currently on coinbase? Do you know that number?
+ 
+ Brian Armstrong: It's over a hundred, but it depends... It depends what your jurisdiction you're in and, you know, are you institution versus retail. Is like there's so many different categories now.
+ 
+ Lex Fridman: Even, like hundred. Yeah. So what does it take to become to to to become an asset to become a critical cryptocurrency un coinbase base to add your technology to Coinbase.
+ 
+ Brian Armstrong: Okay. Well, so we're trying to get away from this idea of being listed on Coinbase as being seen as, like, an endorsement or something because actually think it's very important that we are not considered judge and jury about, you know, like, imagine it was early days of the internet were like, what's a good web page? What's a bad web pitch? Like, you would have been totally wrong or anytime big tech companies try to make these review review boards of, like, you know, Apple famously gets in trouble for this a lot with their app store review process. Right?
+ 
+ And so something that you think like, a committee of people somewhere where things look silly. May turn out to be the next big thing. Right? And so it's very difficult. So what do we do?
+ 
+ I mean, we basically have a test of legality. Right? We we check, you know, do we... Do we believe this is a security? If so, it can't be listed on coinbase base, and there's a very rigorous process we go through for that.
+ 
+ Just currently, the way the laws are in the Us. You can't you can't do that and we've been... We acquired a broker license from the Sec. We're trying to work with them to get that operational and hopefully, someday we can trade real crypto securities. But today, that's not possible in the Us at least.
+ 
+ Then we look at sort of the cyber security of the the crypto asset, does it do we see there's some flaw in the smart contract or, you know, a way that somebody could manipulate it without the customer's permission? We look at some compliance pieces to it as well, like the the actors behind it and like, you know, there any kind criminal history like that But if we believe it meets our our listing standards, basically the this test of the legality and and everything for for customer protection, then we wanna list it because we want the market to that point decide. And it's... It's kind of like it's kinda like Amazon or something like that where you know, it... A product might have three stars or might have five stars, but if it starts to get one star consistently, like, it's probably a fraudulent defective or something like maybe Amazon remove it.
+ 
+ But otherwise, you wanna let the market decide what these things are. So that's generally how we do it. And by the way, more and more of these assets. I think especially like low market cap assets are gonna be traded on Dex through coinbase. It's not that we We don't need to list every asset on a centralized exchange.
+ 
+ I think Dex are really good for the long tail. And then it becomes an even it's even more clear to people like, this is not some endorsement by a coinbase base of, like, this asset is good. And this one's bad. Like, you know, my my belief is there's gonna be millions of these assets over time. And so I hope it doesn't like make news every time we add one in the future of bit.
+ 
+ Yeah. I wonder how you
+ 
+ Lex Fridman: get there.
+ 
+ Lex Fridman: Because I even I look to coinbase for for example, you know, people as you can imagine, sort of tag me on Twitter or something like that and all that, like, you should interview our sort of this the the founder of this particular coin. Right? Yeah.
+ 
+ Lex Fridman: And
+ 
+ Lex Fridman: I... It's so hard for me to know what's... First of all, what's the interesting technology? What's who's a scammer or or not? Who's actually legitimately representing ambitious a new thing versus a scam.
+ 
+ And I... You know, there's very few sources of like, a verification signal. And unfortunately, coinbase in part has become a little bit of that. Yeah too. And you're trying to get away from that.
+ 
+ Just trying to get as many sort of let let the people decide. So you're were thinking of, like Amazon star type system where the people could rate
+ 
+ Brian Armstrong: Yeah. So I think we'll actually probably add, like, user ratings and reviews. So... And and we're we'll be very cautious about, like, you know, these are real people There's a bunch of stuff we have to do for that already. So I think wisdom of the crowds is good in terms of getting feedback on items.
+ 
+ But we also... We're gonna do our own review, which I mentioned earlier right, which is like, okay. It meets this minimum bar to be listed on our site. Yeah. I think yeah, both
+ 
+ Lex Fridman: your important. How do you know if a coin is a scam or not?
+ 
+ Brian Armstrong: Like well, you can you can see a few things. So, you know, I hate to use the word scam because a lot of these these are judgment calls. You got i kinda... A court made me or a jury may land either way, but things that would be red flags look at would be, you know, is a bunch of the asset owned by an insider or insiders with short vest periods. You know, our does the background of the founders like, they may have criminal records or they've per other fraud in the past.
+ 
+ Right? There's a difference between something which is just a me two product, it's like it doesn't have anything interesting about it and something that's an actual fraud outright scam. And Mh. You have to... A lot of this data, what's cool about it is that it's now available on chain.
+ 
+ You can look at, like, the token behind it and see who
+ 
+ Lex Fridman: owns know hell makes exactly. And are term. Yeah.
+ 
+ Brian Armstrong: And are they selling it you know, in... Like, inappropriately, or are they pumping it on, like, Youtube and and Twitter and making promises about, hey, the value of this thing may be a higher in the future and like, all those are just big big no that we would you know, we just don't wanna go there. So our our whole thing is, like we want we want to enable innovation in this space, but not allow anybody to curtail the advancement of this industry by, like, doing some kind of fraudulent thing or get rich quick thing. So it's a tricky industry because I'm I'm trying to figure out who to, you know, what's interesting to to to to understand
+ 
+ Lex Fridman: to research. Yeah. And it's hard to know. Let me ask you about a tricky you one to add to a centralized exchange which is privacy preserving cryptocurrency, so like.
+ 
+ Lex Fridman: Yeah.
+ 
+ Lex Fridman: Is that is that technically difficult? Or is that why why is like, now for example, forget that specific one, but the, like, privacy preserving cryptocurrency blockchain. Why is it is that ever possible to add?
+ 
+ Brian Armstrong: So that's that's a great question. So the answer is maybe. So here here's the... Here's the what the reason why. So because we're regulated financial service business, we have various licenses to do that.
+ 
+ We are we are regulated by various regulators. Part of those licenses requires us to have a quote, reasonable program to monitor for suspicious activity, you know, an Am mail program anti money laundering. Right? And so if it... If a coin is a hundred percent anonymous, and we can't really do blockchain analytics to track source of funds and where these things might be going.
+ 
+ It makes it harder to have a a reasonable program around that. That's def. Now there are privacy preserving coins like z cash, which have something called a view key. And a view key is basically another key which allows you to minimize the transactions in specific situations where you want that. So for instance, you know, we do support Z cache and when one of the ways we got uncomfortable with that is that when you're buying it on Coinbase, you know, you can basically have a view key the the transactions are not anonymous while you're buying it and we can see where it goes afterwards and do our our whole standard program.
+ 
+ Now if it gets a few hops away down the road, I mean, people could eventually turn on privacy preserving aspects. So, you know, these are tough judgment calls. But at least in in terms of our interaction with the customer and everything we feel comfortable with that. I think there's a broader point here which is that I actually think privacy coins are a good thing for the world. And we and they should be allowed and more like, you know, despite we've we've made this judgment call to operate in a regulated and safe and compliant way.
+ 
+ But just taking my coinbase head off for a minute I think the world would be a better place if there were more privacy coins because it's kinda like the internet when it first came online. Like, there was no T s. Everything was h and there was so people were afraid to put their credit cards on the Internet and your your messages could be intercepted and all the stuff. And now the whole Internet has basically moved to h https with a little lock icon your browser. Which is better.
+ 
+ Like... And and financial information is like, the most important information to keep private. Right? So there's times where, like, let's say you're running a charity or something and you wanna have total ability transparency for the whole world, who donated and where did the money go. That's great.
+ 
+ You want it to be public. But if it's, like your personal money or something like that, you don't wanna be broadcasting that to the whole world. And in some ways, that's what blockchain are doing you know suit sudan, because, like... But it it is a public ledger. And so if you can know who owns each address you can basically d it.
+ 
+ I You know, I think basically, the the people should fight for privacy and freedoms of all kind, but privacy of of money is a good thing. I I would like to see more of that
+ 
+ Lex Fridman: you chosen with coinbase to to to have a seat at the table with the regulators. Yeah. So what kind of... What kind of conversations are there at that table? What are the regulations like?
+ 
+ What is the level of understanding with the regulators? What are they worried about what are thinking about? What are the positive and what are the negative regulations that you're facing that you're educating, struggling with pushing back on supporting all that kind of stuff.
+ 
+ Brian Armstrong: Yeah. Oh, man. There's so many. Because we're... I mean, we're live in like, you know, maybe one hundred countries or more at this point.
+ 
+ So the the the conversations are all with the map. I'm trying to think what broad strokes I could paint for you. So I'd tell you one trend that's that's positive is that basically regulators around the world are are more and more over the last five years I would say, it's more and more common to find a today asking how can we preserve the innovation potential of this technology while keeping the bad actors out than it was five years ago where they were saying this is all bad activity, How do we prevent it. And so maybe this is
+ 
+ Lex Fridman: when you say more and more.
+ 
+ Lex Fridman: Mh.
+ 
+ Lex Fridman: What fraction.
+ 
+ Brian Armstrong: So just... I'll give you, like, a Us specific example, although we we operate in many countries. So when I go to Dc c now, I would say, you know, fifty, sixty percent of the people who I meet with are basically you know, they're in the camp of crypto has a lot of potential. We should regulate it to make sure the bad people don't do something bad with it, but this is here to stay and it has a lot of upside we should basically create alpha regulation and celebrate it and actually encourage this innovation to happen in the Us. That's a huge change from just three years ago where it was probably thirty percent of people saying that now it's, like sixty.
+ 
+ It's like almost double. It's getting harder to find, like, true crypto skeptics in Dc. I'd say that, you know, maybe maybe only, like twenty or thirty percent of people are like, willing to say something negative like, they actually think it's net negative is like, it's really hard to defend that position at this point because almost like one in five Americans have used or tried crypto at this point So you're you're kind of condemning twenty percent of your fellow citizens. If you say that at this point, you know, especially with N entities and all these things like a huge segment of people who don't even care about investing or whatever came into the space. So...
+ 
+ Lex Fridman: And
+ 
+ Brian Armstrong: then basically, that's that same conversation is happening, but you know, delayed by a few years in in, like India and Europe and in in in some Asian countries. And some countries have really embraced crypto and they're like trying to really... They're they're head of where the Us is because they're trying to actually attract the best startups ups and entrepreneurs like you know, like, Dubai and the Uk, and Australia and all kind of pushing good regulation. They'll salvador were actually, I guess adopted it as like Bi bitcoin is legal tender. Right there was another country, Central African republic, I think that is supposedly did that as well.
+ 
+ But, you know, there's countries like China that are more auto of that are saying, hey, this is threat to our power and, like, we're gonna try to really curtail it.
+ 
+ Lex Fridman: So what kind of regulations are there that you feel the most that are limiting or that are empowering. Like, because there's specific examples.
+ 
+ Brian Armstrong: Yeah. Okay. So, I mean, basically, I think the securities laws in the Us need to be clarified about what... There's crypto is many different things. That's what people don't realize.
+ 
+ So like, some crypto like the Bitcoin ethereum and many others are probably more like commodities. They're not controlled by anyone person, you know, like, Anyway, there's people who wanna raise money for a company, that's sounds more like a security. That should be regulated by the Sec. Commodities is about the Cf. Then there's some cryptocurrencies which are more like currencies, like stable coins and central bank digital currencies.
+ 
+ And those are probably, you know, should be regulated by the treasury or someone like that. And then there's a whole another category of cryptocurrencies which are none of those things. Their their n is like artwork or their meta items or decentralized identity and voting. And so I I think that there's a very unhelpful point of view out there by some folks, which is, hey, this is all... Most of this is, like bad activity.
+ 
+ We need to shut it down. So we're just gonna pursue enforcement actions or something like that. Most people in Dc don't feel that anymore. And I think the people of the Us don't feel that anymore. Because a lot of them are using this stuff.
+ 
+ And their their general view is there's a lot upside potential here. We can all agree let's get rid of the fraud and the scams We all wanna get rid of that. So let's create a relatively simple test, which says you know, if it's like nobody controls more than twenty percent of it or some threshold probably is more like a commodity. If someone's raising money for they're selling this thing for a a business, then it's probably a security, and then you know, if it's a more like a medium of exchange, it's a currency. And if it's none of those things, maybe
+ 
+ Lex Fridman: it's
+ 
+ Brian Armstrong: artwork work or whatever a a legal test like that would help clarify who which regulator is regulating what. And then, you know, we also wanna have probably like a sandbox for innovation where if you're a startup and you're doing less than... I don't know. Some number less than some amount of payment volume or customer funds you're storing. It's like, just let those things get off the ground without a soul crushing amount of legal bills, you know, and uncertainty.
+ 
+ So If the Us can get there, that would be great. I think a bunch of other countries now are rushing around the world to sort of create that regulation that it does attract innovation. And so in the Nash international bodies like Imf and G twenty and stuff they're they're starting to look at proposed regulation. I'm I hope that Coinbase and a bunch of other companies can help in that conversation too. We have a whole policy effort.
+ 
+ I think actually crypto policy efforts are, like, probably one of the biggest things in Dc right now. So It moves... It moves slow at the speed of government, but... Yeah. And at...
+ 
+ In the meantime, we're just trying to help more and more people use Crypto because ultimately that's what in the democracies, that's what they care about. Like, they'll do what the people of the country want.
+ 
+ Lex Fridman: You want governments to start understanding differences in the crypto space, commodities securities, currencies, N entities, I still don't understand. What is is supposed to make sense of N entities? What is N she's exactly from a perspective of a regulator?
+ 
+ Brian Armstrong: Yeah.
+ 
+ Lex Fridman: So is it the other categories is the high?
+ 
+ Brian Armstrong: Yeah. You know, most entities you could think of as artwork work, although it's it's... Who knows where it's gonna go. It could be mentioned
+ 
+ Lex Fridman: first. Right? You mentioned some kinda of unique identity of a thing.
+ 
+ Brian Armstrong: Yeah. Like,
+ 
+ Lex Fridman: I mean there's a
+ 
+ Brian Armstrong: land and yeah. Right? N t's. I actually I bought this n t that's, like It's like citizenship in this like, city, dow in Wyoming. Like, I've never been there, but it's almost like a like a, like a badger or station like to get access to this location.
+ 
+ There's, like, people doing like, tech like, tickets to events, like, you know, they're called pull ops Like, proof of attendance and things like that. Mh. So it'll be very interesting to see where t's go over time. It could get and that's the danger. You don't wanna try to, like, define the regulation if you don't even know where this thing's gonna go.
+ 
+ So...
+ 
+ Lex Fridman: And so your efforts in the policy arm is is education.
+ 
+ Lex Fridman: Yeah.
+ 
+ Brian Armstrong: Education advocacy. We're just trying to be, like a helpful educational resource essentially. And then if they give us feedback and like, hey don't do this or don't or do this. Like, we're more than happy to do anything that's requested. We generally go get licenses and we've just tried to do the right thing in the absence of clarity because it's...
+ 
+ If it's not clear, what what the law says then you just basically do good things that you think may be required in the future to show good faith effort towards the right thing. And that's part of, like, innovating in a regulated field, which is you know, whole topic in itself.
+ 
+ Lex Fridman: So if you are at the table... Let me... This is less the case in the united states, but Can government agencies seize the person cryptocurrency by forcing coinbase to to hand it over. So when you're centralized, you they have a phone number to call.
+ 
+ Brian Armstrong: Okay. So this is a complicated topic. Like, if you really wanna be sure that this is why people wanna store their own crypto. Right? Like, with self custodial wall.
+ 
+ It's like with Coinbase wallet and embracing des translation, they they wanna avoid that. Now in the Us, there is rule of law. Right? So we have reasonable protections in place around, like, search seizure and things like that. You know, Coinbase does...
+ 
+ We we publish transparency reports on this. We get subpoena, court orders, things like that from various countries around the world. And there are situations where we have been ordered to freeze accounts, things like that. we have to follow the law. Is another way to put it we're a regulated financial service business.
+ 
+ And so
+ 
+ Lex Fridman: if the money is used to break as as part of breaking the law. That's what that in a particular jurisdiction in in particular.
+ 
+ Brian Armstrong: Right. And and then the other thing sometimes we will actually get court orders subpoena that overly broad. We've seen... So they need to follow due process. Right?
+ 
+ And so we've seen some in the past that were like, Well, we need you to freeze this huge number of accounts and it's like, well we'll we'll actually gone to court and, like, push back on some of these and said, like, what is your the probable cause and is the has the threshold been met and like, we've won some of those cases on behalf of our customers. So yeah, it's it's actually really It's kind of unfortunate. And frustrating as a... You know, as a large business, you spend a lot of resources basically interacting with inbound requests by all kinds of lawyers and people and requesting things and some of them are silly and ridiculous and you have to push back and say, no. And so It's kind of tax on every company at a certain size, which ultimately gets passed on the the customer in higher fees.
+ 
+ So you have to employ armies of lawyers to deal with this stuff.
+ 
+ Lex Fridman: Can can you educate me on something? How much innovation is there in the legal space? So for lawyers working with Coinbase because it's such a new cutting edge thing. Mh. So you're there's a lot of gray area.
+ 
+ You're supposed to be operating under... Like, how hard is is it being a lawyer? Like coinbase. Like how much precedence is there, I guess is what I'm asking. I mean, just you said three years.
+ 
+ It's kind of a new space. Yeah.
+ 
+ Lex Fridman: Well,
+ 
+ Brian Armstrong: it's probably very hard to be alert cor and very fun because, you know, whenever you're in a new field that's growing fast there isn't a lot of case law and just precedent set. So that's also an opportunity for you to go create that stuff and that's what a lot of legal careers are made out of is like, take a complex situation, where you have to balance difficult things. Like, how do we prevent bad activity, but still enable innovation. That's a hard question. And there's...
+ 
+ You can go draft legislation and circulated the policy or come up with these policies and you know, how do you operate a business in an environment where the law is just unclear. Right? It's like try to do the right thing. But, like, you know, strike the right balance. So, yeah, they a lot of our lawyers have to come up with that.
+ 
+ Very creative
+ 
+ Lex Fridman: stuff.
+ 
+ Lex Fridman: You mentioned one of the things you're focused on is spending the number of people, maybe a billion people on coinbase or using cryptocurrency. Where we at now? How do we get to a billion?
+ 
+ Brian Armstrong: As of q four last year we had eighty nine million verified accounts on coinbase. But in any given quarter only, you know, maybe like, ten or a little more million of those are are like, really active. So... And then if you look at globally, I think some of the estimates I've seen is maybe there's, like, two hundred million people or something like that who ever used or tried crypto. So we're long, you know, there were weighs from a billion, but it's not like, that far off.
+ 
+ Lex Fridman: I can get there.
+ 
+ Lex Fridman: Yeah. Get totally.
+ 
+ Brian Armstrong: So a few things. One is the blockchain gotta become way more scalable. It's kinda like we're all running dial up modems and we need broadband. And so it's just like too expensive too slow to do all these transactions. And I think if we just get L two's working and scalability, you know, we'll see another order of magnitude kind of come out just from that.
+ 
+ I think the second one be more clear regulation. That would help a lot. I do talk to, you know, pension funds and you know, various asset managers talking wealth funds and stuff. And a lot of them tell me... We've we've got one percent of our portfolio in crypto today, but we really would rather have, like, twenty percent in there.
+ 
+ But what we're waiting for is more clear regulation coming out and saying that clear test that I was saying, these assets are commodities regulated by you, these are my, these are my treasury, whatever. So that would be a big unlock
+ 
+ Lex Fridman: do transactions. So one of the things that you mentioned payments. Sorry. Yeah. Well does that unlock a lot of users?
+ 
+ Brian Armstrong: Yeah. It does. I mean, remit is like a huge thing people sending money home to their families and other countries, where the fees are super high. So If we get blockchain to be more scalable and there's more global adoption, like, I think we'll see remit quarters move over to Crypto a lot. There's also just...
+ 
+ The other thing that's driving a lot of crypto adoption is basically the creation of more and more third party apps. So or da, they're sometimes called Decentralized adapt. So a lot of startups now, you know, how, like, used use in the early two thousands they called dot com startups. But now you don't to say dot com because everybody's using Internet. And so now there's like, hundreds of thousands of these crypto startups.
+ 
+ But I think in the future, you won't need to call them crypto start they'll just be called startups because everyone's using Internet and crypto and whatever. So, anyway, the the the use cases, the utility of Crypto is is getting better and better with, like, all these third party apps getting funded and created and
+ 
+ Lex Fridman: do you think there's gonna be a killer or a set of killer taps. Like a thing where nobody can live without... I was still waiting for that.
+ 
+ Brian Armstrong: There's gonna be a bunch of them. It's just like it's, like the Internet. Like, what were the killer web companies? You know, like, uber in wikipedia and every being Google and like, so there's gonna be some big winners, but there'll be thousands. Of...
+ 
+ This is basically the new... It's like what what happened with the dot com startup in the early thousands. It's like every a lot of the best entrepreneurs are building crypto startups ups now. So tons of venture money flowing into the space, a lot of smart young people. So
+ 
+ Lex Fridman: do you think Bitcoin or some other cryptocurrencies become the reserve currency of the world at some point?
+ 
+ Brian Armstrong: This is kind of a controversial idea, but I actually think yes. I do think Bitcoin could end up becoming reserve currency of the world. There's So, you know, i've been reading Ray Dal recently with his new book like, the changing world order. And I I I thought it was a really well research book. He talks in there...
+ 
+ He looks back at history. Right? He looks at like, empires and, you know, going back to various chinese paris the Dutch and ottomans and everybody and how do they rise and they they were able to have the reserve currency as they as as they rose. And what produced that, like, it came from, you know, good education and innovation and better trade and anyway So the Us... By some measures is is kind of looks like it's...
+ 
+ Maybe it's had a really good run and it's coming down a little bit and China is kind of kinda coming up. Who knows how that play out by the way like, the world is very complicated. It could that could switch. But I guess if the Us dollar is gonna be seeing more inflation in the future, the Chinese yuan is not like, necessarily better. Right?
+ 
+ I mean, they have a ton of debt as well. And, you know, it's not like you could really... That that the yuan could be inflated as well. Right? I probably will be.
+ 
+ And so I do think that there's this group of people today, which probably most traditional... I don't know, like, the people who run big banks and, like, governments and stuff. That they're not this is not really on their radar today. But I think there's there's a basically a group of younger people in that kind of, you know, twenty five thirty five year old range who are tech savvy, they're starting to think of crypto as, like, the primary thing. In their financial life.
+ 
+ It's like I basically hold my wealth in crypto and I use dollars or girls or whatever if I I happen to need something, I convert it to that to last minute. Like, if I if I go... If I'm traveling, I might convert some local currency in the moment, but it's not where I hold my most of my wealth. So this segment of the population is not, like, massive yet from the Gdp point of view, but I think it's a leading indicator where things could be going. And this is actually good for the world.
+ 
+ It's kind of like... Especially if China does continue to rise and it has a more authoritarian view, it'll be kind of this very centralized east versus a decentralized west, where people are in the west in the free world, really kind of embracing crypto and a more open fair free global financial system, which I think will be enormously beneficial for human humanity yeah. And I I do think basically, Bitcoin is the reserve currency, The gold standard of the crypto economy. So that's pretty crazy. Yeah.
+ 
+ The gold standard. I mean, it's also... Like, with the red dal.
+ 
+ Lex Fridman: I feel like China will drive a lot of this either in response or directly, I mean, I think the rub I'm not paying as close attention to the financial systems, but I think they're trying to tie it to to gold.
+ 
+ Brian Armstrong: Mh.
+ 
+ Lex Fridman: Once again. So that's an interesting maybe it'll be one of the more authoritarian regime that we'll switch to a Bitcoin standard first. Mh. And then it's the the west that will either of that pressure will catch up versus the other way around it's it's it's it's fascinating thing to think of what is the the forcing function. What kind of per is required to switch?
+ 
+ Yeah. To change anything on by the financial system, but it could be as you're saying, just waiting for the people that young now that are embracing crypto to enter the positions to power, essentially. But I hope that's not the case because that's a... If if for any innovation, we have to wait, sorry to say for the older folk to to pass away.
+ 
+ Brian Armstrong: Yeah.
+ 
+ Lex Fridman: That's not an efficient way to to make change.
+ 
+ Lex Fridman: Yeah.
+ 
+ Brian Armstrong: That is that's a super interesting topic of how people's minds become less plastic as they edge.
+ 
+ Lex Fridman: Know. I guess it's a feature. It's it's called wisdom. But then we also need the wild ones to explore exploration versus exploitation. You wrote blog post, it's really interesting in September twenty twenty titled.
+ 
+ Coinbase is a mission focused company, like what we're talking about. Yeah. So one interesting thing you said in that blog post is that we're not going to be distracted by sort of activism within the company. That's not related to the mission of the company. Now that's a rare thing for company to state for companies ceo at the state.
+ 
+ Especially in this climate. Can you first of all, describe in little more detail what you meant Did you receive blow back for this?
+ 
+ Brian Armstrong: It definitely received some. But yeah. I'll I'll describe what I meant. And if you wanna talk about how it came to that too, we can know about that. But What I meant is that there's a lot of companies right now, including tech companies, but not exclusively where you know, I think like great companies, they have an important mission.
+ 
+ They're trying to do something really good for the world. And unfortunately, they're getting a little distracted from that times because of employee activism that is causing the company to basically jump into whatever the current thing is and try to help is like, the positive interpretation. You know, the negative interpretation would be to virtue signal. And my view is that this is actually kinda destructive to... This is largely an American company phenomenon, by the way.
+ 
+ I I I I do worry that this is making America less competitive. Even though I think it myself is kind of internationally minded, but I you know, I am a citizen have a lot of my whole life here. So When we put out this statement, we had employees they were not in the Us who were confused by it. They were like, why did Brian need to say that? We're just saying you're gonna work focus on work at work.
+ 
+ That's what we were doing already.
+ 
+ Lex Fridman: Yeah.
+ 
+ Brian Armstrong: You know? And there was certain pockets of the Us, certain cities out, you know, in particular, we had employees that a very peculiar cultural phenomenon had evolved where I think people really wanted the company they worked at to be you know, almost acting like the government or something and, like, trying to solve the hardest societal issues and and how at least have an opinion on it if not contribute to the solution on almost everything. Mh. And for me, I kind of I was it was a very uncomfortable situation for me as as a ceo. I'd never quite been in this situation where most of the time when employees in the past were kind of asking me questions they would be asking about, like, you know, how we make this product better, like, what do we do with this competitor?
+ 
+ What about this regulator And it it it got to a place around that time where most of the questions we were receiving where I think even about things not related to the company, they were about broader societal issues. Like, Brian, what's your stance on x y z controversial thing? And, you know, it was I often like, didn't have an opinion on you. It's really hard questions. Right?
+ 
+ And I didn't really... I felt like it was distracting the company. People internally were getting into the fights a lot too. Like, disagreeing with each other. There were...
+ 
+ There was a thing where, like, the Slack internally was turning into social media almost with people putting in flame wars. So... And and this culminated by the way, with a walk that happened in the company. We we we we received like, some demands from employees groups about various things and was like, basically an antagonist thing with management and employee. I was like, we're all on the same team here.
+ 
+ We're if you wanna be antagonist, let's do it with somebody else outside the company, you know, that we're trying to improve the world on in that dimension. So, yeah. Eventually, I was like, okay. The company is not aligned on this. I just don't feel...
+ 
+ I I don't like the job as Ceo, frankly. Like, if if the job is to come here every day and, like, have to sq in front of like, these the most difficult societal questions, I don't think I wanna do that job. So, like, either they're gonna have to go or I'm gonna have to go. And I founded this company and I really believe in the mission, so they're gonna have to go and What I realized was that... So i basically...
+ 
+ I mean I made an an exit package available to anybody who wasn't on board at this direction. Five percent of employees took it I got the company realign towards this this mission. We're all here to do work. By the way people can they can go do any anything like political or social activism outside of work totally fine. Like, we all everybody has stuff like that in their personal life, But while it work, we can also just great work by the way, on the work.
+ 
+ Know, this is not like a no disagreement culture. Like, we should let's try to get the truth. But don't bring stuff into work that's just gonna create division, Make make the workplace a refuge from vision about all these crazy things and, like, we're all aligned here to work on the mission. Let's do that.
+ 
+ Lex Fridman: Yeah. That was really really really refreshing to hear. So this is me speaking, but there's a sense when companies take on these issues publicly from a Ceo position or anywhere else, that it does seem to optimize for virtue signaling versus solving a particular problem. Because to solve a particular problem, you really have to really put in a you have to hire huge number. You basically have to create a company with a company to take on a particular thing.
+ 
+ Right. But if you'll allow yourself to internally care about a particular issue. You're basically pac some number of employee... like, making sure slack doesn't get out of hand. And then you're doing this kind of from my perspective, especially on issues that care about fake virtue signaling, basically trying to understand what will make me look the best, well make the company look the best particular aspect.
+ 
+ And it it just seems very shallow, and it's optimizing for the wrong thing. Not for the solving of the problems.
+ 
+ Brian Armstrong: Yeah.
+ 
+ Lex Fridman: But for the making yourself look like the good guy. And trying to then leverage that to say, I'm the good guy in all situations. And it just... It's it's it's the wrong thing. And perhaps from your perspective as as a Ceo as a leader, it's also creating division.
+ 
+ Unnecessary division within people. Like, they get... Yeah. There's something about us who gets extremely argument about certain topics. They really bring out the emotion.
+ 
+ Yeah. And and I think that probably is you were saying that emotion is even probably okay maybe productive when that emotion has to do with the mission of the company Yeah. Like, you really care about the the those disagreements versus, like, something that has nothing to. Nothing to do with a particular with with increasing economic freedom using crypto. Yeah.
+ 
+ It's fascinating. It it but it was so refreshing because it's rare. Why that's a rare... So you... The city you're mentioning, we...
+ 
+ I mean, there's a bunch of cities. But, you know, San Francisco, is one such say when when that culture. And it's sad because San Francisco is also the bay area is also the hub historically of some of the greatest innovation in human history.
+ 
+ Brian Armstrong: Yeah.
+ 
+ Lex Fridman: So
+ 
+ Lex Fridman: that... There's that tension. How did that culture emerge there? Where like, the innovation was done by people that are very mission driven. You, get a bunch of smart people together to solve a difficult problem.
+ 
+ They get maybe sometimes too much blind on, but they try to balance that. And because it requires that focus to solve an actual problem. And yet, that's also the place where this culture emerged. It's a fascinating human dynamic. I don't know.
+ 
+ Somebody of you will one day tell the history of of Silicon combat Valley. Not just the innovation, but the social dynamics that occurred there. Anyway. Why do you think that's so rare?
+ 
+ Brian Armstrong: Well, because people don't wanna get attacked, it's like super... You don't wanna get canceled. Right? It's super un comfortable. You know, Nobody wants to be called a racist or whatever, whatever, you know, people wanna say on Twitter.
+ 
+ So get attack Yeah. Yeah. I definitely got a attacked. I mean... And I knew it I knew it would be controversial.
+ 
+ The only reason I did it, frankly was that I was kind of at my end. I was like, Well, like I said, earlier, like, the job the Ceo job sucks, like, either I don't wanna do it or they have to go, and I'm gonna make the company into something that I want. And, you know, I spent... I'd spent eight or ninety years in my life at that point, kind of building this thing. I was like, well, I could go start another company, but it takes a long time to get momentum with these things and you know, Coinbase is a very rare thing that happened in the world.
+ 
+ I feel very passionate about it. So... Yeah. I'm not gonna go, like, need to make this the company that I wanna work at. And what was really interesting was that there was such a huge out of support.
+ 
+ That I I knew that it would be controversial and I would get attacked. And predictably, you know, there was some some journalists and, you know, New York times and always these people who kind of like went and started writing hit pieces on on the company after shortly thereafter, and they basically just call people who left the company and, like, you know, can get quotes on whatever they want and then they'll write a story. So mainstream media, I lost a lot of trust in mainstream media, frankly after that, and of course, it's kind of become obvious. Since then that most mainstream media is like hyper politicized at this point. It's basically either super left or super right, and it's not really that focused on truth.
+ 
+ So that's that's kind of unfortunate. Because I think journalism actually, like, really important in society. So that that whole thing got eroded in the Us. Luckily, there's sort of new media, people like you and a whole bunch of people.
+ 
+ Lex Fridman: Did that blog posts help that statement The the ninety five people that remained Is this still something you struggle with? Because there it's also culture the broader tech base.
+ 
+ Brian Armstrong: Okay. So that was an interesting thing, which was that So the ninety five percent of people stayed, I got a huge out of support from people who said, thank God you finally spoke up and said something because Frankly, it was making not very fun place to work either. And I realized that there is I think there was a... I think is it the seem to let has this blog post about the tyranny of the the one percent or something like that But there's basically a relatively small group, one and five percent or something like that that is really upset about something. It's not the majority of the company.
+ 
+ It's like five percent there's another fifteen percent or something that are sympathetic to the cause. They're they're actually is somewhat adjustable. They they will go along with whatever... Because it sounds reasonable. You know, these are, like real issues they're talking about it's not not to say that it's not real.
+ 
+ And they'll kinda get swept up in it. But there's an eighty percent of the company that basically doesn't agree or just wants to get their work done without all this drama and or distraction. And they're afraid to speak up because if they speak up, they're afraid of being again called racist like fired, you know, os size amongst their peers. And so it did require get to get to a bad enough place for me to finally say, you know what? I I just I feel like I have to do this live through the short term attacks of the press, which ultimately was very freeing for me because now I don't really care.
+ 
+ And now I can actually just build the company that I wanna build without, like, caring about that. So And then what was cool was a lot of really great people reach out to the Coinbase base too after that and we're like, hi... you know, I... I'm an really engineer at Google or whatever and, like mh this culture has gotten kind of messed up and like, I wanna work at a company that's willing stand for that. And so we've gotten a lot of good people come over.
+ 
+ Basically what I realized and by the way, our diversity numbers and all that stuff, like, people told me when I was drafting this poster like, don't post this. You're... Like, people underrepresented groups will never wanna work at this company again. I was like I don't think that's true. Like, I talked to, like, our E g groups, and they're not telling me they care about this stuff that much.
+ 
+ They're telling me they just wanna, like, be respected at work and do good work and contribute. So my gut was telling me that that advice was wrong and, like, I can tell you a you're... Year after doing it, like, our diversity numbers are basically either the same or better in in every category. So that turned out to be false. Look, I I hate to be like, like, you know, polarizing on in either dimension here.
+ 
+ Like, I just wanna get good work done and build good stuff with technology. So you know, I think companies should just have, like reasonable policies, like, you wanna get rid of bias and hiring. You wanna attract great people from all different backgrounds. Like, you know, we have pledge one percent, we put one percent of company equity into a foundation. Like, I hope we're able to do good stuff with that.
+ 
+ That's you know, give back in some way. But, like, the main... The main message, I guess for me is, like, the core the core mission, the core work that we're doing on economic freedom and just all of our products, are that is like, the main value that we're contributing in the world. Like, let's just do that more and hopefully we can get from eighty nine million verified users to a billion or whatever. And then I just think that's how we'll have the biggest
+ 
+ Lex Fridman: impact. It's it's tempting though. So interesting how companies get tempted to to help. Yeah. It's like, and you step in, and it's...
+ 
+ It's almost like a drug and and then you can't you forget... I mean, like, all of us in life, doesn't have to be companies you get distracted.
+ 
+ Brian Armstrong: Yeah.
+ 
+ Lex Fridman: And maintaining focus, like, you're you're absolutely right. The way for coinbase based add value to the world is to... To maximize the mission that it's on not not other not other stuff. And when you get wealthier more successful, this becomes more more tempting to just help out in some other shallow ways and Fascinating thing and you just kinda brought that to light. So it it's very refreshing.
+ 
+ And it shouldn't be controversial to sort of focus on just getting stuff. Yeah. Well,
+ 
+ Brian Armstrong: let me ask you. I mean, do you think that this... It's and all these things tie together. There's like a general trend of, like, more censorship, you know, there's, like, more cancel culture. There's...
+ 
+ Some of these, like, freedom values are kind of, you know, even like freezing people's accounts, like the trucker thing that happened. And it seems like there's a general trend of more authoritarian you know, policies there. But do you think that... Do you feel like the tie is turning on that? Like, there's counter examples to it We've seen recently.
+ 
+ Lex Fridman: Right I think it's the last gasp of old way of doing things and so there's desperation and on. Because to be fair, It's kinda the Internet which is where the source of a lot of this, where people have a voice is making the power centers of the world really nervous. So that's where that's coming from, I think. And and the internet internet is tricky It's it's weird. It's full bots.
+ 
+ Brian Armstrong: Yeah.
+ 
+ Lex Fridman: It's full of, like, misinformation of all kinds. Yeah. Full of large groups with conspiracy theories and so on. And I mean, misinformation broadly, people are mis using the word misinformation. They're just...
+ 
+ Governments are just labeling random things with misinformation just to censor them. But I just think it's just like a new world, what the internet is really finally taking hold where there's billions of devices and everybody has a voice it's almost... Basically governments and powerful people are slightly losing hold of power. And they're starting to freak out a little bit. That's it.
+ 
+ And yeah so and then once you have young people that are coming up now, gain power. I think we'll we'll rebalance everything. And and then there's... Yeah, like you said, promising signs. That it's obvious that the majority of people want freedom.
+ 
+ And that means a lot of things. They means economic freedom that means freedom type of voice freedom to move around freedom to act in the way they, you know, without without reasonable sort of limitations by people that don't have their best interest. And. I I gain more hope from just regular people that are fighting and, like, demanding the being able to have freedom speech or more specifically sort of resisting crude over reach of government in the acts of censorship. At least in the united States.
+ 
+ And hopefully that pro out to the rest of the world that's struggling at a much more basic level what people being put in prison for the words they say, not just banned from dr.
+ 
+ Brian Armstrong: Right. Could be worse.
+ 
+ Lex Fridman: What are some lessons from your failures and your successes Mh about what it takes to run a company. I think one of
+ 
+ Brian Armstrong: the things that I learned about leadership is that, you know, I never really thought of myself as a very natural leader to be honest. I don't think I was a natural leader. But so I I always envisioned, you know, good leaders as like, these military generals, like they seem so like confident and they're just, like, bark orders, you know, like, charge that hill and do this and I was I was actually, like, more introverted and kind of... I wasn't really confident in the way I communicated and... you know, And so What I realized is that there's lots of different kinds of leaders.
+ 
+ You can be any kind of Ceo you want. Right? I was kind of more of, like a product technical focused Ceo. And I prefer to sort of hear everyone's opinion, and I wasn't just gonna, like, render a decision in the room in some like, kinda of heated moment and, like, piss off half people. I would be like, alright.
+ 
+ I'm gonna go think about it, and I'll send you my decision later say or tomorrow, whatever. And so I I would I found ways to kinda make it work for me where I could basically I always try to avoid, like, you know, when people getting, like, super emotional about something and, like, I think they're their are thinking new judgment goes down. Right? And it's like never make a decision when you're angry. Right?
+ 
+ And so if I would always sort to try to get a sense of... Are these people like, trying to be right? Or are they trying to seek the truth? You know, and you you can do these little tricks like, you know, Okay. You argue that person's position.
+ 
+ You you are other one and like, see if you can genuinely represent it now I know you're listening and, you know, these kind of things. But I guess... Sorry. Give back your question about leadership. I think I basically just kept doing things that were a little outside my comfort zone.
+ 
+ And then my comfort zone kept getting bigger and bigger. You know? And so that's... I think that's how you build confidence is... You do the thing that's scary and it's like a little outside.
+ 
+ And and like, when I first started Coinbase based, I never managed anybody. I would've have I would've have never I been scared to death to have put out, like, a very controversial opinion like that and sort of Alright. Five percent of people will go, you know, we didn't know what percent it was gonna be by the way. Could've have been one percent It could could've have been fifty percent like, but we went into it scary because I... It was a scary thing I was like, I don't know.
+ 
+ I think this is right. I'm just gonna do it. So if you do... If you do enough scary things like you'll build the confidence and I feel like I'm still on that journey. Every every year or two at coinbase based, there's some big thing that comes out is like, oh, my god.
+ 
+ Like, I didn't sleep well for a week and, like, this is the next level. Right? But that's how... That's how you learn grow.
+ 
+ Lex Fridman: So you're still going up that mountain through the fog one step at a time.
+ 
+ Brian Armstrong: Yeah.
+ 
+ Lex Fridman: Can I just quickly ask you about a couple other efforts that super interesting you you involved with. So first of all, a little bit more old school, fascinating effort to research hub. So what what what's that about? The github for open science.
+ 
+ Brian Armstrong: Yeah. Okay. So basically, I've had a chance to try to help a couple other companies get go off the ground too because I I wanna see various efforts out there succeed. And one of them... I I've always thought about, like, why is scientific research not more like, open source software.
+ 
+ Why couldn't it be much faster? Right? And there's... You've probably have seen this like in an academic setting. Right, But there's all kinds of things that feel very equated to me about scientific research, everything from the funding process and grants to help peer review works, to how you submit the journals, all the cost associated with journals.
+ 
+ You know, the the people you'd think like you'd get paid for this or something it would then be available to attack... All the taxpayers free, but no. They're like, they're all pay walled and there's, like, these big companies that have sort of in my view kinda held back innovation here. So... And and the prep servers like bio archive and archive dot have really helped this.
+ 
+ But those websites are... They look like they're kinda from, like, fifteen years ago or something.
+ 
+ Lex Fridman: It's a Craigslist
+ 
+ Brian Armstrong: or Yeah. So anyway, I... One of the things I... When once Coinbase went public last year I had a little of liquidity and I was like, alright. Let me find a small team.
+ 
+ Let's see if we can... If they can, like, go off and make something better here. So we have a... We have a prototype out there. It's at research hub dot com.
+ 
+ People can check it out. And it's basically... you know, the first version is kinda like reddit for science. There's, like various hubs which are like, journals. You...
+ 
+ But you can publish papers there. You can use an electronic lab notebook to sort of have a modern day paper which is not just a Pdf that's static, but it's a living document ideally in the future, you know, you can get comments and feedback from people in there, you can update it over time. We want people to be able to share the code and the datasets associated with their... Research papers not just a Pdf. In the future, we wanna make it even where, like, you know, people can get funding for science through through that site and even license out innovations that they've made because the other thing I I've noticed in life is that there's kind of, like there's a bunch of people working on science, and there's a bunch of building companies.
+ 
+ And they very rarely intersect, but when they do, you get the best things like mh like Spacex and Gene tech and even Google and, like, even Coinbase was based on regions paper, the big one white paper. And so most business people are, like, creating companies that don't have any scientific innovation. They're just like marketing based on, you know, whatever. And then a lot of scientists are making things, which never actually benefit humanity because they're not commercialized and turned into products. And so if we can somehow create a translation layer between those two groups and help them, you know, help align the market forces align scientific of research to market forces so that they're more incentivized, like, if you if you discover Crispr or something like that, like, you should be a billionaire, you know, and like, all the downstream implications of that.
+ 
+ Not going through some antiquated tech transfer office or whatever. And if you and if your entrepreneur, you should be looking to commercial the latest scientific innovations. And so that's kind like the long term vision for that site. I think it's just an early step today, but we've got, like, a really passionate community on there that are jumping into, like, you know, computer science or longevity or various bio hubs or whatever. And, like, beginning to source the best innovations, but also discuss them and prove them and publish through the
+ 
+ Lex Fridman: site.
+ 
+ Lex Fridman: So I'll I have a question about sentence, but first let me say for people listening outside of academia might not be familiar within an absurd situation. So there's journals like you mentioned and scientists published in those journals. And the journals provide very little value accept matching you with reviewers that are unpaid. Mh. And so in the digital world they're providing basically almost no valid except hosting your paper.
+ 
+ And they put up a pay wall and charge people to access that. And that charge is not like, even fixed fees. You're talking about a lot of money. Mh. So they're basically blocking your research that should be wide open.
+ 
+ From the world and creating a pay. It's it's a fascinating like scam that's actually holding back... I don't... It's shitty scam, because you're not making that much money. I feel like a definition of a scam should at least be making money.
+ 
+ So like significant amount of money. You're basically making shitty money and holding back all of human knowledge. Okay? So that put aside and people get a little confused because the journals aren't the ones paying the scientists. People think like the journals are somehow funding the scientists, therefore, they have the right to pull up a payroll.
+ 
+ And no no no. The funding is coming from elsewhere. Channels Yeah. Are the middle man that nobody asked for, especially in the digital world. Anyway anyway.
+ 
+ That said, there is a interesting kind of incentives for scientists, which is prestige and so on. So mh. There's a a thing with journals if there's... If there's a prestigious journal and you pass the review process you get to that journal, or or a Prestigious conference in computer science, then that's seen as a good thing in your resume. Mh.
+ 
+ And not just resume. Within your community, that's a respective thing. Is there some way to achieve that same kind of incentive in an open in the open setting of research hub. So, like, where I could say, I got x y and z, like, look, I'm impressive because this happened on research
+ 
+ Brian Armstrong: I think you're right. Like, the whole academia like, progress track is about, like, where you got published and how many citations and it's it's kind of like a false economy. Of reputation because, like, there's not real money backing it. And so I think we've thought about this a little bit and I think the research hub team has an opportunity to do something here that basically says like, okay. I had the top paper for twenty twenty two in you know, biology on in here And you and you you basically publish a list...
+ 
+ A leader boards of these, like, the top, you know, for the month, the the year, in all these different categories. Then actually, you know, we should probably give out grants and awards in addition to that, fun those people almost like fellows or even give out, like, you know, like, the nobel prize. I it there should be like, a research hub prize or something and, like, ship people maybe maybe even ship like a print version of a journal that is the top papers in each category in each month or whatever. And then like, people wanna put that in their wall in the lab and, like, So I do think we need to sort of change... I don't know.
+ 
+ Like the the traditional folks in academia or science, would probably think this is like, crazy a crazy idea. But I think we need to change the culture to not celebrate getting published in pay journals. Almost like friends don't let friends publish in like, pay while journals, like, because that's it's just not helping humanity. So, like, you know, it should be more prestigious to publish in an open science way. And get the top spot.
+ 
+ That should be celebrated above being published in whatever I don't even you wanna name one of them. You know?
+ 
+ Lex Fridman: Well, there's currently It's the culture has already shifted to where almost everybody publishes an archive by our archive and so on. Yeah. But So that the culture is there on that. That's scene friends don't let friends not publish open, but then their the prestige thing is missing, which is like anyone can publish an archive. Yeah.
+ 
+ So how do you know it's actually a strong paper. Now funny enough, even with the crap systems we have now. The word is powerful. Like, you have a... Like, citation system is pretty powerful.
+ 
+ Lex Fridman: So like
+ 
+ Lex Fridman: you say, okay. This is a strong paper. Don't these reviewers are human eyes or the reviewers. Like, the the community errors the reviewers. So it's already...
+ 
+ It's sort... Like, that part is there, but it it would be nice to
+ 
+ Lex Fridman: have, like,
+ 
+ Lex Fridman: you know, nature level. Like, this is respect. This is a respectful accomplishment. Yeah. And something like a leader board, but a stable kind of system.
+ 
+ Brian Armstrong: Yeah. And I should mention so there's a crypto angle to this too, which is so research hub has a coin associated with research coin. Mh. And it's basically if if people, you know, upload your paper or, like, support it, you'll accumulate more research coin which is basically like rep or, like a real reward token. And so that is a way to I guess, measure the the community's collective view of that paper.
+ 
+ A form of peer view, and it can even be weighted by, like, the reputation of the people voting on it and that sort of thing over more time. Yeah. I think the the last thing I'll just say is that so I think from from a... like, a prestige point of view, It won't start off that way. It'll probably start off, like, being a little more quirky.
+ 
+ Like, you know, like, you remember when Youtube first started it was, like, people posting weird cat videos and stuff. And but now, like, you know, if you have a million subscribers on Youtube, that's probably better than getting like a Tv show on Nbc or whoever the traditional gatekeeper was. So my hope... It might take ten years, twenty years whatever, but I'm hoping that this can sort of be the new prestigious way that that young people publish in science and it'll be come to be viewed as more prestigious. The the journals traditional journals will be viewed his old fashioned.
+ 
+ Lex Fridman: Well, it's definitely a a system that could do a lot better. And there's a lot of incredible brilliant people doing size. They deserve better the better platforms. Yeah. So another thing you're taking on and helping out with is this new limit.
+ 
+ Which is looking longevity.
+ 
+ Brian Armstrong: Yeah.
+ 
+ Lex Fridman: What's what's the idea there?
+ 
+ Brian Armstrong: Yeah. Okay. So as you can... I'm excited about science. Like, i I think, you know, science is sort of the basically, if you get scientific innovation, then you get better products and you get better economic growth, and then you get all kinds of, like, surplus in society that can go to arts and philosophy and, like, all kinds of stuff.
+ 
+ But with new limit, so, yeah. I I kinda Got. I started hosting some dinners with scientists last year, and I was learning about all kinds of the latest stuff happening in Bio, and there there's a lot of really cool stuff happening with, like, Car t cells and Crispr and all these things. And anyway, one of the topics that I started to learn more about was something called cell programming. And, you know, people maybe have heard of this induced in stem cells where you could take like a skin cell and turn it back into a stem.
+ 
+ So And S, Yam when the nobel prize for this work that was done in two thousand six. And, it's kind of a crazy thing. You can turn one cell into another another type of cell. Well, people recently have been experimenting with different types of transcription factors that would either not you don't want to sell to go all way back to being a stem cell, you can end up getting, like, cancer cells and things like that. But you want it basically to the sell to revert a a little bit earlier and it's, you know, it would call it the W landscape, but it's basically like go become act start to act like a bit of younger cell but not to to d differentiate and become more like a stem cell.
+ 
+ And so I decided this might be an interesting area to go fund. I think that that team has come together there's like, some really talented people who've come together to help get that off the ground and they're they're basically building a a a platform that can test a lot of different transcription factors on different cell types. And hopefully find ways to rejuvenate different types of cells and tissues to extend human health span. I mean, the moon moonshot goal here, you know, the get to mars is that there could be some therapy here that in... I don't know, ten or twenty years that you take and from a whole body point of view, is sort of re tissue, not just one type of like your immune system, but eventually, your whole body maybe even your brain so that, you know, we don't have that issue where people who are older have trouble learning or they're more os and their thinking.
+ 
+ To me, this is just... I I always think about... you know, it's it's actually a little inspired by Elon. Right? It's like, what are some of the biggest thing in the world like that are probably high technology risk.
+ 
+ But if they did work, maybe they're they're kinda low chance of working. But if they did work would have enormous impact. I like the idea of trying hard tech problems, especially for people, like, founders like me who've made some money in software, which I think we're in kind of like a golden age of software so there's, like, fortunes to be made. But if you if you do make some money in that, my hope is people will, like do atoms not bits, you know? And and try some of the harder things like in Biotech or you know, I guess, he's doing cars rockets and stuff.
+ 
+ But anyway, it I think we should try hard hard tech, you know, physical science problems as well and see if that can advance for team
+ 
+ Lex Fridman: human. Yeah. So he's also doing bio with Neural. Yeah. And I feel like bio is tough.
+ 
+ Yeah because it's messy. We don't understand it as well. We don't understand that. The risk is higher in terms of not the risk is higher, but like, you have to deal with the actual sort of... To get to human.
+ 
+ To get to to stuff where it could be therapies for actual human bodies.
+ 
+ Lex Fridman: Is is tricky.
+ 
+ Lex Fridman: Yeah. Because you have to prove that it's safe it's fact of all those kinds of things with with Fda. I mean, it's just it's tricky. It's very difficult.
+ 
+ Brian Armstrong: It's yeah. It's a long it's a long journey. I mean, if I can give a quick plug, so I... Yeah. I'm on the board at new limit.
+ 
+ We're hiring talented scientists that are interested in the seller programming space. They don't necessarily have to be coming from, like, an aging background or anything like that. There's sort of a small group people doing even
+ 
+ Lex Fridman: because some the new thing. This is a is new limit relatively you.
+ 
+ Brian Armstrong: Yeah. It's very new. There's a there's a small team today, just a handful of people. And so we're we're hiring more there if people are excited about that space, reach out and same thing for research hub. There's a small team there that's really awesome that's doing more like software engineering design, product, that kind of stuff.
+ 
+ Lex Fridman: What advice would you give? You put on your old wise sage hat. What advice would you give to own people today? High school, maybe undergrad college. About life.
+ 
+ So, like, career, having a career, they could be proud of or maybe a life that can be proud of.
+ 
+ Brian Armstrong: So people can do whatever they want to be happy. Right? So there's not one way to do it. I do think that some people a particular type of people out there, a lot of people actually... They wanna have an impact in the world.
+ 
+ That's how they get a sense of fulfillment. Right? So I mean, you need to have, like, health physical health, you need to have good relationships, like there's lots of things. But most people wanna do something important. They wanna have fulfilling work a way that they can feel they're contributing.
+ 
+ I think a lot of people... Young people today are are thinking, like, you know, I should be an activist or something like that. And there's people in the world who have power, and I and I
+ 
+ Brian Armstrong: don't... A lot of people who don't. I don't have power. And so the way to change the world is to, you know, speak truth to power or, like, criticize power
+ 
+ Brian Armstrong: and try to pressure them to change. To me, I don't think that's the right way to actually have an impact in the world because
+ 
+ Brian Armstrong: you know, everybody has probably... I think people have more power than it than they realize. And by the way, it's easy to be a critic. It's hard to actually change
+ 
+ Brian Armstrong: these things and fix it. And so you'll get a lot of accolades from friends and things like that if you kinda go around criticizing. You know, it's easy to do. Like, everything is broken and could be better. Including, you know, stuff I'm working on.
+ 
+ I I find, like, so frustrating ratings, the million things I want to be better about, like, what we're doing Coinbase. So b be the person in the arena, You know, like that theodore roosevelt quote. I think you you said it right? Like, go to glass and stare and view abyss. Like, if if you really wanna have an impact, either join a company that has a mission that is trying to fix the thing you're passionate about or start...
+ 
+ Start that company, if it doesn't exist or start a charity if if it's not suitable to be a company or or whatever it is, but go try to be a part of this solution. Don't just, you know, criticize or be a part of the problem. My hope is that more people can, you know, realize that they they actually can have a meaningful impact that way. And I I think that to me technology is actually one of the most important ways to improve the world. Like, if if you look at climate change, like, a lot of the best ideas like Carbon, all these things it's it's a technology thing.
+ 
+ Right? If you wanna try to fix education. It's like, look at, like, khan academy and all the stuff going online. Like, if you wanna if you wanna fix, you know, whatever transportation and, like, the financial system and global freedom and, like, quality of all these things like there's typically the way to get something changed in the world today. Is with technology.
+ 
+ And so I do think people... It's very bizarre to me there's this kind of like anti tech thing going on. Look, no... Nothing is perfect. Like, if you create something new and, like, tens of millions of people use it or billing people use it.
+ 
+ It's like there's gonna be some bad people who use it too. Okay? And there's... You know, society is complicated, but, like, I think most of these things have been net positive, because most people in the world are good is is least my view. So, yes, we can mitigate, like, the one percent of bad people trying to, you know, do something but ninety nine percent of people wouldn't world a good, and the way you can improve the world is with technology, joining companies starting companies that are working on the right stuff.
+ 
+ So I hope Hope more young people do that and just... If you're not sure what to do, like, just get started with anything, that's how you learn.
+ 
+ Lex Fridman: And basically have the optimism that you have the power to do the change. So... Yeah. It... It's it's easy to distract yourself by being the critic that's almost like acknowledging to yourself that that's all you can be.
+ 
+ But basically, everybody has the power to be the fixer. I I like chew glass and look into the abyss. That's much more fun than it sounds. What do you think the meaning of this whole thing? Why are we here?
+ 
+ He's life yep. What's the meaning of life. What's this existence we got. You're trying to increase the amount of economic freedom on this planet or trying to alleviate some of the suffering. Yeah.
+ 
+ So why?
+ 
+ Brian Armstrong: I don't really think there is any point to life. You know, somebody once told me you know, if you go into these, like, kind of really big ego existential questions, it can get a little scary because, like, you you stare off the cliff, and there's like, there's nothing there, you know? One this one person told me what time they were like, you know, Brian, you should... You should probably snorkel don't sc. I guess and I think they were trying to say like...
+ 
+ I I some of my friends have done this right? They they'll go to, like, you know, epic meditation retreats and, like, I'll they'll kinda come back with all this existential dread of, like, what's the meeting at all? And then, like, as far as I can tell, we are just some organic molecules in the ocean started, like, dividing and replicating and the selfish gene and all this stuff like, basically ended up here. And our only... It's it's some kind of like, really naive algorithm that's just kind of trying to get us to survive and replicate and we have Dna just like, every other animal.
+ 
+ And so we and we happen to develop these, like, really cool new. And so now we're sort of self aware and we have all these big questions. And maybe maybe we'll create another, you know, as computers get better, we'll create the simulation inside our thing and I think it's cool. Like, we should basically I just wanna keep watching the movie, you know, unfold. That's part of why I wanna work on, like, new limit is really cool because it's helped...
+ 
+ If people can live longer whether that's uploading their brain to the cloud or, you know, basically through... We get biology to work or the strong Ai to work or whatever. One of those two hopefully works out, and then we get to... We get to keep watching the movie and see how it all unfolds. I think that's fun.
+ 
+ And so don't know if that's like an answer, but I guess I don't think there's any real purpose, so just try to have fun.
+ 
+ Lex Fridman: Well, the cool thing is that we get to write the movie as it as as we watch
+ 
+ Brian Armstrong: it. Yeah. That's exactly right. I mean, that's like the steve Jobs quote and all that where he's like, everything around you was invented by some somebody who just was like, that this is a crazy idea they thought up. So once you realize you can kinda do anything you want.
+ 
+ Then that's what you started to go... Do you start to go try crazy your stuff. Mh. I mean, when... This is another one of those areas where not to get you out there but like, you know, when you're and I was...
+ 
+ I think you can build your comfort zone around, like, people being upset with you. You can also build your your range of what you think is possible. Right? Like, when i the... When I was in my twenties, I was, like, reading all these books about, like, self improvement and goal...
+ 
+ Right how to write down your goals and stuff and my goals were, like, someday, I wanna make a hundred thousand dollars a year, or something like And that was And, you know, and it seems like a little outlandish or what I wrote down these goals. Like, I wanna own rental property or something anyway. And I... And then I slowly started to get get some of these things done over a couple of years. And so I started to think a little bigger.
+ 
+ I remember one time I wrote down this goal where I was like, well I was like they're craziest thing I could think. I was like, what if I... I i wanna write... I i'm gonna start a billion dollar tech company. That's crazy.
+ 
+ And I had... I had never started like a million dollars tech company or any any tech company really. So what business did I have writing that goal down? I remember I wrote that on a piece of paper like like, probably every day for year or something almost. Right?
+ 
+ I don't know if it was every day, but, like, I wrote it down a lot. And and so little things started to happen. I was like, Alright. Well, maybe I should move back to the bay area from Buenos aires. Maybe I should try to apply to y comb or whatever.
+ 
+ Like, and I started thinking about these ideas and whatever gets you fired up, it doesn't have to be like some company go or startup up thing. It could be anything. Right? Maybe you wanna publish a book or like, do something creatively or whatever. Anyway, you...
+ 
+ You know, I think, like, within seven years, No. It's probably only ten years of me writing that goal down. Coinbase had evaluation over a billion dollars. So it it was out of my realm of what was even possible. And then within ten years, you can you can accomplish more in ten years than you think less than in a year than you think So now I start...
+ 
+ Now I'm like, okay. What's the next goal? What's the... Okay. Maybe.
+ 
+ I wanna get a billion people, accessing the open financial system through our products every day, you know, that would be cool for for humanity and that's a pretty crazy goal. Like, there's only eight billion people or something, right? So the one out of eight Or maybe I can radically... like, if I make some, like, the right investments or around whatever I can, like, help radically extend human health human health span or whatever. Right?
+ 
+ So try crazier stuff. I don't know. Even if it doesn't work, like, hopefully, you'll you'll advance the state of affairs like something interesting will happen. And so most people today, they look at... They look at people trying this stuff, and they're like, oh my god.
+ 
+ They're so they're genius. So there's whatever whatever... And it's like, or they're an idiot. Like, one of one of the two, neither neither one or true. It's just like anybody can start by thinking about what they want.
+ 
+ And then, like, go for it. And then and once you get that, like, go for something a little bigger. And like, you just have fun with it and the universe is a way of smiling and helping
+ 
+ Lex Fridman: you out if you were just write it down and and you dream big. Yes. There's something about just karma about the energy you put into this world. Other people help you out outdoors a open. You'll notice that the doors opened.
+ 
+ And you'll... You could actually have a shot and making it happen. So for world.
+ 
+ Brian Armstrong: Yeah. I mean, I don't I've I don't really subscribed to all like, the Woo interpretations of this my my like, very rational brain interpretation of it is that if you just wake up every day and write down like, what you wanna get done towards your longer goals at your larger goals, it's just It's just on your mind that day. So you start to notice opportunities and you think about it more.
+ 
+ Lex Fridman: So, Brian, thank you for joining big. Thank you for doing what you're doing. Doing incredible engineering at scale. Trying to help all people from all over the world. And actually helping me personally get more into crypto.
+ 
+ Just because it's so easy. So so thank you so much. And Thank you so much for giving you extremely valuable time today to this awesome conversation.
+ 
+ Brian Armstrong: Thanks for your awesome podcast. I I love it and listen to it often.
+ 
+ Lex Fridman: Thanks for listening to this conversation with
+ 
+ Lex Fridman: Brian Armstrong. Support this Podcast guest. Please check out our sponsors in the description. And now let me leave you with some words from Benjamin Franklin. And investment in knowledge pays the best interest.
+ 
+ Thank you for listening. And hope to see you next time.

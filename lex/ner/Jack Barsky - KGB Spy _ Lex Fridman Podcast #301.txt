@@ -1,0 +1,270 @@
+TIME morning 
+PERSON Jack bar 
+ORG Kgb 
+ORG Kgb 
+PERSON Jack 
+ORG Kgb 
+ORG Sv 
+ORG Fbi 
+ORG Cia 
+ORG Sv 
+ORG F 
+ORG Kgb 
+ORG Kgb 
+ORG kgb 
+DATE nineteen fifty four 
+PERSON Stalin 
+ORG Kgb 
+PERSON Stalin 
+DATE between nineteen, twenty three 
+DATE Between nineteen twenty three and nineteen, fifty three 
+DATE thirty years 
+PERSON stalin 
+ORG Kgb 
+EVENT World war 
+ORG Kgb 
+ORG Kgb 
+ORG Kgb 
+ORG Cia 
+ORG Mo 
+ORG Kgb 
+PERSON Masa assad 
+PERSON Cia 
+EVENT World war two 
+PERSON Hitler 
+PERSON Napoleon 
+PERSON Bro 
+PERSON Lenin 
+PERSON Vladimir 
+PERSON Putin 
+PERSON Stalin 
+PERSON Lennon 
+PERSON Jo 
+PERSON Hitler 
+PERSON Rein Galen 
+PERSON Hitler 
+PERSON Ge 
+ORG Cia 
+DATE seventeen year 
+DATE Four years 
+DATE ten days 
+EVENT World war two 
+EVENT World war two 
+EVENT World war one 
+EVENT World war two 
+EVENT world war two 
+PERSON Hitler 
+PERSON Rib T 
+PERSON Molotov 
+LOC Western Europe 
+PERSON Stalin 
+PERSON Stalin 
+PERSON Hitler 
+PERSON Hitler 
+ORG this soviet Union 
+PERSON vladimir Putin 
+ORG the F b 
+PERSON Go 
+PERSON Barb 
+ORG Democratic  Yes  German Democratic Republic 
+DATE a couple of months 
+LOC South Corner 
+DATE today 
+DATE ten year 
+LOC Europe 
+LOC Europe 
+PERSON the Karl mark's 
+DATE the mid twenties 
+DATE Saturday 
+PERSON James Bond 
+PERSON James Bond 
+PERSON Herman 
+PERSON Herman 
+DATE about a year and a half 
+PERSON Herman 
+DATE early to mid thirties 
+PERSON Robin 
+ORG Us 
+ORG Us 
+PERSON Herman 
+PERSON Herman 
+DATE a year and a half 
+DATE three week 
+LOC West 
+PERSON bo 
+ORG Kgb 
+TIME five minutes 
+DATE tomorrow 
+TIME noon 
+PERSON boris 
+DATE ten year 
+PERSON Yan 
+PERSON Floyd 
+PERSON James Bond 
+DATE ten year 
+PERSON James Bond 
+PERSON Kgb 
+PERSON James Bond 
+PERSON James Bond 
+PERSON the Nikola Nikolai 
+DATE five years 
+TIME a couple hours 
+PERSON James 
+DATE about six months 
+DATE six months 
+PERSON Nikolai 
+PERSON Nikola nikolai 
+MONEY a thousand mark 
+DATE about two years 
+ORG Walmart 
+DATE about two years 
+PERSON Vladimir Lenin 
+PERSON Lennon 
+DATE nineteen eighty four 
+DATE nineteen eighty four 
+PERSON Nikolai 
+DATE two weeks later 
+ORG Lam of University 
+DATE Two years 
+PERSON hud 
+ORG Bbc 
+DATE nineteen eighty two 
+DATE the eighties 
+DATE the late seventies 
+DATE Ninety seven 
+DATE Mid to late seventies 
+DATE those two years 
+DATE my fourth year 
+DATE two years 
+PERSON Jack Bar 
+PERSON William Dyson 
+DATE two three months 
+PERSON Henry Van Randall 
+PERSON Henry Van rand 
+DATE three weeks 
+DATE couple weeks later 
+PERSON the Henry van Rand 
+ORG Fbi 
+ORG American Airlines 
+PERSON Lenin 
+PERSON Dyson 
+MONEY six thousand dollars 
+ORG Cia 
+DATE the eighties 
+PERSON Ronald Reagan 
+ORG Cia 
+ORG F b 
+ORG Cia 
+ORG Fbi 
+PERSON Putin 
+PERSON vas bluff 
+PERSON Vladimir Putin 
+PERSON Alexander La 
+PERSON Vladimir Putin's 
+PERSON Putin 
+PERSON putin 
+PERSON Markov 
+ORG F 
+ORG Gru 
+ORG F 
+DATE two thousand fourteen 
+DATE twenty twenty two 
+DATE February twenty twenty two 
+PERSON Obama 
+PERSON Putin 
+PERSON Putin 
+PERSON putin 
+PERSON Eisenhower 
+PERSON eisenhower 
+LOC Europe 
+DATE the beginning of the twentieth century 
+ORG Kremlin 
+DATE the early thirties 
+ORG Nato 
+PERSON Putin 
+ORG Nato 
+PERSON Dod 
+PERSON Putin 
+DATE sixteen years 
+PERSON The Ole ko 
+PERSON Putin 
+PERSON Ole 
+PERSON Ole 
+PERSON vladimir putin 
+PERSON Putin 
+ORG Kgb 
+PERSON Vladimir Putin 
+PERSON Donald Trump 
+PERSON Vladimir putin 
+PERSON Yuri Bi 
+ORG Kgb 
+ORG Kgb 
+ORG Kgb 
+PERSON Mit 
+DATE two years 
+DATE one year 
+DATE fifteen twenty years 
+DATE two to five years 
+PERSON Be 
+PERSON Kg 
+ORG Twitter 
+MONEY billions of dollars 
+ORG Cia 
+ORG F b 
+PERSON Tina 
+PERSON Vladimir 
+PERSON Vladimir 
+PERSON Putin 
+ORG The Kgb f b 
+PERSON Stephen Crane 
+PERSON Putin 
+DATE every day 
+LOC Earth 
+EVENT World war two 
+DATE six years ago 
+DATE nineteen eighty eight 
+DATE nineteen eighty eight 
+DATE ten to twelve years 
+DATE December of nineteen eighty eight 
+ORG the United Nations 
+DATE eighteen months old 
+LOC South America 
+DATE Monday 
+PERSON Muse 
+DATE the the next three months 
+LOC the Hudson River 
+DATE a year later 
+PERSON Mc 
+DATE a ninth ninety two 
+ORG Fbi 
+PERSON Jack Bar 
+PERSON Jack 
+PERSON Zach Barr 
+DATE the age of thirty three 
+DATE almost three years 
+PERSON Fbi 
+ORG Fbi 
+PERSON Felt 
+PERSON Penelope 
+ORG Fbi 
+PERSON Chelsea 
+ORG Fbi 
+DATE Friday 
+PERSON Fbi 
+PERSON joe 
+TIME about two hours 
+TIME two hours 
+ORG Fbi 
+DATE Today 
+DATE nineteen forty four 
+DATE nineteen forty four 
+ORG Fbi 
+DATE tomorrow 
+ORG Microsoft 
+ORG Microsoft 
+TIME twenty seconds 
+PERSON Go 
+PERSON Jack 
+DATE today 
+PERSON Jack Bar 
+PERSON Edwards 

@@ -1,0 +1,1316 @@
+
+ Ryan Graves: are these interacting with our fighters? If they are, how are they interacting with the weather in their environment? How they interacting with each other? So can we look at these and how they're acting perhaps as a swarm? Especially at the East Coast where is happening all the time with multiple objects.
+ 
+ Lex Fridman: The following is a conversation with lieutenant Ryan Graves. Former Navy Fighter pilot, including Roles as a combat lead, landing, signals officer, and rescue mission commander. He and people in this Quadrant detected ufo on multiple occasions. And he has been one of the few people willing to speak publicly about these experiences. And about the importance of investigating these sighting especially for national security reasons.
+ 
+ Ryan has a degree in mechanical and aerospace engineering from Wpa and an interest career roles in advanced technology development. Including multi agent collaborative autonomy, machine learning assisted Air to Air combat, manned and unmanned teaming technologies and most recently development of materials through quantum simulation. This is a lux frequent podcast to support it. We check out our sponsors in the description and now your friends. Here's Ryan, Grace.
+ 
+ What did you think of the new Top gun movie? How accurate was it? Let's start there.
+ 
+ Ryan Graves: I thought the flying was really accurate. I thought the the type of flying they didn't how they approach the actual mission, of course, had a lot of liberties. But one thing that seems to be hard to capture on these types of things are the the chess game that's going on, while that type of flying is happening.
+ 
+ Lex Fridman: The chest came between, like, in a dog fight between the the
+ 
+ Ryan Graves: the the pilots and the enemy or between the different pilots. I'll even speak to just that particular mission they flew there. And for that particular mission, it's kind of a chess game with yourself to to get everything in place. So what kind of flight they flew is called a high threat scenario, which means they have to ingress load due to the surface to air threats that integrate air defense systems that are nearby, and they have to ingress low and pop up like we see in the movie. And in that particular movie, that was a prep planned strike.
+ 
+ They knew exactly where they're going. But there's a scenario where we have to operate in that type of environment and we don't know exactly where we're going strike or gonna be adapting to real time targets. And so in that scenario, you would have one of those fighters down like that operating as a mission commander as a forward air controller. And he's out there calling shots. Joining on those other players in order to ensure they're pointed at the right target.
+ 
+ So so that's a bit of the chess game that he'll be playing.
+ 
+ Lex Fridman: Can you actually describe for people who haven't seen the movie what the mission actually is.
+ 
+ Ryan Graves: Yeah.
+ 
+ Lex Fridman: What's involved in the mission.
+ 
+ Ryan Graves: So in this particular mission, that it's kind of what we would call a prep planned strike. So there's a known location. That's in a heavily defended area. In the air crew, in this case, i blue is four f eighteen on the initial package Their job was to ingress very low down a canyon to stay out of the radar window of the surface to air threats. What does it ingress mean?
+ 
+ Ingress means that they're going to be pushing from a start location towards the target or the objective. So there's an ingress portion of the mission in an egress portion. The
+ 
+ Lex Fridman: mission. Oh... Okay. Like, the entrance in the exit. Correct.
+ 
+ Type of thing. Got it.
+ 
+ Ryan Graves: But it changes our mindset tactically quite a bit. Right? Because when we're we're entering some place, we have the option to enter. But when we go drop a bomb on location, we're exiting. We don't have that luxury.
+ 
+ We don't have that option. So it actually changes our tactics in our aggression level.
+ 
+ Lex Fridman: Got it. And so they were flying low to the ground, and then there's surface to air missiles Mh. That forced them to have to fly low. Is that a realistic thing? It is
+ 
+ Ryan Graves: realistic. So driving those aircraft in the clutter, you know, all radar systems or most I should say are essentially line of sight. And so they're gonna be limited by the horizon or any clutter out there. And even a number of radar, if they are located up high and looking down towards that aircraft, the clutter, all the objects such as trees and canyon can have effect on radar systems And so it can be type of camouflage.
+ 
+ Lex Fridman: So that's the camouflage for the radar. But what about the surface air missile? Is that is that a legitimate wait to avoid this fly solo low, like, fly gets below their their level.
+ 
+ Ryan Graves: As far as I know, you know, you can fly into any radar right now. We don't have necessarily radars that can look through anything. So there is always gonna be the ability to mask yourself But with the large number of assets and distributed communication networks, where those radars are looking, makes all the difference and I said they are ingress past ia as and that's an integrated air defense system. And that linking of air defense systems is what makes it so hard so complicated, is that the sensors and the weapons are that's associated from each other so that if you took out the target that was shooting at you. It still has the ability to to to intercept you from another radar location.
+ 
+ So it's distributed and then it it's stronger that way.
+ 
+ Lex Fridman: You mean the the surface to air missiles, if you Like, it's a a it's a distributor system and that if you take out one, they're still able to
+ 
+ Ryan Graves: sort of integrate information about your location and strike at you. Correct. And there's a lot of complication that can go, you know, once we start thinking about distributors or something like that and the ability to self heal and repair and adapt to. Losses. It's an interesting area.
+ 
+ Are you responsible for thinking about that when you're flying an airplane?
+ 
+ Ryan Graves: To some degree. When we ingress to an area like that, we're presented with information about targets air to air air surface. Or surface there I should say. And we can essentially see where essentially the danger zone, if you will is located. And so essentially we would stay out of that.
+ 
+ And so having a a full picture of the environment is extremely important because, you know, at the end of the day if we go in that circle, we can die pretty quickly. So it's absolutely
+ 
+ Lex Fridman: crucial. So there's regions that have higher lower danger based on your understanding of the actual, whatever the the the the the surface the air missile systems are. So you can kind of know that's interesting. I wonder how automated that could be too, especially when you don't know. It seems like in the movie they knew the location of everything.
+ 
+ I imagine that's less known in most cases. And also, a lot of those systems might be a little bit more get off if I can use that technical term. Like I've I've gotten ad hoc, maybe is the... I don't know. But you know, having just recently visited ukraine a lot of aspects of the way that war fought.
+ 
+ There's a lot of improvised type of systems. So you take height high tech, like advanced technology, but the way you deploy it in the way you organize it is very improvised and at hoc and is responding to the uncertainty in the dynamic environment. And so from an enemy perspective, or whoever is trying to deal with that kind of system, it's hard to figure it out because it's like me i play tennis for a long time. And it's always easier to play This is true for all sports. Played tennis against the good times versus is a crappy test.
+ 
+ Because the crappy Tennis player is full of uncertainty. Mh. And that's really difficult to deal. But it seemed like in the movie, the systems were really well organized. And so you could plan.
+ 
+ Ryan Graves: There's a very nice review that went write down the middle of them.
+ 
+ Lex Fridman: That's how movies work isn't
+ 
+ Ryan Graves: it. Yeah. But I I absolutely agree. So, you know, what you say is is a very good point. And as you know, if we were to take as a a chunk of airspace and break it up in the little bit there'd be places that are better to fly or less good to fly.
+ 
+ And you know, we are seeing that now with what they call manned man teaming, We see technical aircraft or, you know, some type of aircraft or platform that's being automated and it's not being made in traditional sense where people think air crew are flying around to conduct missions, but it's very high level objective orientated mission planning that allows the air crew act more as a mission planner mission commander versus having to just pick the right
+ 
+ Ryan Graves: assets or fly them around and or manipulate them. Somewhat physically. So actually going back to the chest thing, can you elaborate on what you mean playing a game of chess
+ 
+ Lex Fridman: with yourself? What's when you flying that mission, what what exactly you mean by that?
+ 
+ Ryan Graves: Well, there's a few people you're usually fighting against in the air, you know, there's the bad guys, and then there's physics and and mother nature. Right? So when we're down at about a hundred feet, it's a chess game to stay alive for the pilot, and it's a chess game for the w to process the information he needs and then it to all those other aircraft that were flying around to ensure that they're putting their weapons on the right target.
+ 
+ Lex Fridman: What's the was?
+ 
+ Ryan Graves: W is a weapon systems officer. He's a back seater who is not a pilot, but they're responsible for radar manipulation and and
+ 
+ Lex Fridman: communications and weapons deployments of certain. So the the chess game is against physics against the enemy time. Time, what about your own psychology, fear, uncertainty? No.
+ 
+ Ryan Graves: No. There's no time for that type of stuff reflection and what we're flying. I wanna get... I wanna get to that, but i I don't wanna forget the point that you made about increased randomness this being a tactical advantage. You know, as we as you mentioned, you know, you can introduce autonomy into there and when you when you bring autonomy me in there And my expectation would be as we bring different abilities and machine learning as we gather more data.
+ 
+ We're gonna be able to bring the the tactical environment around that jet, the war space that it goes into will almost be at a level from the perspective where it'll almost seem like every tactical environment that go in will be rein them in yet very deadly because the system is providing a new tactical solution essentially for that particular scenario instead of just training to particular tactics that have to be repeatable and train and lethal. Right? But not necessarily the mostly because they have to be train. But if we can introduce Ai that into... And to have a level of of randomness or at least appearance of randomness do the complexity, you know, I would I consider like a tactical advantage because even our own blue fighters wouldn't be able to engage in that fight because it would it would be unsafe essentially.
+ 
+ For anything else. And and I think that's where we have to drive to because otherwise, it's all just chicken and mouse cat game about who's tactics and who knows what. But if knowledge is no longer a factor, it's gonna make things a lot different.
+ 
+ Lex Fridman: That's really interesting. So out of the many things that are part of your expertise, your your journey, you're also working on on autonomous of semi autonomous systems, the use of Ai and machine learning and man man teaming and all that kind of stuff. We'll talk about it. But you're saying sort of when people think about the use of Ai in war, military systems they think about, like, computer vision for perception or processing of sensor information in order to extract from it actionable knowledge kind of thing. But you're saying you could also use it to generate randomness that's difficult to work with in a like a game theoretical way.
+ 
+ Like it's difficult to for human operators to respond to. Exactly. That's really interesting. Okay. So back back to Tom Cruise the top one.
+ 
+ What about the dog fighting? What aspects of that were accurate?
+ 
+ Ryan Graves: So dog finding is kind of an interesting conversation because it's not the most tactically relevant skill set nowadays by traditional standards because the ranges with which we engage and play weapons are very significant. And so if we're in a scenario, we're in a dog fight like that a lot of things have probably gone wrong. Right? And that's kinda how this mission was set up. Right?
+ 
+ It was a, you know, a no win type scenario most likely. And so for a dog fight, the aircraft size and the ranges and the turn radius is, make it so it's not very theatrical. Right? The aircraft looks small and while it's intense with the systems I have and the sensors and what I'm feeling and all that. If I...
+ 
+ You know, we've done it and we've done it. Right. We take video of that and it's just like a blue sky and you see a little dot out there. So not very interesting. And so anytime it really looks interesting in dog fire arena, that's most likely fiction because we really only get close for, you know, A millisecond as we're past each other at the merge.
+ 
+ You're breaking my heart. Right? I know.
+ 
+ Ryan Graves: No. I
+ 
+ Ryan Graves: I thought, you can go and have fun, but, you know, in a dog fight specifically.
+ 
+ Lex Fridman: Maybe that was more common in the earlier wars the world war two and and before that. Where the... Is is it due to the sort of the range and the effectiveness of the weapon systems involved
+ 
+ Ryan Graves: basically. And the accuracy of the targeting systems that range. But there's also a train of thought that hasn't actually been tested out yet, which is with the advent of advanced electronic warfare fair Ew and or unmanned assets, the battle space may get so complex and missiles may essentially just get dropped out the sky or wasted such that you're gonna be close with either Ir missiles or guns. If it's a
+ 
+ Ryan Graves: no kidding, you know, must defend type scenario. For so what's electronic to warfare?
+ 
+ Ryan Graves: You know, it's basically trying to get controlled of electromagnetic spectrum. For the interest of whatever operation is going on. So in the tactical environment, a lot of that is trying to see if the radar or can we deceive the missile or just you know, stop their guide and things of that nature. And
+ 
+ Lex Fridman: it's a battle and the space of information of digital information.
+ 
+ Ryan Graves: That well f twenty two enough thirty five. Right? F twenty two is a big expensive of aircraft and it was made to be a great fighter. But that thirty five is not as great a fighter, but it's it's an electronic warfare and mission commander platform of the future where information is what's gonna win the war instead of the best dog fighter. And so it's interesting dichotomy there.
+ 
+ Lex Fridman: What's the best there plane ever made fighter Jet ever made
+ 
+ Ryan Graves: I know the avi in the in the audience are gonna hate my answer because they're gonna want that sexy, you know, muscle f fourteen Comcast type fighter or or maybe p fifty one type aircraft, but the f thirty five is maybe not the best dog fighter, but it doesn't have to get in a dog fight. Right? It's like, how you'd be the best knife fighters not getting a knife fight sometimes.
+ 
+ Lex Fridman: Lockheed Martin, f thirty five lightning two. It looks pretty sexy. There's two
+ 
+ Ryan Graves: real strengths you can have as a fighter. You can you can have the ability to kinda out muscle your fighter. Your opponent and Be on and power and right around on them. And then there's the other side of that, which is you can be overly maneuver. You can bleed the energy quickly.
+ 
+ And that's what the f eighteen was good at because it had to be heavier to land on aircraft carrier. We had to give it extra bulk but it also needs special mechanisms to slow down enough to land on aircraft here. And so it made it very maneuver. And what that leads to a lot of times, the ability to get maybe the first shot in a fight, which is very good. But if you do make that sharp turn, you're gonna bleed a lot of energy away and be more susceptible for follow shots if that one's less susceptible.
+ 
+ And so there's just kind of aggression non aggression game can play depending on the type of aircraft you're fighting.
+ 
+ Lex Fridman: Where is that thirty five land on that spectrum?
+ 
+ Ryan Graves: F thirty
+ 
+ Ryan Graves: five land somewhere behind the f twenty twos. So they'll probably be a row of f twenty two to draft eighteen and f thirty five will be out back, but it'll be enabling a lot of the warfare happening in front.
+ 
+ Lex Fridman: Is it one of the more expensive planes because of all the stuff on it?
+ 
+ Ryan Graves: It certainly is. Yeah.
+ 
+ Lex Fridman: In the movie, they have Tom Cruise fly over Mach ten. So maybe can you say, what are the different speeds acceleration feel like mach one, two three or hypersonic. Have do you ever flown hypersonic? No. Is it get how tough does it get?
+ 
+ The
+ 
+ Ryan Graves: I'm just gonna call out the the B s rejecting at Mach ten just for the record, because
+ 
+ Lex Fridman: in the Movie.
+ 
+ Ryan Graves: Yeah. There's been, I think at least one ejection that was supersonic. And I'll just say, you know, was not heard anybody's he's survived. So there have to be some interesting mechanisms to eject successfully at Mach ten, but I'll digress on that for the moment.
+ 
+ Lex Fridman: Yeah. That seemed very strange. And he just
+ 
+ Ryan Graves: walked away from it. But anyway, so, you know,
+ 
+ Lex Fridman: he seemed to shovel. Okay. With it's Tom Cruise. You know It's it's like chuck Norris or something dr. And this stressful doesn't an age.
+ 
+ Yeah. But anyway, so what what's interesting to say about the experience of of the as you go up. Mh. Does get more and more difficult
+ 
+ Ryan Graves: the end of the day crossing the sound bear is much like crossing the speed limit on the highway. You don't really notice anything. When to cross that, at least an f because we have a lot more weight than most fighters is typically we'll do that in a descent. And we'll do that full after burger. Just don't think gas into the engine.
+ 
+ And so that'll get us over the fastest I think Of got was about one point two eight. But what's interesting you don't realize is that if I take that throttle, and of an after werner, and I just bring it back and just bring it back to mill, which is full power just not after burner. The d acceleration is so strong do their friction that if throw you four in your straps. Almost, you know, I would say, you know, maybe like seventy percent of strong almost has trapped on the boat was pretty strong. So it's almost like reverse car crash for the d acceleration.
+ 
+ So the acceleration, you know, it's usually kinda slow and you don't feel anything of course when you're crossing through it, but the acceleration
+ 
+ Lex Fridman: pre violent. The version violet. Okay. But is there is there a fundamental difference you between like Mach one and hypersonic Mach five and so on does it require like, super special training? And is that something that's used off warfare that not really that.
+ 
+ No. So
+ 
+ Ryan Graves: hypersonic human flight, and if it exists is not something that's employed tactically in in any sense right now that I'm aware of. So, you know, I think of hypersonic technology, I think of missiles and weapon systems and delivery platform. I don't think of fighter aircraft necessarily. I can think of bomber or reconnaissance aircraft, perhaps, but those would be more efficient, very long, long range. So Imagine acceleration would be kind of gentle honestly.
+ 
+ The
+ 
+ Lex Fridman: the thing you experience is the acceleration on the actual speed. Mh. There's been just a small tangent, a lot of discussion about hypersonic nuclear weapons. Like missiles from, you know, Russia bragging about that. Is this something that's a significant concern or is it just the way to flex about different kinds of weapon systems.
+ 
+ Hypersonic, I do think pose a
+ 
+ Ryan Graves: challenge for our detection systems because there are you know, they're design considerations in these sensor systems as always, Right? And when you build them and the technology progresses to a point where maybe is not feasible to use that technology, you know, there's a problem, but with the... you know, the all domain and kind of cross domain data linking capabilities we have it's less of, you know, it's more of a integrated picture, I'll say. And so the hypersonic are really what it is is how fast can we detect and destroy problem? You're just shortening the time available to do that.
+ 
+ And we call something like that the kill chain. Right? It's It's from locating a target and identifying it and, you know, essentially authorizing its destruction by whatever means, employing and then actually following up to ensure that you did what you said you're going to do in some sense. Right? Does need another re attack, something in that nature.
+ 
+ And so There's an old dog fighting framework you could call it. It's called the Oo loop kind of made its way in the engineering a business now, but the old observe or you side act was initially a a fighter mechanism in order to get inside that kill chain of your opponent and break it up so that he can't process kill chain on you. Mh. And so hypersonic a way of shortening those windows of opportunities to to react to them. I
+ 
+ Lex Fridman: wanted to work to like, how much do you have to shorten it in order for the defense systems not to work anymore It seems like It's fair... you know, I... I'm both often horrified by the thought of nuclear war, but the same time wonder what that looks like. When I i dream of extreme competence in defense systems, I imagine that not a single nuclear weapon can reach the united states by missile with the defense systems or defenses. Different defense systems.
+ 
+ But then again, I also understand that these are extremely complicated systems, the amount of integration required. And because you're not using them, i is there could be, you know, there's like, an intern somewhere that, like, forgot to update the code the four trial code that like, is going to be make the different... Because you you don't have the opportunity to really thoroughly test. Which is is really scary. Of course, the systems are probably incredible if they could be tested, but because they can't be really thoroughly, tested and actual in an actual attack I wonder.
+ 
+ Even mean the...
+ 
+ Ryan Graves: I guess one assumption there would be that these hypersonic missiles would only be launched and the case will attack. It'd be interesting if there were other hypersonic objects that we could use to flex those systems.
+ 
+ Lex Fridman: Another thing that actually happened. I just have a million questions I wanna queue is fascinating to me. Is there a bird strike on the plane? Does that happen often?
+ 
+ Ryan Graves: Yeah. It's a series. They
+ 
+ Lex Fridman: damaged the to the engine, and they made it seem like it's a serious exactly a serious issue. I've hit birds.
+ 
+ Ryan Graves: I I know someone that took a turkey vulture to the face mh through the cockpit. I shattered the cockpit knocked them out. I think the... Actually I don't know personally other store. I know from the command I was at...
+ 
+ And I believe the back Had the punch out. And punch them both out. Because he unconscious, you know, on the front seat from the bird. It can kill you from hitting you. It's...
+ 
+ you know, it's like a bowling ball going two and fifty miles an hour. It can take out an engine very easily. Every airport I've flown at in the Navy, I've had to check the the third condition, if you will to see how many birds i've we've had to cancel flights because of... Because there's too many of them around their airport. Some airports even have bird radars.
+ 
+ Lex Fridman: Don't tear there systems that monitor the bird condition,
+ 
+ Ryan Graves: there. Yep. There's actual radar systems and and you can go in the certain basis you have to call up and they'll tell you what it is for the day or for that hour and other ones having in, like, their their weather report that goes out over a
+ 
+ Lex Fridman: radio. What are some technological solutions to this? Or is this just because it's a low probability event. There's no real solution for it.
+ 
+ Ryan Graves: I would say it's not a little probability invent. I mean, this is happening a lot. I mean, although the hits themselves aren't necessarily that common, or i'll say a catastrophic hit, either a near mist or a hit or the pilot having to actively maneuver to avoid it is pretty common. And
+ 
+ Lex Fridman: in fact, it seems stressful.
+ 
+ Ryan Graves: It is It's so common fact that we know that you never wanna try to go over or you never wanna go under a bird if you see in front of you. You know, i just wanna try to go over it because what they'll do immediately if they see you is and you start over and, they'll bring their wings in and just drop straight down to try to get out of the path. Interesting. I didn't know they did that. But so if you immediately if you try to go under them, they're gonna be dropping into you.
+ 
+ So you typically wanna try to go above them.
+ 
+ Lex Fridman: Is this something you can train for? Or no?
+ 
+ Ryan Graves: Is
+ 
+ Lex Fridman: this one of those things you have to really experience? It's
+ 
+ Ryan Graves: a skill set that you somewhat trained for in the duties of being a pilot sense right, being able to
+ 
+ Ryan Graves: react your environment very quickly and make make decisions quickly. So is that one of the more absurd things challenges you have to deal with and flying. Is there other things
+ 
+ Lex Fridman: sort of maybe weather conditions, like harsh weather conditions. Is there something that would maybe don't often think about in terms of the challenges of flying.
+ 
+ Ryan Graves: Birds in a way aren't a ridiculous threat for us, it's it's... A safety threat
+ 
+ Lex Fridman: that, you
+ 
+ Ryan Graves: know, anything physical in the air is something that we really have to be careful about. Whether we're find formation off with the aircraft right next to us or whether It's a turkey volt, or two thousand feet or a flock of five thousand birds, like, at the runway we have to wave off. You know? And Although their low probability, a lot of bases will have, like actual environmental protecting agency, employees that are responsible for safely removing birds or different animals that may be in the runway or flying about Well,
+ 
+ Lex Fridman: I didn't know what a Turkey vulture is and it really does look like a mixed between of turkey. And and look kinda dumb no offense to Turkey. In that movie, who was the enemy nation? Was it I mean, i I think I guess they were implying as Iran or doors at Russia.
+ 
+ Ryan Graves: I didn't think they were implying any particular nation state, frankly. I think they did somewhat decent job of having some ambiguous fifth generation fighters. The location and the stock pile. Like, I I get like, how the story kind of ins certain things, but they seem have a good job of not having anything directly pointing to another nation, which I thought was, you know, the good move. I I enjoy these type of movies as avi and, you know, as an american.
+ 
+ Right? Because it's a feel good movie, but we we shouldn't be celebrating going to war with any particular country. You know, China Russia, whoever may have these weapons. It's it's fun to watch, but it would be an incredibly serious event to be employing these weapons.
+ 
+ Lex Fridman: Yeah. We we'll talk about war in general because, yeah. It's... The the movie kind of celebrating the the the human side of things and also the incredible technology involved, but there's also the cost of of war. And the seriousness of war and the suffering involved with war.
+ 
+ Not just in the fighting, but in the death of civilians and all those kinds of
+ 
+ Ryan Graves: things.
+ 
+ Lex Fridman: Well, you wore a Navy pilot. Let's let's talk a little bit more seriously about this and you were twice deployed in the Middle East, flying the eighteen of super hornet. Can you briefly tell the story of your career as a navy pilot? Sure.
+ 
+ Ryan Graves: So I joined the Navy in two thousand nine right after college. I went to officer you sent the Officer boot camp, officer Came school, I applied as a pilot and I got it as the pilot. That was advantage of going that way. Is that essentially choose what I wanted and if I got in. Great.
+ 
+ If not, I didn't get stuck doing something else. So you knew you wanted to be a pilot. I did. I joined. I went through my initial training.
+ 
+ I went through primary flight training that all Avi go through. And I did well enough that You know, one of the first lessons At teach Navy is that, you know, you have a great career in a navy and you can, you know, see the world and do what you want. But end day it's all about the needs of the Navy and what they need. So, you know, they may not have the platform you like or, you know, you may not actually necessarily get to choose your own own adventure here. But I was lucky enough that there was one jet slot in my class and I was lucky enough fortunate enough to get it.
+ 
+ So what's the jet slot? So what... Yeah. What that means is that I was assigned actually tail at that point, which meant, I would go trained to fly aircraft atlanta aircraft carriers. And there's essentially three aircraft that do that at the time as f eighteen and e two and the c two.
+ 
+ C two is kinda like the male truck for the bow. E two is one of the big rate dish on top. And then there's all f.
+ 
+ Lex Fridman: So e two comes c two male truck. Yeah.
+ 
+ Ryan Graves: C two basically the male. They
+ 
+ Lex Fridman: they literally bring the
+ 
+ Ryan Graves: door and they're the ones that bring supplies to the ship by air and people.
+ 
+ Lex Fridman: Sorry if I missed it, Is it a plane? Or is it an helicopter? It's a point Okay. Alright. And the f eighteen is a fighter jet.
+ 
+ Okay.
+ 
+ Ryan Graves: So I selected to tail course. I could get one of those other ones, but eighty percent more so or jets. So wasn't a good spot at that point. And that's when I went to Meridian Mississippi to fly my first jet, which was the t forty five. Ga hawk.
+ 
+ Lex Fridman: Cool. So what kind of plan is that? Is that is that that's what you were doing your training on?
+ 
+ Ryan Graves: That's the jet aircraft you get in before you actually go to the f eighteen. It is a carrier capable. So go to the boat for the first time in it during the day, drop fake bombs, do dog fighting, low levels, formation flying day and
+ 
+ Lex Fridman: night. Oh, it's a pretty plain.
+ 
+ Ryan Graves: And yeah, and it looks like a cone so that no one hits it.
+ 
+ Ryan Graves: Okay. So that's usually not used for finding used for training. It's used for training how to fight.
+ 
+ Lex Fridman: Got it. So what what was that like? Was that the first time you're sort of really getting into it?
+ 
+ Ryan Graves: Yeah. That was really interesting because before that, it was a six hundred horsepower prop plane. Going from that to the t forty five is one of, like, the biggest jumps in power and like, navy, you know, machine operation.
+ 
+ Lex Fridman: Which horsepower is the two forty
+ 
+ Ryan Graves: five five approximately. like, fifteen thousand or so? So
+ 
+ Lex Fridman: it's a huge jump from six hundred you said horsepower about. Cool. So it's a big big leap. Mh.
+ 
+ Ryan Graves: But it's a jet, you know, so it it performs differently faster. And right? Now, what that means not just because it's faster whole mine needs to be faster. Everything happens faster in the air now. Right?
+ 
+ Those happen faster. You're landing gear to come up faster. Everything just happens faster in a jet. And so it's a big jump. And I never forget going on my first flight in that aircraft.
+ 
+ It was a formation flight for someone else and I was just in the back watching, and there was instructor in the flight. And so what that means is instructors in a single aircraft, and then there's three or four other aircraft and they're learning how to do joins they're learning how to fly formation. And as a new student in the back it's amazing, Right? Because, you know, photoshop op time and all this, like, I'm seeing aircraft up close for the first time. It's awesome.
+ 
+ And on the way back, we couldn't get our landing gear down ironically. So you know, to make a long story short because it's overall, not that exciting. We couldn't get the gear down. We actually went to go do a control injection. To the...
+ 
+ The target area that where that is about fifteen, twenty miles the north of the base. Did
+ 
+ Lex Fridman: you wait did you just say that's not that exciting? Well, I i... Because that's means pretty exciting. So that... I mean, how...
+ 
+ First of all, I mean, and that must be terrifying like, early on in your careers. Haven't haven't seen those things that... Yeah. Like, how often does that kind of thing happen? Decent said morn you would think.
+ 
+ Or you would think. There no significant panic. This is, like misunderstood understood. This is what has to be done in this case.
+ 
+ Ryan Graves: I think I was probably just too dumb to realize the significance of it because as a new student, you know, not really appreciating, you know, just what is ahead me if we are rejecting. But by at the time it was more it was just like wrote right? Because I was back there and then I went from a observer mode to a... I'm gonna provide you the help that I can provide you as member of this crew. You know, mode.
+ 
+ And so it was less about, you know, on this twenty mile trip and thinking about my how vulnerable am, you know, we're going through checklist talking to people or getting ready. So... No. It wasn't it wasn't fearful. In the whole time, we're doing one of these to try to get the they what's one of the years down.
+ 
+ So we're unloading the jet and then loading it back to try to get the gear out with the stick. And and it came down. It came down halfway there just on own. So they came back around and we did like a safety trap in case there was a problem with the gear. Have my first flight, you know, a little bit serendipity, but I'm gonna fast forward a bit and I went back to this squadron as instructor.
+ 
+ About five or six years later. And I was an aviation safety officer at this point, which may i was responsible for investigating mishap. And a a student went in and he he went in the backseat seat of a form flight, just like the one I went on, and he went out and he ended up projecting on that flight. Exact same type of flight. They went out and they had a a runaway trim scenario.
+ 
+ And it caused aircraft essentially just invert itself almost a hundred and eighty degrees at about six hundred feet the ground and they punched out just slightly outside the ejection window at about three hundred and four hundred feet or so, but they were completely fine. So, you know, and then about two months later we had another rejection in about three months after that we another rejection. So unfortunately, you know, it can i can be more common the people think. What does it feel like you get it ejected? Thankfully, I don't know.
+ 
+ I can you I can tell you what it's like, from what I've heard, but I truly think it's one of those things that you just don't understand until it happens. It's like instantaneous about two and fifty g's. Which is only possible because the inertia our blood. Right? So you can actually get, like, two hundred fifty three hundred g's for, like, a few milliseconds and then it backs off to, like, forty or fifty g's.
+ 
+ To get you away from the vehicle itself. And so, you know, you may lose consciousness if you do, you know, who knows where you wake up. You know, you could be in a tree, You could still be falling. You can be in the water.
+ 
+ Lex Fridman: So the physics of that is fascinating how they eject safely.
+ 
+ Ryan Graves: Do you know the story about how that was tested? At all. I don't know the full story, but there's was number
+ 
+ Lex Fridman: nobody knows full story. That's probably a lot of shady stuff going on. But... You mean like, in early early days or... They saw a flight up to a
+ 
+ Ryan Graves: rocket sled and just see how much their body could take it. And he turned a lot of his body in the in the mush the in the process of getting that science done by saved a lot of
+ 
+ Lex Fridman: life people use used to be tougher
+ 
+ Ryan Graves: rebecca.
+ 
+ Lex Fridman: That's how science used to be done. So how did your training continue? So how taking taking further through your career? Has you work towards graduating towards the f eighteen
+ 
+ Ryan Graves: teens. So in V nine where I was a student, there's two phases. There's an intermediate and in advance. Intermediate is getting very comfortable with the aircraft. And at that point, you truly hear...
+ 
+ Alright you're going jets now or you're gonna go one of the other aircraft that land on their aircraft carrier. I was told I was going, you know, jets at that point. And then we go into same squadron same aircraft, same instructors, but it's called advanced now. And now we're learning how to dog fight for the first time where doing what we call tactical formation, which is just like aggressive position keeping. We are doing dog fighting and low levels and all sorts of great stuff.
+ 
+ So it's really that first introduction to that tactical environment and putting really putting g's on the jet on your body and and maneuvering.
+ 
+ Lex Fridman: Because the, like, tactical formation is collaborating with other fighter jets part of that. It is. So flying in and a... That's what you mean by formation. So literally having an awareness...
+ 
+ Is this done for you? Or are you as a human supposed to understand? Like, where you are in the formation? How to maintain formation, and all that kind of stuff?
+ 
+ Ryan Graves: Yeah. This is
+ 
+ Lex Fridman: done autonomously or manually.
+ 
+ Ryan Graves: There's a great autonomy point on end of that I've thought about. So... But what we do, is all manual. So I'm looking at his wing and I'm looking at different visual checkpoints that form like a triangle. Right?
+ 
+ Like, could equal out triangle essentially. And then as that triangle, you know, no longer equal. I can tell my relative position against that aircraft. Right? That's really cool.
+ 
+ And so that's what I'm staring at for sometimes hours on in, you know, several feet away. Do one of these i'm in the weather. That's all it is.
+ 
+ Lex Fridman: So you get... It's almost like is it peripheral vision? Or is it
+ 
+ Ryan Graves: we're staring directly at it? The peripheral is coming on my on my That's interesting stuff. Right? My sensors is in my home my. And so he is my gyroscope at that point.
+ 
+ Ryan Graves: Right? While, you're flying, not looking straight. Correct. I'm fly like this for hours.
+ 
+ Ryan Graves: It can hurt you that. We don't like doing this as much. And I don't think it's just me. Right? It's a weird thing where when you're like this, it's actually harder to fly for information slightly than here because being in line of your hand movement and of the aircraft, somehow has an effect on our ability to be more precise and comfortable as strange.
+ 
+ Yeah.
+ 
+ Lex Fridman: So but so the there's symmetry to the formation usually really So one of the people on the other side really don't like being on that side. Is it is it does it... Who gets like a short straw. And
+ 
+ Ryan Graves: how do
+ 
+ Lex Fridman: you decide which side of the formation you are?
+ 
+ Ryan Graves: It's a good question too because there's there's kind of rank some sense. So if it's a four person formation. Right? You have a division lead who's qualified to lead a whole vision. But maybe other ones aren't.
+ 
+ And he has a dash two, and that's his wing man, essentially. And then in a division, there's two other aircraft. And then you have another senior flight leader. That's the dash three position. And then you have dash four, the last one.
+ 
+ And if you were all lined up on one side, like finger fingertips, one two three four, that dash four guys is gonna get the end of that whip. So if your fine formation, each one's making, you know, movements relative to the lead, dash four is kind of, you know, at the end of that error. You know. And so his movements are kinda like a whip. It's very difficult to find that position and close.
+ 
+ Lex Fridman: Can you elaborate the of the error, the air aerodynamics?? So what's the whip...
+ 
+ Ryan Graves: If this is a flight and this is dash two, you, slightly is rock stating just doing this thing. If flight two is gonna be working that triangle moving a little bit. Right? He has this small error bubble that he's doing his best stay. And then...
+ 
+ But that flying off dash two. And so his error bubble is dash two's plus his own. And
+ 
+ Ryan Graves: that's more and more stressful as you get further.
+ 
+ Lex Fridman: Yeah. Okay. What's the experience that that staring for a long periods of time and trying to maintain formation. Mh. How stressful is that?
+ 
+ Because, like, you know, we're doing that when we drive staying in lane, and that becomes... After you get pretty good at it, it becomes somewhat. It's still stressful. Mh. Which actually surprisingly stressful.
+ 
+ When you look at like, lane keeping systems, they actually relieve that stress somehow and it's actually creates a much more pleasant experience while you're still able to maintain situational awareness and, like, stay awake, which is really interesting. Like, I don't think people realize how stressful it is to lane keep when they drive So this is even more stressful. So do do you do you think about that? Or is this... Yeah, I guess call stressful is it for a psychology perspective.
+ 
+ Ryan Graves: It's very stressful. When so I thought students have to do as well. And so at our feet, we have two writers. And if I'm flying off of flight over here, what you'll find a lot of times is you'll be flying... Or you...
+ 
+ Like, if I'm the instructor in the student flying, I'll start to notice that he's having a harder and harder time keeping position. Yeah. What I'll notice typically is he's locked out his leg. To lock out the leg that's closest to the aircraft they're flying against. And push on the rudder so consciously, because their whole body trying to get away from the aircraft because there's so uncomfortable being close to it.
+ 
+ And so I'll tell them. I can I can fix their form with a couple words. I'll say wiggle your toes. And they'll wiggle their toes and the... And they'll loosen all the muscles and their legs.
+ 
+ Realize they've been washed up. And their formation fly will get a lot better. And so, you know, there's a lot of stress associated with that. There's some interesting psychological or visual issues such as ver, as you're flying. So if you're flying with him and then you fly right to a cloud.
+ 
+ Right? That one it's very stressful because you have to be very close in order to maintain visual might be thunderstorm. Alright? And so you have to be very tight. You might start raining, and then he's turning, but you might not even know that.
+ 
+ You might not even be able to see that turn. And so all of a sudden, you might look while you're in a turn thinking you were straight level and you look, maybe back your very quick and you realize you're like, in a thirty degree turn. And your whole concept but where you are in the world, starts getting very confused. And you've immediately get this the sense of it it's weird. Like, I look at the hud and it it feels...
+ 
+ All my sensor telling me it's spinning, but it's not. You know, and so I have to trust my instruments. Even though it feels like it's spinning. And the same thing can happen when you find formation off of someone and it it can be very very dangerous. And.
+ 
+ But the point is to try to regain awareness
+ 
+ Lex Fridman: by trusting the instruments like, like, dis discussed all your human senses and just use the instruments to rebuild situational awareness.
+ 
+ Ryan Graves: Not in this particular case, because our situational awareness with base is predicated off of our flight lead. So in sense, I'm just trusting his movements. And so he's my gyroscope. But you're absolutely right. And if I would by myself, I trust my instruments.
+ 
+ But I can't just stop flying form trust measurements because now I'm gonna hit him.
+ 
+ Lex Fridman: Oh, yeah. You have to pay attention. So
+ 
+ Ryan Graves: he's my reference. So
+ 
+ Lex Fridman: the instruments are not helping you significantly with his positioning. Not it's all completely manual. So is there a future where some of that is autonomous?
+ 
+ Ryan Graves: Yeah. And I've thought about automating that flight. Regime. But when I started thinking about it, I you know, realize that all the formation keeping that we do is designed to enhance the avi ability to maintain sight. Right?
+ 
+ So we fly very tight formation so that we can go in weather and to reduce groups of traffic coming into the boat. We fly in one particular position so that all of all of the like crew can look down the line and see the flight lead. So everything has based... Everything has to do with the two air crew visually maintaining sight of each other and defending each other, right? In a calm.
+ 
+ Right? I might be looking... I may three miles away from him flying formation, directly beam and looking around and make sure nothing's there. So as I'm looking into automating this process, I thought... Well, you know, sure it's easy to get bunch aircraft to find information off each other.
+ 
+ Right? It's it's trivial, but why? You know, what is the best formation? Why are they doing that? And that opened up a much more interesting regime of operations and flight mechanics.
+ 
+ And that's when we get back to kind of s sarcastic mindset. Where we can bring in aircraft close to do some type of normal flying or reduce congestion around airports, but when we consider flying or formation and tactical environment, we can be much more effective with traditional formation keeping or perhaps no formation
+ 
+ Lex Fridman: keeping perhaps. So Autonomy used for formation keeping not for convenience, but for the introduction of randomness that's far to a
+ 
+ Ryan Graves: real time mission plan. Yeah. Right.
+ 
+ Lex Fridman: And then that's where you also have some human modifications. So it's like manned unmanned teaming enters that picture. So use some of the human intuition and adjustment of this formation. The formation itself has some uncertainty. I mean it's such an interesting dance.
+ 
+ I think that is the most fascinating application of artificial intelligence as one's human Ai collaboration. That that Semi autonomous was dance that you see in these semi autonomous systems in terms of cars being driving, but also in safety critical situation of a airplane a fighter jet, especially when you're flying fast... I mean, in a split second, you have to make all these kinds of decisions and it feels like an Ai system can do as much harm as it can help. And so to get that right is a really fascinating challenge.
+ 
+ Ryan Graves: One of the challenges too, isn't just the algorithms of the autonomy itself how it senses the environment that of course, is gonna be what all these decisions are based off of. And that's a challenge in this type of
+ 
+ Lex Fridman: environment. Well, I gotta ask So f eighteen, what's the like to fly of fighter jet as best. I mean, what to you is beautiful, powerful what do you love about the experience of flying?
+ 
+ Ryan Graves: For me, you know... And I think I'm I'm an outlier but. It wasn't necessarily the that flying itself. Right? It wasn't necessarily the this...
+ 
+ It's so soaring over the clouds and, you know, looking down at the earth from upside down, you know, I I came to love that and... But it wasn't necessarily the passion that drove me there. I just had no exposure to that. The only the disclosure I had was was reading and and going in the woods and and science fiction and and all that. And so, you know, it seemed to kinda drive me towards that was just a desire to really be operating as close to what I thought was the edge of technology or science.
+ 
+ And that's the path that I chose to try to get close to that. I thought that being a in a fighter jet and, you know, all the tools and the technology and the knowledge and the challenges and the, you know, failures and victories that would come with that. Just seem like something that I wanted to be a part of... And it wasn't next way about the flying, but it was about the challenge and, like I said, as a person from a small town, you know, small high school being able to get my hands, you know, or even just near something of such technological significance was kind of empowering for me. And that's kinda what bore the the love of flight from there, you know, becoming, you know, having some level of mastery in that aircraft it really feels like in his extension of your body and once I got there, then then the kind the level of flying kind of followed.
+ 
+ Lex Fridman: So you sort of one is the man mastery over the machine. And second is the machine is like, the greatest thing that humans have have ever created are. The the... Like, things that Lockheed Martin and others have built. I mean, the engineering and that, you know,
+ 
+ Ryan Graves: it's
+ 
+ Lex Fridman: However you feel about war, which is one of the sad things about human civilization is war inspires, the engineering of tools that are incredible And it's, like maybe without war. If we look at human history, we would not build some of the incredible things we built. So in order to win wars to stop wars, we build these incredible systems that perhaps propagate war. And it's a that's another discussion I'll ask you about, But this... Do you...
+ 
+ This is like this is a chance to experience the greatest engineering. Humans have ever been able to do. Like similar, I suppose that astronauts feel like on their flying,
+ 
+ Ryan Graves: and I want to be an astronaut. I wanted to take that route. I was gonna apply to test pilot school. It it just didn't work out for me i up having a broken foot during my window, but I'm story sure. I ended up after my time in my fleece quadrant and we can get back to the rest of the time if you want, but I went to be an instructor pilot.
+ 
+ Instead, right? And then, you know, I I was talking about this with a squadron make earlier today. About how, you know, I certainly wouldn't be talking with Le today if I ended up going to test pilot school. You know, I was I never would've have... I never would have had the I wouldn't may maybe reckless.
+ 
+ I don't know. But the the willingness to have a conversation about Ua while I was, you know, I... That led me to the decision to get out once I went there and it and it kind of enabled me to talk about More publicly. And if I stayed in the navy, and then I don't think that would have happened. I wouldn't have been able to.
+ 
+ If I went that route,
+ 
+ Lex Fridman: Well, as a small tangent, do you hope to travel to Mars One day? Do you think you'll step foot on Mars one day?
+ 
+ Ryan Graves: If you asked me that five years ago, I would have said, yes. I want to. In fact, I would like to die on Mars. Now today. Now I have some hesitation, and I have some hesitation because I'm hopeful i'm optimistic.
+ 
+ And I think that you, I think that we are truly, like, on the brink of of a very wide technological revolution that's going to kinda move us how we used to move information and data in in this last century, we're gonna be manipulating and managing matter in that next entry. And so I think that I think our reach as human is humans that are gonna get a lot wider, a lot faster than people may realize or at least are you getting, like, ambitious beyond mars? Is that what you're saying?
+ 
+ Lex Fridman: Well, I mean, like Mars seems kinda boring. I wanna go beyond that. Is that we what do you do you mean the reach of humanity across all kinds of technologies or do you mean literally across space.
+ 
+ Ryan Graves: The cross space. You know So you know, we're gonna be... I think that as artificial intelligence machine learning start approaching further into the topic of science to the area of science and we start working through new physics. We start working through or I should say past the einstein frameworks. As we kind of get better idea of what space time is or isn't?
+ 
+ We may have we may find, you know, answers that we didn't know that we were looking for. And we may have more opportunity. And I'm not saying this is something I'm, you know, betting the farm on, of course. But maybe maybe that's a road I wanna explore on Earth instead of on Mars. I maybe there's technology that can be brought to bear with new science and harder engineering that is a road that doesn't go past mars to get outside of the solar system.
+ 
+ Lex Fridman: So there different ways to explore the universe so then the the traditional rocket systems. If we can continue sort of your journey, you said what that that you were attracted to the the incredibly advanced technologies that they have twenty of the f eighteen and just the the fighter jets in general. Let me ask another question, which seems incredibly difficult to do, which is landing on a carrier. Or taking off from a carrier landing in a carrier. So what's that like?
+ 
+ What are the challenges of that?
+ 
+ Ryan Graves: Taking off pretty easy, is procedural somewhat complex where there's a lot of moving parts almost like a clock, you know, you're almost in a pocket watch. So sense in you're part of the machinery. And so long as you press right buttons and do the right things and you're go shooting off the front. So
+ 
+ Lex Fridman: there's like, a checklist to fall, and there's several people involved in that checklist and you just gotta follow the checklist correctly, essentially.
+ 
+ Ryan Graves: Yep. Lots of ways to screw up, but you'll know how to screw it up. But landing on the back of the boat is whole different animal. There's a lot more variables. There's essentially one or two people responsible for the success of that.
+ 
+ The landing signal officer who actually represents a team of specially trained avi editors who are responsible for helping that avi land on the boat. And the pilot himself. And it it is a hard task to actually fly precisely enough to be good at it. So two five unquote the perfect pass, you sense that to fly your head to a one foot by one foot box. That's essentially the target you're shooting for.
+ 
+ Plus or minus probably about five knots on air speed, although we don't really judge it by airs speed. It's something called angle attack But generally, you know, pretty tight parameters there. And you can do everything perfect and still fail. Right? So when we go to touchdown, we immediately bring the power up, and we rotate as if we were doing...
+ 
+ As if we were bouncing off the deck. And if we catch it, then we slow down and then someone tells us to bring the power back which we do. We don't do it on our own. Mh. Because it's such a violent experience.
+ 
+ You can think you're trapped or not or something breaks and you you bring your throttle back. And that's a very serious thing. It happened best of us. You know, i'll I've done at once. When I first got to the Squadron, it's called east guns.
+ 
+ And so, you know, I came in the boat and I brought the power. I cracked the power back a little bit before I been told to her that my aircraft had finished settling in, and it was a big faux pas. Right? So especially as a new guy. So it's it's a very serious business there's a lot of on you and there's lot of ways just screw it up.
+ 
+ But the physical, you know, rush of, like, having a great pass and then, like, that's just the like, the crash of into the boat and all that the physical sensation from it, you know, when everything's going great, you know, top of the world, a great feeling.
+ 
+ Lex Fridman: How much of it is feel? How much of it is instruments, how much is other people just doing the work for you catching you as long as you do everything right.
+ 
+ Ryan Graves: There's a few systems we use. One is called the ball and the ball is external tour aircraft, and it's
+ 
+ Lex Fridman: va a l l. Correct. Well think ballpark. It's
+ 
+ Ryan Graves: a it's a eye landing system. Which stands for something very long convoluted. But essentially, it's a mirror with lights on it. And you see the light at a different cell based on your position relative to an ideal glide slope. Yeah.
+ 
+ So if you're right on it, you're right in the middle and if you're below you're low. And as I add power and maneuver the aircraft, that ball, you know, I see that ball rise, or see the buffalo. It's a lagging indicator though. Right? Mh.
+ 
+ And your jet is a a lagging engine too. Right? It takes time to school engines. So that adds to the complexity. You have to think ahead a it.
+ 
+ You know, so you don't want to to you can't just bring the power up and leave it there. You have to bring the power up touch it, bring it back. And, oh, by the way, your landing area is moving... Not just away from you, but also on an angle. Right?
+ 
+ Because we have an angled deck. So you're constantly doing one of these to correct yourself as you go. Stressful. And you every time you do one of those, yeah. Maybe it's a thirty degree angle bank.
+ 
+ Right? I'm losing left. Yeah. And so I have to compensate with power each time I do that. So I'm doing another
+ 
+ Lex Fridman: one. Because you have to maintain the same level you're always
+ 
+ Ryan Graves: lowering Like, it's a concentrated descent that's increasing from about two hundred feet per minute to about six hundred and fifty. And every time you do this that's messing with that. Mh. Okay. So you
+ 
+ Ryan Graves: have to cops
+ 
+ Ryan Graves: doing that manually. Do manually. Alright. And then of course, as you come down that glide flow, it becomes more and more narrow and you have to of course, modulate your input such that they're small smaller, because they have a bigger and bigger effect as you get closer in. And what happens to you when you're getting close is that right before you cross over, if this is the boat right here, your table right before you kind of get your wings over the boat itself.
+ 
+ This big wind from the the main power of the boat is where it dips down. So the wind actually goes down and it's called the verbal. It'll actually pull their aircraft down increase your rate of descent. Mh. For that particular point you need to you, you know, increase your power and try to compensate against that.
+ 
+ And so that's kind of a third variable.
+ 
+ Lex Fridman: That's trying to screw up on your way down. What's the most difficult conditions in which you had to land or you've seen somebody had to land? Because I think you
+ 
+ Ryan Graves: were also a signal officer as well. I was Yep. That was the hid lending signal officer for for my squadron. So you you've probably seen some tough landings I have.
+ 
+ Ryan Graves: I've seen a a ramp strike, which is when a part of the aircraft hits before the landing area, which is basically the round out of the boat that is before the landing area. So they basically struck the back of the boat coming in. Yeah. It was just their hook. So it wasn't aircraft.
+ 
+ And they were fine. That one is
+ 
+ Ryan Graves: kinda ugly, but it, like, rips that part of aircraft. Absolutely. And then you land on your bell, that kind of thing.
+ 
+ Ryan Graves: In this particular case, it hit and then it it gave and essentially dragged the hook on the on the surface after that. And so he was able to grab a wire at that point.
+ 
+ Lex Fridman: Does that kind of thing happen? Just a mis by the pilot or is it weather conditions?
+ 
+ Ryan Graves: I won't even call them mis mean, I'm gonna put the blame on the pilot because she's only one in the cockpit, but then the day he's reacting to the situations he's dealing with. And so it may be errors or he may be doing the best with, you know, the conditions that he's been given. On that particular one, you just got too high rated very common. And that's where you see it with new pilots you see with older pilots. Right?
+ 
+ New ones and complacent ones. What you see is they'll try to make the ball go right where they want it and close. They think they can beat the game a little bit. And they try to... And so we we have things we teach...
+ 
+ We teach pilots, you know, as a landing signal officer, where we tell them, like, don't re center the high vol in close. It's one of the rules to live by. And so when the ball's is up high, don't try to bring it back in close to like, the center point when you're when you're in close because what you're do bring the power and you gonna crash right down. And that's what happens. Right?
+ 
+ Could you get the verbal? Pulling you down, you might be correcting which is decreasing your lift and then you have that type of maneuver universe. How are you supposed to do
+ 
+ Lex Fridman: all of this in harsh weather conditions?
+ 
+ Ryan Graves: And so that's the one I wanted to tell you well, That's the hardest one. And what you hear is if you hear ninety nine taxi lights on, that's really shitty
+ 
+ Lex Fridman: ninety nine taxi lights on. What's that mean?
+ 
+ Ryan Graves: So everyone, what your taxi lights on because you're about land on the bow. And you don't see the weather it's so bad that the landing civil officer on the boat can't see you either, and you can't see the boat, and you won't be able to see it when you touch down. So call that as zero zero landing. And you turn on the taxi light, so that the Ls o who has a radio in his hand, it looks like a phone from nineteen eighty. Mh.
+ 
+ Is talking directly to the pilot. And he's looking at that little light in the rain, and he's telling them you're high. You're low. Power, things like that. Come right back to left and literally talking him down to land on the boat right there and the pilot, usually, it comes as a surprise to pilot the lane because he's just listening to the voice.
+ 
+ Can't see the ball. Can't see the boat. No. Sudden then you just hit the boat. Crashed.
+ 
+ Mean trash. We're on about sixteen hundred feet per minute to descent at that point.
+ 
+ Lex Fridman: So you're still you're going super fast. It's all this happening fast. You don't know you
+ 
+ Ryan Graves: don't
+ 
+ Lex Fridman: know what... That the moment it's gonna hit. So she's just going into the darkness and just waiting for to hit.
+ 
+ Ryan Graves: And dark though, a lot of times it's white. Into
+ 
+ Lex Fridman: the light. You're going into the into the light.
+ 
+ Ryan Graves: It's there's a voice
+ 
+ Lex Fridman: from an eighties phone. I got it.
+ 
+ Ryan Graves: This this is terrible.
+ 
+ Lex Fridman: But so that you still you still have to So this kind of thing happens. You still have to land.
+ 
+ Ryan Graves: Sometimes you just don't have a place to divert. But you know, in a sense we're trained for that because we do the night landings as well. And I think you'll find this interesting, but I always found that the night landings where in these particular cases, you're usually lined up behind the boat. Maybe ten, fifteen miles whereas the other ones, it's like a tight circle, the landing pattern. And so we can potentially see the boat way out there.
+ 
+ If the lights were on, which they're not, but we can maybe see, like, the string of aircraft in front of us. But what's what's interesting is that it can take a while. I can take you might be fifteen miles out and your lights are turned down as dim as possible. You have a cloud deck maybe it's six or seven thousand feet, so that the star light, there's no moon, but let's say the starlight blocked out. Right?
+ 
+ Because just a starlight alone, no moon. You can see the boat you see the water. But when that goes away, it's like closing your eyes. Right? You can't tell anything.
+ 
+ It could be upside down. It could be in any position. And for me, it was almost a medi process that I had to snap myself back out of. When I was on, like, a long straightaway away, and then I would see that light pop up in the sea of darkness. Right?
+ 
+ No lights anywhere. Can see the horizon. And I just see a light out there. My are telling me and they're turned out as far as i can go. Right so I can barely see him.
+ 
+ So my eyes gonna adjust. And I'm just staring at this light in the distance. And it's just very medi and behind you. And and then like, four miles, you know, the... Almost like, oh, the light is a little bit bigger.
+ 
+ And you almost kinda to snap back to it. Yeah I need to, like, kinda, like, look around a little bit and engage my brain like back my body and like...
+ 
+ Lex Fridman: Yeah. Do this. Because you're gonna have to actually. Well, is there just you said you don't necessarily feel the romantic notion of the whole thing, but is there some aspects of flying where you look up and maybe you see the star the stars. Or, yeah.
+ 
+ That kind of thing that you just like, holy crap how humans accomplish all of this. Like, am I actually flying right now?
+ 
+ Ryan Graves: I used to have those moments on the boat when I was catching planes land. I would I would they would trap and it'd be nighttime, and it's just all this chaos in the middle of the ocean and nothing. And I would have these moments where like, how the hell did I end up here. You know? It just one moment time, next to an aircraft landing on a boat in the middle of the ocean, you know?
+ 
+ Where did my life you know, how did my life go end up here? How interesting? But what I did start to enjoy was the nitrogen goggles putting those on and looking up at the stars flying around, especially over the ocean. What
+ 
+ Lex Fridman: do they look like? And
+ 
+ Ryan Graves: it's just so many. There's just so many stars that, you know, you normally can't see their shooting stars all the time almost every flight. You'd see them with the goggles on. So it was a great pleasure to take advantage of the lack of life pollution in some cases, especially on deployment the go grab and goggles that night, go out some quiet spot the ship that no one can see me and just kinda look around, You know?
+ 
+ Lex Fridman: Yeah. It's humbling. Okay. Quick break, Bath
+ 
+ Ryan Graves: break. I wouldn't mind a quick quick stretch to load.
+ 
+ Ryan Graves: You got a few cool patches.
+ 
+ Ryan Graves: I do. So this is v eleven red patch typically going actually on our arm. So this is actually what we call the Boar head or Arnold. So this is actually the the bore head from the Gordon gin bottle. So yeah.
+ 
+ In nineteen eighteen, we were in the we're were in London or the Uk somewhere. And we apparently partnered with the owner and founder of go Gin. We had a great time and there's a sign letter in our ready room that says we can use the logo and perpetuity
+ 
+ Ryan Graves: on that. And yeah. So i'd like to give you that patch. I'll drink quite a bit
+ 
+ Ryan Graves: of. So this is good. And I'd like to give you that coin from from our squadron. The red ripper. That's a badass ass name.
+ 
+ Thank you, Brother. You're welcome.
+ 
+ Lex Fridman: So let's jump around a little bit, but let me ask you about this one set of experiences that you had and people in your squadron on hand. So you and a few people in the squadron either detect your on your instruments or saw them directly. Tell me the full story of these sighting and to the smallest technical details because I love
+ 
+ Ryan Graves: those. I'll do my best. So we returned from... It I say, we, I mean, my not my squadron, but Via fail eleven, the red, I was a a somewhat junior pile at the time. I joined them on deployment twenty twelve where they had been already out there for about six months or so.
+ 
+ Operating in the Vicinity of Afghanistan. I joined them and then we we flew back and still as a relatively new guy. We came back and we entered what's considered a maintenance phase where we slow down the tactical flying a bit, kind recuperate, do some maintenance on the aircraft and our particular model of the F eighteen, the, the lot number was plumb for the particular things that were needed to upgrade the radar from what's known as the Ab g seventy three to the Ap g seventy nine. And the Ab g seventy three is a mechanically scanned array radar. It's, you know, perfectly fine radar, but the ace radar is kind of a, you know, magnitude jumping capability, kind of an analog digital kinda mindset.
+ 
+ So So it's a leave
+ 
+ Lex Fridman: to digital. G seventy three. So I mean, are these things on a carrier? Like, what are we talking about?
+ 
+ Ryan Graves: This is big
+ 
+ Lex Fridman: is a radar.
+ 
+ Ryan Graves: Yeah. So this is actually the rate that's in f eighteen itself.
+ 
+ Lex Fridman: Okay. So when you say that were chosen, this is to test. The upgrade to the new the seventy nine A g seventy
+ 
+ Ryan Graves: nine. Unless have a a test and more of just, hey, it's your turn to get the upgrade. Like, we're all going to these better radars. They were building ones off the off the line with the new radar. But we were this weird transition squad in the middle that transition from the older ones to the new ones.
+ 
+ But it's not particularly rare to fly with different types of radar because in the and we call the fleet replacement squadron, essentially the training ground for f eighteen, you have all sorts of F with different radar. So you are used to having multiple ones, but in the actual deployable Combat quadrant, we upgraded it. And when we upgraded, we saw that there were objects on the radar that we were seeing the next day in in this with this new radar arm that weren't there with the old radar. And these are sometimes, you know, the same day. You might go in two flights.
+ 
+ The one in the morning might be with older the radar, the one evening. With the new radar. And you and you'd see the objects the with the new radar. And that's not overly surprising in some sense. They are more sensitive.
+ 
+ Perhaps they're not filtering out everything they should be yet or perhaps there's some other type of error. Maybe it needs to be calibrated. Whatever. It it was relatively new and we were somewhat used to there being software problems with these types of things occasionally. Just like anything else.
+ 
+ And so, okay. Maybe this is a a radar software malfunction we're getting some false tracks as we call them.
+ 
+ Lex Fridman: What were you
+ 
+ Ryan Graves: seeing? And so what we would see are representations of the object. So this is off of our radar we're not seeing a visual image here. This is kind of like what's being displayed to us almost like in a gaming fashion. Right?
+ 
+ Like, our the icon. Right? So the icon is showing us, hey. Something is there. And here's is a parameters I can understand about it.
+ 
+ Lex Fridman: So this is in the cockpit. There's a display that's showing some visualization with the radar detecting.
+ 
+ Ryan Graves: Correct. And there's two different ways to do that. The first one is, like the actual data. Like the the radar where I am... It's showing me the data kind of as if it's in front of me and I'm selecting those contacts.
+ 
+ And there's another screen called the situational awareness page and that's kind of a God's eye view that brings all that data in the one spot. And so I'm gonna talk about this from the Sa page from the situational awareness page first the individual radar ones because it's easier. But... So sorry sorry to linger on that.
+ 
+ Lex Fridman: So the individual displays are, like, first person, and then they say is when you say god's I view is, like, from the top, integration of all the information as if it's looking down onto the earth. Yes. Is that a good way to summarize
+ 
+ Ryan Graves: is. But for the, or it's slightly different because those two radar displays I talked about are at the bottom of that display, is kind of representative where I am. And so I see what's in front of me. Got it. Whereas the situational awareness page, the aircraft is looking in the center of that.
+ 
+ And then all around me, you know, based off of the data link and wherever I'm getting information from, I can see that whole awareness page. I can see all this situation. So I'm gonna kinda talk about this from the situational awareness page, which is a top down view, just to kind of frame our minds instead of jumping around. And so what we would see out there is we see these indications that something would be there and they would have a track file. That track file, That thing that represents the object has a line coming out of it and that represents it's called the target aspect indicator.
+ 
+ Mh.
+ 
+ Lex Fridman: And there's some tracking from the radar track. So it's showing you where the object going. This is all pretty cool that the radar can do all. So radar our locks in on the different objects in the tracks them over time. Correct.
+ 
+ That's coming from rate. The the like, built in feature.
+ 
+ Ryan Graves: Mh. Okay. Cool There we're seeing it we don't have to necessarily, like, pull things into our our tracker and some sense. Right? Like, it's all out there, and then we can kinda choose the highlight on stuff at order kinda focus in on it more so.
+ 
+ But the information shall be out there. And so we'd see the that target aspect indicator that that line on a typical aircraft, you know, it kinda look like this. It'd be coming out and we goes steady and if they turn, you'd you know, it be like, and you see them turn. Right? Like, it's not magic.
+ 
+ But this object, they would... The target aspect will kind of be like all over the place. Like, kind of randomly in the three hundred sixty degrees, you know, from that top down view. Mh. That line would be name place.
+ 
+ So kind of you know, is it unable to determine the the target aspect? Is it stationary, you know, and that's just how it puts it out and it's not used seeing. So I'm not saying that's necessarily super weird, but it would differ than what we were used to seeing because we weren't used to seeing stationary objects out there very much. What was also interesting is that these weren't just stationary on a zero wind day. Right?
+ 
+ These are stationary twenty thousand feet, fifteen thousand feet, five hundred feet, you know, with with the wind blowing, you know? And so much like the see, you know, when we're up there, fighting, it affects everything. We consider the wind when we're, you know, shooting missiles when we're flying or fuel considerations. It's like, operating, you know, in that volume of air, like the ocean, Everything everything's going with the current. And so anything that doesn't go with the current you know, is immediately kind of identifiable and strange, and that's why these are were initially strangers because they would be stationary against the win.
+ 
+ Lex Fridman: If had something like a good drone in a windy conditions, what would that look like? Would it it would not come off as stationary. Would it sort of float about kind of thing?
+ 
+ Ryan Graves: No. I think what the John technology we have today they could stay within a pretty tight location.
+ 
+ Lex Fridman: Well, I meant like, Dji draw not like... I'm saying, like, generically speaking. I would. I'm not a military room.
+ 
+ Ryan Graves: No. I I have a Dji drone myself even. And, you know, maybe not a hundred knots, but if that thing's in thirty or forty not wins, you know, the amount of distance it's going to be kind of doing one of these like that change is not something gonna detect from maybe many miles away. Interesting. So it could look very stationary.
+ 
+ But that wasn't necessarily... And what's interesting about this story is that there's not like the one smoking gun. Right? You have to kinda look at everything. And that's what...
+ 
+ Know I don't like about the department defense and just generally people's take on this is that everything is kind of based around a single image, you know, or that one case. But a lot of interesting comes from the duration or the time it's been out there how they're interacting relative to other objects out there. And you don't get that information when you just look at a frame for a second, you know? Everyone
+ 
+ Ryan Graves: kind bites off in the shiny object. But... So you yourself from your particular slice of things you've experienced and seen directly or indirectly. You've kind of built up an intuition
+ 
+ Lex Fridman: about what the things that we're being seen.
+ 
+ Ryan Graves: I wanna go that far. I've just been able to, you know, eliminate some some variables because of how long of observed. So like you said, yes. Kind of drones stay in a particular position it against a win like that. Certainly.
+ 
+ But I don't think it can do that and then go point eight mock for four hours after that. You know? And so when you when you look at it outside of that one's that moment in time, then it eliminates a lot
+ 
+ Ryan Graves: of the potential things. It could be at least from my perspective. So what kind of stuff did you see? Yeah. In the instruments
+ 
+ Ryan Graves: we'd see them flying in patterns, kind of racetrack track patterns or circular patterns or just going kind of straight east. I'd occasionally see them supersonic, one point one one point two mark, but typically point six to point eight mark just for extremely extended periods of time, you know, essentially all the time. And this is aerospace where there's not supposed to be anything else at all. And it's pretty far out there. Starts ten miles off the coast.
+ 
+ Goes to, like, three hundred miles.
+ 
+ Lex Fridman: Can you say the location that we're talking about off the coast of Virginia Beach? Got it. And so nobody is supposed to be out there.
+ 
+ Ryan Graves: It's possible for people to be there. It's not necessarily restricted, but it's well monitored and we're out there day all that And so, you know, people know to stay clear if a assessment is bumbling in there, everyone's gonna know about it. Faa is gonna, you know, call them out. Gonna tell us about it. So Incur happen on a big deal, but it they're pretty rare, honestly, because everyone knows the area and we've been offering operating there for decades
+ 
+ Lex Fridman: And what are the trajectories at zero point six to point mark that these objects were taking?
+ 
+ Ryan Graves: Typically, they would be in some type of circular pattern or kind of very extract pattern when they were at those beads? Or I just see them kind of... And it wasn't always like a mechanical flight description. And when I say that, I mean, like, an autopilot is gonna be just very precise. Right?
+ 
+ It's gonna be locked on straight And whereas I I could see an airplane, I could tell if the pilot's flying it Right? Because it's not gonna be perfect. Mh. Computer's not controlling it. And these seemed more like that, not that they were imp, but that they were even much more erratic than that.
+ 
+ So, like, it wasn't like a straight line in a turn. It was just kinda like a, you know, weird drift like that in that direction, you know?
+ 
+ Lex Fridman: So it wasn't controlled by dung computer. Or not not the disrespect to computers. So it wasn't controlled by auto autopilot kind of technology. That's not the sense that I got. So how many people seen them in the squadron, sort of how many times were they seen?
+ 
+ How many what there times when there's multiple objects?
+ 
+ Ryan Graves: Once we start seeing the radar enough, and we would get close enough, we'd actually see them on our floor as well. So our what's the advanced targeting pod, It's essentially a infrared camera that we use for targeting mostly in the air to surface environment. We don't use it in the air arena. It's just not that good of a tool frankly. But we would see ir energy emitting from that location, where the radar was dropping us off.
+ 
+ So, you know, the radar we'd lock onto the object and our sensors would all look there. And so then we could see that it's looking at that right piece of sky, but There's energy actually coming from there. So now we started thinking that, okay, maybe not radar functions. Maybe more, maybe something is physically here, of course, and then people started to try fly by and see it. And at this point, you know, I would say maybe eighty to ninety percent of our school to probably see one of these on the radar at this point, everyone was aware of it.
+ 
+ There was small communication I think between squadron of the same area that had the same radar. So I knew it wasn't just our squadron for whatever strange reason. Because they would be other causing to be out there, and we would talk to them like, hey. Like, careful, there's an object. Are you're aware of that, You know?
+ 
+ So, like, they would be aware of it. And then, of course, people would wanna go
+ 
+ Ryan Graves: see what they look like. Right? So people would try to fly by. I try to fly by him. I like how this in, of course.
+ 
+ Of course. Of course, you
+ 
+ Lex Fridman: don't wanna to fly by it. So you know, i there's there's a argument against that kind of perspective that maybe the thing is dangerous, so maybe we don't. But perhaps, that's part of the reason you want fly by is to understand better what it is if it's a threat. We have a lot of context now that we didn't back
+ 
+ Ryan Graves: then. You know? And so it was still... Hey, Is this a balloon is just a drone, you know, at a certain point. And we're also aware of, you know, potential intelligence gathering operations that could be going on.
+ 
+ We're up there flying our tactics. We're admitting. We're practicing our Ew, you know, we're turning at particular times. Like, there's stuff that can be learned. It's not a secret and, you know, country keep different fishing vessels and whatnot in international waters off there.
+ 
+ So it's not exactly secret that we're being observed out there. So to think that a foreign... Or nation would want to you know, somehow intercept information, whether that's our radar signals or jamming capabilities to try to break that down or understand it better be ready for that next fight. I mean, that's what that's what scares me about this scenario because we didn't jump right to aliens or Ufo. We thought, you know, this is a radar function we need to be aware of it's a safety issue.
+ 
+ And then know, this could be a tactical problem right here because everything we do is based off a crypto and and locate you know, locations. Everything's last slide we do out there. Right? And so over time, if you gather enough data both those fights and just modern forever, just like some nations do with other piece of technology or software. They
+ 
+ Lex Fridman: could probably learn a line. So we have to be cognitive fact and defend against it. So what can you say about the other characteristics of these objects like shape, size, texture lu, else see describe object. Is there something that could be said So you said like, this the down radar step one, Now you have fl images that can give you a sense that that's actually a physical object. What else can be said about those physical objects?
+ 
+ Ryan Graves: So eventually someone did see one with their own eyeballs, multiple people. And it and they saw it in it kinda somewhat interesting way. The object presented itself at the exact altitude and geographic location of the entry point into our working areas. So we enter at a very specific point certain an altitude and people leave the areas the same point at a lower altitude. Probably one of the busiest pieces of sky on the Eastern Sea board.
+ 
+ So two jets from my squad went out and they went flying and they entered the area when these object went right between the aircraft.
+ 
+ Lex Fridman: As they're flying in formation and the object point between their aircraft.
+ 
+ Ryan Graves: They went between the object, I think. I don't think that the object was moving. I don't think it aggressively went at them. I think it was located still there and then they through it. But they didn't have it on their radar.
+ 
+ And that would... I think the rate might have been malfunctioning. I don't know that for sure. I would like to look into it, but my sup position is that if their radar was malfunctioning would make sense that they wouldn't avoid the object that was there because they knew these are physical at that point. And we we would go up to these objects all the time time and try to see them we couldn't see them.
+ 
+ And we didn't know what it was. Was it that were they just not there were being fooled? Was something happening? Were they were they moving, dropping out two the last minute? You know, we're we're going by pretty quick it was difficult to tell.
+ 
+ But perhaps if his radar wasn't working, he wasn't receiving energy from the jet. And the jet, of course, didn't know that was there. And so it whatever the case was, they flew right by and they described it just as a dark gray or or black cube inside a clear translucent sphere. And the kinda the Apex little cube we're touching the inside of that sphere.
+ 
+ Lex Fridman: That's an image that's haunting. So what do they think it is? What did they think at that moment that they... Is it just this kind of cloud of uncertainty that that they just describe me geometric object? It's not on radar.
+ 
+ So it's sound unclear what it is. Yeah what was the any kind of other description they've had of it in terms of the intuition from a pilot's perspective, you know, you have to kind of identify what a thing is. Mh.
+ 
+ Ryan Graves: To answer to the first part. They they actually canceled the flight and came back because they were... you know, like, there's one of these out here and where was hitting them and it's right there then you know, perhaps we need to get a different jet with better Radar, But so they came back in there in their gear and they're they're talking to the front desk, and talking to skip her and like, hey, we almost hit one of those damn things out there. And this kind of was one of those kinda slight waters moments ones where we all were kinda like, alright. Like, this is a serious deal now.
+ 
+ Yeah. You know, Maybe it was a... Maybe we thought they were balloons or drones are malfunction or maybe we thought it was fine. But at the end of the day, if we're gonna hit one of these things that we need to, you know, we need to take care of the situation. And that's actually when we start submitting hazard reports or has reps to the naval through the naval aviation safety.
+ 
+ Kinda communication network. And it's it's... you know, it's not like a big proactive thing where people are go investigate. It's more of a data collection mechanism so that you can kinda share that aggregate data and make sure things are progressing. And so it wasn't a mechanism that would result in action being taken, but we hoping to at least get the message to, whomever was maybe running a classified program that we were not aware of or something like that, that, hey, like, you could kill somebody here.
+ 
+ Like, you've you've grown to big for your bridges here, take a step back. So that was that was our concern at that point. That's kinda where we were thinking this was going. What's
+ 
+ Lex Fridman: the protocol for shooting anything a thing? Was was... Was there a concern that a direct threat? Not just surveillance, but a thing that could be... Yeah.
+ 
+ Threat.
+ 
+ Ryan Graves: At least from my perspective, like, that never really crossed into my mind. I thought it was potentially intelligence. You know, failure that we could be being watched and the information gathered. But I didn't think that it was something that would proactively engaging in a hostile manner. It wouldn't really makes sense either too.
+ 
+ It would be shocking to, like, have one of these object take out an f team, but there's no real tactical advantages other fear perhaps. Psychological. Yeah.
+ 
+ Lex Fridman: I've learned a lot about the psychological warfare in Ukraine is a big part of the war. In terms of when you talk about siege warfare, about or or that last for many years. For many months and then perhaps could extend to years. But yes. It didn't seem it didn't fit your conception of a threatening entity.
+ 
+ Correct? So looking back now from the... All the pieces of data you've integrated you've personally added. What what do you think it could be? I don't know.
+ 
+ I don't know what
+ 
+ Ryan Graves: it could be. I think we've been able to categorize it successfully into a few buckets. We've been able to say that know, this could be Us technology that someone putting in the wrong piece of sky or, you know, perhaps was developed and tested an inappropriate spot by someone that wasn't being best practices? Is
+ 
+ Lex Fridman: they're sorry to interrupt is there. A sort of modular to the way the the military operates the way it's possible for one branch not to know about the tests of another.
+ 
+ Ryan Graves: Yeah. I think it's perfectly reasonable to think that that could occur. Right? And so if we just make that assumption, we can integrate that into our analysis here and just say, okay. But at the point at now, you know, we have to assume that that's not the case.
+ 
+ Right? With everything that's been going on and the statements of a made and the hearings, I think that if it was a a non communication issue. We're in big trouble at this point. What about it being an object from another nation from China from Russia? One of our allies perhaps, Right?
+ 
+ Maybe that's, you know, I don't think it's controversial say that our adult allies could be gathering information about or anything in that nature, but that would be an extreme case, but I think it's just important to say, right, to not just say rush or China and just call them the bad guys and assume that if they don't have it no one can do it. And so from my perspective, you know, anyone else, anyone else and it doesn't necessarily need to be a form power could be a non government entity perhaps. Although I think that's very unlikely. But again, these are these are things you must consider if it you kind of throw everything everything other than the Us under under scrutiny. But, you know, from what had been reported and the behaviors I have been seen, it would be I would expect to see remnants of that technology elsewhere in the economy.
+ 
+ There seems to be too many things that require advanced technology that would be beneficial commercially as well as in other military applications for it to be completely locked away by one of our competitors. Now I could see us perhaps locking something away we're already in the lead and having it to pull out as needed. But for someone that's perhaps in a power struggle and they're in second place, they might be more aggressive with the development of different types of technology willing to accept bigger risks.
+ 
+ Lex Fridman: Do you think it could be natural phenomena that we don't yet understand.
+ 
+ Ryan Graves: I think that there are a number of things that this is going to be. Right? I don't think there's one thing at the end of the day, but I certainly think that that is part of what some of this could be. I don't think it's what we were seeing on the East Coast. And I don't think it is related to the Roosevelt incident or i'll even go...
+ 
+ Say the n incident, but what's the
+ 
+ Lex Fridman: Roosevelt incident?
+ 
+ Ryan Graves: The Rose incident typically referred to as the Gimbal. And or the go fast video. And then n is from... With the David F is witness directly and it's
+ 
+ Lex Fridman: spoken about. Who we'll talk about that as well. I'd just love to get your your sort of interpretation of those incidents. But Yeah. So in this particular case, natural phenomena could be a part of the picture, but you're saying not the whole picture.
+ 
+ Yes. Yes. And we can't discount it. Oh, the other thing is what about the failure of pilot eyesight like sort of some deep mixture of actual direct vision human vision system failure. And like, psychology.
+ 
+ Mh. Like, seeing something weird and then filling in the gaps
+ 
+ Ryan Graves: Mh
+ 
+ Lex Fridman: Because in order to make sense of the weird.
+ 
+ Ryan Graves: I've tried to expose myself to they scenarios like that that I don't naturally think are right but I've explored them to see if they could have some truth. And one example is Let's imagine a scenario where we're seeing these objects day off the East coast. I can imagine a technology or an operation where you had some type of traditional propulsion system, operating drones in order to gather data like we had discussed. And I could I could envision a clever or enough adversary that could perhaps destroy or somehow remove these objects and replace them with new objects essentially when we're not looking, right? And that accounts for the large airborne time.
+ 
+ And so I I explore options like that and I try to see, you know, what what evidence and assumptions need to be made in order to approve her disprove that. And, you know, you would need so much infrastructure. You know, You need some you'd need so many assets. And so I try to explore some of those fallacies and some of those concerns. And as avi were trained into many, like, actual physical like, eyesight and kind of illusion training.
+ 
+ So like, at nighttime flying, there's so many things that can happen fine with false horizons. And so rooms you have hours of of training on that type of of stuff, but this just falls outside the category from my perspective. What
+ 
+ Lex Fridman: was the visibility conditions one in the times of people were able to see it? And then are we... We just earlier discussed complete nighttime darkness mh. In this case, was was it during the day? It
+ 
+ Ryan Graves: was a perfectly clear day that that that particular incident. Yep. In a world that's full of mystery. I have to ask, What do you
+ 
+ Lex Fridman: think is the possibility that it's not of this earth origin.
+ 
+ Ryan Graves: Mh. I like the term non human intelligence in sense. Because again, there's some... There's a lot of assumptions in there that may cause us go on the wrong roads. It could, you know, these could be something that are weather phenomena of earth, Right?
+ 
+ Or something else that is just something we don't understand. It can't imagine right now that's still of this earth. If we consider extra extraterrestrial or something that came from a a physical place far in space, you know, that leads us to some detection assumptions that we would need to make. And so I just try to not categorize it under anything and just say, hey, is this demonstrating intelligence? And start from there as a single object.
+ 
+ What can we learn about it kin, how it's performing? What does that mean for energy source? What does that mean for the g forces inside? And then step it out a level and say, okay, how are these interacting with our fighters? If they are, how are they interacting with the weather in their environment?
+ 
+ How they you're interacting with each other. So can we look at these and how they're enact perhaps as a swarm, especially off the East coast where is happening all the time with multiple objects. Right? And so we might be able to determine some things about there maybe, you know, center capabilities or the areas of focus, you know, if we can determine how they're working conjunction with each other. But, you know, seeing one little flash of an object doesn't provide that type of insight.
+ 
+ But we have the systems for, but and and it's kind of mean on Irony, but it's it's a fact of life the reality that many of these well deployed highly systems are held under the military umbrella, which makes it difficult to provide that data for scientific analysis. So there's
+ 
+ Lex Fridman: probably a lot more data on these objects that's not being... It's not made available, probably even within the military for analysis.
+ 
+ Ryan Graves: I think so. Yeah. I think there's a lot of data that could be made available. And, you know, that's one of the reasons why, you know, I've been engaged with the American Institute aero and astro to build, you know, a large resources of cross domain expertise so that if for when that data is available or that there's additional analysis needed, you know, we can spin up those teams and make that analysis. So there was a recently a house intelligence
+ 
+ Lex Fridman: sub committee hearing on ufo that you were part of what was the goal of that hearing? And can you maybe summarize what you heard. The hearings from my perspective seemed
+ 
+ Ryan Graves: a bit, dis, kinda of top level. I think
+ 
+ Lex Fridman: who was it run by sorry to interrupt like, who were the people involved? And what was the goal the stated goal?
+ 
+ Ryan Graves: Congressman Andre Carson will did chair the committee and he he was I think ultimately responsible if we're bringing it all together. You know, I think the intent from Congress was to try to bring light to what has been happening with the Navy and to help show the American people that congress is taking this serious because something serious is happening. But, you know, the sense I got seemed a bit dis, they they talked around it a lot. They, you know, advertised their their love of science fiction. But they you know, they didn't treat this.
+ 
+ I would say in the manner it deserved as a potential tactical threat if it's coming from a foreign power. And I get it, though at the same day. They have very specific objectives within the Dod. Right? They have a very important job.
+ 
+ Their jobs necessarily do exploratory science for no reason. So I I applaud and I encourage their efforts on the intelligence side to help understand this. But my concern is that they play a role they're not well suited for, which is doing science.
+ 
+ Lex Fridman: And the Pentagon has open in your office to investigate your folks called all domain and anomaly resolution office. What do you think about this office? Do you think it can help alleviate in a way which this hearing perhaps has failed to improve more of the scientific rigor and the seriousness of investigating Ufo. I think that remains be seen. I
+ 
+ Ryan Graves: think it's a step in the right direction, but it's a step that was taken because previous step didn't it happen. Right? So the Ao msg was the Pro essentially of the Aa ar or arrow. And, you know, the name was changed because nothing was happening and it was essentially just a confusing mess of words that were created to make this topic palatable. Airborne object den identification, synchronization management group, quite mouthful.
+ 
+ Mh. I practice that. But the new, all the main anomaly resolution office, you know, from my perspective, at least, at least the perspective that they're putting out these They seem to want be open. They put out a Twitter handle they're... They're going out on Twitter and communicating, saying they wanna keep this open.
+ 
+ But, you know, that's gonna run into a classification wall.
+ 
+ Lex Fridman: Well, so doctor Sean, Cop patrick, seems like an interesting guy.
+ 
+ Ryan Graves: He does. Yes.
+ 
+ Lex Fridman: So he he's got... Evan looked into deeply, but he he seems to have sort of he's coming from, like a science research perspective like the background. Mh. So he he might be at least in the right mindset the right background to kind of lead to serious investigation.
+ 
+ Ryan Graves: I think so. I'll just say generally, you know, the office has been to ai delay reaching out in order to collaborate which has been a positive sign. Also pass the same kudos to Dr Sp and Nasa's effort as well. I I see these organizations that are standing up. I do see them as as good faith efforts that are coming about through a lot of difficulty and negotiation most likely.
+ 
+ Right? And I see these as as a small door opening that if we could take advantage of can lead to a much more productive relationship between these organizations. How do you put pressure
+ 
+ Lex Fridman: on this kind of thing? Is it come from the civilian leadership to come from sort of congress and presidents. Does it come from the public? Does the public have any power to put pressure on this. Or
+ 
+ Ryan Graves: is the the the giant wall of bureaucracy going to protect the any public pressure? What do you think? I think we've been in in that latter state for a while,
+ 
+ Ryan Graves: but, you know, society seems to be a bit different nowadays, you know, we have the ability to communicate in group and to to form relationships in a way that hadn't been able to be present in the past. We've been able to do research for better worse on our own, you know, in a way that hasn't been able to happen for. And so I sense that people are a bit less willing to kinda buy the bottom line statement from those in power as they used to be back when they didn't have access to those tools. And so I do think there is a massive role for the general society general populace to play to show that they are interested in this. Because it's not that I don't think the politicians or the leaders in the in the Pentagon.
+ 
+ It's thought that they don't like this topic necessarily or think it's toxic per s, but they exist in a culture where this has been toxic and they don't feel comfortable talking about it. And these are people that have spent their entire careers, working towards a goal and getting to very high positions within government. And so this is very against their nature to take a stance on a topic like this. And so the fact that these are standing up. Even if they do have a small budget or if they struggled a bit at first, I still think it's a massive change you know, and it's a big step away from that stigma that has been providing this topic for so long.
+ 
+ Lex Fridman: And you're actually part of all this stigma for some somebody that's as credible as intelligent as, like, varied in background. Able to speak about these things. That's a big risk that you took, but it's extremely valuable because it's all the stigma.
+ 
+ Ryan Graves: I thank you're for saying that, but I didn't feel like much of a risk for me. You know, I didn't come out about aliens. Right? I... Or whatever I I had a safety problem that I started asking some questions about And, you know, I went down a road as a Navy trained aviation safety officer, right, That sent school for six weeks pensacola would be a safety officer, you know?
+ 
+ We're almost hitting these objects. And it's not something that happened in the past and we wanna understand it. It's happening right now. Like, these these occurrences are still happening. Avi are flying right now are still flying by these things.
+ 
+ In in fact, I mentioned I was a instructor pilot. I had a student called me about eight months ago or so. And he's like, hey, sir, you know, I made it to the fleet finally. You know, I had trained him how to fly, and then he goes to f eighteen. He goes another year of training, and then he gets out to his squadron on East Coast, and he's flying with a senior member of the base and es associated where the fighters fly out of senior five zero six.
+ 
+ And it was kind of a bad weather day. And so they said, hey, you know, weather's there's not good enough for us to do this dog fighting set. We'll we'll go out and do a Ua hunt... you know, see we can't find or take a look at them you know. I don't know if it was just or not, but, you know, this...
+ 
+ They I actually would say it's not just because there were there were notices that being briefed about this being a safety hazard at this point. And so I... Now that I I think about it, it like wasn't just. Long story short they went flying, the weather was too bad. They did go into.
+ 
+ And they physically saw one. You know, and he called me up and say, hey, sir, I saw a cuban, they're still out here, you know, years later. And so it's almost like a generational issue, you know, for these fighter pilots, at least on east coast. But that's great that they can talk about it. Right?
+ 
+ Exactly. Exactly. They feel at least comfortable they have a reporting mechanism. And so that was one of the problems that I noticed that we have a lot of reporting mechanisms to take care of safety issues and and even tactical issues when the time right in order to keep track what's going on, but there's no way to communicate about this. Share we can submit a hazard report, but nothing actually being investigated.
+ 
+ And if this is a tactical vulnerability or or
+ 
+ Lex Fridman: something more, it deserves attention If I could ask your sort of take your opinion of the different your sighting that the Dod has released videos on. Mh. So what do you think about the Tic tac that David Favor and others have cited.
+ 
+ Ryan Graves: That's a you know, a truly anomalous experience. I can't I can't do, like, mental models in my head to find potential solutions to just credit that. Right? Like, as much as I try, Right, just as a logical process as a practice. I can't I can't pick it apart in in the way that we were just talking a moment ago about, you know, thousands of drones being like, sent up in very tricky manners.
+ 
+ Right? I I can't really bring myself to a clever solution that, you know, other than just saying the pilots are lying or there. You know? And I believe, you know, I know Dave f, you know, I friend, we talk a lot. I have zero zero reasons to just leave anything he says.
+ 
+ Lex Fridman: Yeah. I agree with you. But in terms of the actual, Is there something anomalous and interesting to you about that particular case? Maybe one interesting aspect there is how much do I understand about the water surface and underwater aspects of these? It seems like a lot of the discussions about is about the movement of a put this particular thing that seems to be weird anomalous seems to defy physics.
+ 
+ But what about stuff that's happening on the water? That's interesting to me. If I had advanced technology, I would certainly Like to operate in part underwater because you can hide a lot of stuff there. Mh.
+ 
+ Ryan Graves: You think it would be somewhat as easy as traveling through interstellar or space at at least. Right? Yeah. You know, I wish I had a great answer for that, but as an avi, that's a kind of a a black box for us. You know, we don't have great...
+ 
+ Well I would call cross domain tracking. Right? I can't something go water and then follow it underwater. So it's literally not your domain, like, underwater. Yeah.
+ 
+ Like, leave that for somebody else. Yeah. And, you know, I I I use that terminology because it's it's kind of important right. Cross domain tracking is something that we haven't had to initially necessarily worry about. Right?
+ 
+ Because the airplanes operated in the air and submarines operated underwater and space planes space. Right? But, you know, there's gonna be... you know, that's kind blur, I think as as we move along here, especially in the arr space regime. And being able to perhaps transition my radar contact at forty thousand feet to another radar system that can track it up to two hundred thousand feet.
+ 
+ You know, that might be a value. And so we we seem to be missing that right now. So what about the
+ 
+ Lex Fridman: go fast and the Gimbal videos that you mentioned earlier there was... Like, what's interesting there to you. So the Gimbal, I'll talk about that one first. I was airborne for
+ 
+ Ryan Graves: that one. The person that recorded it it's a good friend of mine. But I mean, both their crew, I knew both them, but the the w himself very close friends with went through a lot training together. Went to the same fleece squadron. He ended up transitioning to be a pilot and then came to where I was instructing, So I got to struck a bit on his transition.
+ 
+ And, you know, the way that was was was we went out on a Air to air training mission, So simulating a air fight against our own guys they're acting like the bad guys and kinda go head to head into each other. And when we fly on those missions, we all fly together more or less. We set up. And then we kinda a from the fight as we either, you know, run out of gas or something happens. And so people usually go back onesie these or twos.
+ 
+ And so the air crew that recorded the gimbal, they were going back to the boat and we are on what's called a work cup training event. And so this is, like a month on the boat. Where we're essentially conducting more time operations more or less to stress ourselves out and to kinda do the last training block before go deployment essentially. So it's pretty high stress. They actually do send aircraft from, like, land basis to kinda try to penetrate and we're expected to go intercept them and so we're we're kinda practicing like we play.
+ 
+ And so he saw these objects on the radar, the Gimbal and a fleet of other aircraft or vehicles. And they initially thought it was part of the training exercise that they were sending something into to try to penetrate the airspace. And so they... you know, they flew over to it and as they got close enough to get on the floor you know, I think everyone has heard the reaction and they realized that it wasn't something they were checking to
+ 
+ Lex Fridman: see. Can you actually describe what's in the video with your reaction in case they haven't seen it.
+ 
+ Ryan Graves: Yeah. A lot swearing. But so what you see on the fl footage is a black or white depending when you look at it, object that's somewhat shaped like a gimbal. It it appears almost as if someone got two plates together, And then there seems to be almost like a small funnel of by energy that's at the top of the bottom of those plates in a sense. So most as if know, there's a stick going in between two plates.
+ 
+ But not that per pronounced. Right? So there's energy field that kinda went to a funnel on the top and the bottom. At least that's how it's being portrayed on the fl. There's a lot of conversation about that being glare things that nature, but it was actually a very tight Ir image.
+ 
+ It just was non shape, which is interesting. Typically, we would see the skin of the aircraft. We can see the flames coming out of the exhaust, especially at those ranges.
+ 
+ Lex Fridman: But and there was no flames or there's no exhaust here.
+ 
+ Ryan Graves: There was no exhaust. There was no, you know, there was no out gasping for propellant in any manner. Right? It was just an object that had nothing a emitting from it that was stationary in this sky. We're not stationary, but it was it was moving along a path.
+ 
+ Right? The wasn't falling out of this sky. And it continued along if we were to consider it from a... God's eye view again on the Sa page. It continued along in a path and from the perspective that top down view, it just went those direction.
+ 
+ So no just an instantaneous direction change from that perspective. You also get them, you know, very excited talking on the tapes about you know, whatever the heck this thing is. And look at the Sa, there's a whole formation of them. And so with the Essay is a situational awareness page. And again, it's a large display that gives that god's eye view of all the radar contacts.
+ 
+ Lex Fridman: So the video actually showing just one. And then they're speaking
+ 
+ Ryan Graves: about many of them. Correct on the on the Essay display. Correct. And what they essentially saw was if we were consider above the object north, so kind of offset to the north of the object, there was a formation of about some of new forms, sixty of these objects in a rough wedge formation, you know. So kind of side by side like this.
+ 
+ And again, not in a like, autopilot type manner where it was very stiff. It was very kind of non mechanical, the flight mechanics. And again, and these objects were in that formation and they were going along, and then they turned pretty sharply, but they still had a radius of turn. And then went back in the opposite direction. And during that turn, it would...
+ 
+ They kinda, like all over the place. Like, it wasn't tight. They weren't even, like, super... They weren't flying in a way, I would expect them to be flying in relation to a flight lead. They were flying as this they were flying close to each other, but not formation, which was kind strange.
+ 
+ Right? And then when they rolled out, they kinda tightened backed up, like, so when they basically they start that turn, and then a hundred and eighty degrees out essentially, they start flowing in the opposite direction and kinda got back in that formation. And while that was happening, the Gimbal object was proceeding was they left to right. And as as those the formation kinda turned up to the north and was just passing back it, the gimbal will just kinda went back in the opposite direction, so to follow it back in that direction. And in the in the fl itself, you know, you see the object changes orientation quite a bit.
+ 
+ So you see it more or less level, maybe can about forty five degrees. And then you see it kind of moving around like this almost as if it was a is gimbal. Mh. I've come to learn after some, you know, having seen some research online and and people really looking into this that it seemed that the object actually climbed during that maneuver. And so the reason it looked like it turned immediately is because it turned like this.
+ 
+ It turns in a vertical fashion like that, which is pretty interesting. That's kind of like another example of a flight mechanics that we don't normally operate because we don't change our directions by maneuvering in the vertical if we can help it. It's you just kill in the fuel, you know? And so if you're like, surveillance platform looking to spend as much time around something you're not gonna, you know, climb five hundred feet every time you make a turn, Unless your tongue cruise. Let your tongue cruise.
+ 
+ Natural.
+ 
+ Lex Fridman: Okay. So is that one of the more impressive flight mechanics you've seen in in the video... In video forms and not the direct i eyesight reports, but like, in terms of video evidence that we have.
+ 
+ Ryan Graves: I think so we we were seeing a lot of these but we weren't just going on recording multi day. We we just kinda put them in that safety bucket but like, alright. There's objects over there. We're just not gonna go near. You know.
+ 
+ And so we weren't putting our sensors on them that much. So we were gathering the data kind of second, but we weren't primarily focusing on it to see all the details. So that's so fascinating, because you
+ 
+ Lex Fridman: have a busy day. You have a lot to do. Alright. Well, there's some weird stuff going on there. We're just not gonna go there.
+ 
+ And that says something about sort of the about human nature about the way that bureau oc function way the military functions. It fills up your day with busy, important things, and you don't get to... I mean, that is something that i'm in this sort of absurd way worry about, which is like we fill our days with so much busy than when truly beautiful things happen. Whatever they are, truly anomalous things, we just won't pay attention. Because they don't fit our busy schedule.
+ 
+ Mh.
+ 
+ Ryan Graves: Beautiful. I think that's right on the nose. And it's on my nose because, you know, I didn't give this topic the attention it deserved. Until I left, right, Until I left and I went to the instructor pilot where I had more time, You know I had more downtime the kind of process and think and get out of exactly what you just described. And that's kinda what broke me out of it
+ 
+ Ryan Graves: and got me thinking more about it. Why do you think the deal do release
+ 
+ Ryan Graves: these
+ 
+ Lex Fridman: videos??
+ 
+ Ryan Graves: It's a great question. Did the Dod release say or they kinda get out on their own to some sense. So I I don't know the answer that question, but my understanding of the situation is that the Dod talked about them so much because they're already out there. In sense. And so you know they could they had a choice where they could've have just straight up light and said it wasn't theirs or was fake.
+ 
+ But again, I think our culture now is too open and the information moved too freely to to do things like that, and it kinda left them in a pickle
+ 
+ Lex Fridman: that they had to respond to. So what was the role of Pentagon advanced aerospace threat intelligence program a tip. From your perspective from what you know, maybe your intuition is eight atypical a real thing that existed
+ 
+ Ryan Graves: I was in a position as nav that never would have exposed me to anything like that. But I was curious about what people knew and i I think if my mind maybe hoped her, you know, hope someone was looking into this in some sense. But on the day that Gimbal is recorded, I heard that they caught something extra interesting on the fl, and I went to the intel deep debrief space. To go see the the film. And, you know, everyone's gathered around watching it very interesting and I heard the animals coming down.
+ 
+ And so I was like, I'm gonna hang out back know, quietly, my email business and see. And wanna see his reaction and try to read it to see if this is brand new or if it is something that they've been dealing with, you know. And, you know, he came in and he watched a video for, like, five or six seconds And went i, like turn around and walked out. And, you know, I was like, he's definitely seen these for. There's no way that you only watched that for a few seconds and don't have more interest.
+ 
+ It was, you know, too bizarre. So kinda going back does the office exist. Well, you know, I've heard that the the admiral won't essentially reported back to the pentagon about that that case real time essentially after he left. Right? So he basically went back.
+ 
+ And I was told reported that to either a tip directly or to other, you know, somehow the information got there. So from my perspective, from what I've experienced, it seems like, yes, it was a thing. But, you know, as an avi, I wouldn't know either way.
+ 
+ Ryan Graves: Right? That's just my experience from what happened. But it seems like there's somewhere to report to.
+ 
+ Ryan Graves: At the time, it seemed like there was at least some place to complain to. Has not report to.
+ 
+ Lex Fridman: Let me ask you about sort of people that are taking a serious look at at the videos and just the different you sighting reports. So there's there's a person named Midwest who is a skeptic and tries to take a skeptical view on every single piece of evidence on these your four sighting. What do you think about his analysis he tries to analyze in a way that debunk some of these videos mh and assign probabilities to their explanations. Sort of leaning towards things that give a very low probability to alien extraterrestrial type of explanations for these. What do you think about his approach to these analysis?
+ 
+ Ryan Graves: Well, two parts to his approach. One, I commend him for all the good work effort he put into it. He's... I've seen him build some models and things of that nature. And so I think that's something that's absolutely needed in this environment.
+ 
+ No one's asking anyone to believe anyone here. Right? Trust but verify. Should certainly be the mantra. But where I have, you know, a disagreement with his approach is that he's approaching from, you know, from a skeptic or from a debunk standpoint and, you know, from my perspective, not not speaking for everyone, but when I hear that, that tells me that you're driving towards a particular conclusion, which has been a very safe process for the past next years.
+ 
+ Right? It's been it's been a like, a a very safe business to be in to tell people that they haven't seen aliens. But times have changed a little bit. And the tactics I've seen to try to retain that view on reality. Has included things such as completely just missing what the air crew are saying.
+ 
+ And I think that is a fallacy to think that we have to take the human outside of that analysis so those are the two things I just agree with.
+ 
+ Lex Fridman: When you put the night vision on and you look at the stars and you look out there, and and the vast cosmos is only a small fraction which we can see. How many intelligent civilizations do you think are out there? You think about this kind of stuff I do?
+ 
+ Ryan Graves: You know I'm I'm of the theory that we are not the only people out there. I think it's it's it would be a statistically silly comment to assume we are although I get that we are the only data point that we currently have. Although I... I'm willing to jump over that fence and say that, yes, there most likely is intelligent life elsewhere. Although I can concede that is a possibility we are early or there could be limited or could be in a manner that we don't recognize or can really understand.
+ 
+ I I spend so much time thinking about how we ant things on this Ufo topic. And we've done it to ourselves with media in a sense. Right? We've trained ourselves what to think about what we think is true or or what this would be like. And by doing so, I think we're closing ourselves off to a lot of what the possibilities could be and the things that we could
+ 
+ Lex Fridman: miss. You beautifully put that the thing that drew you to fighter jets as the technology. So if you were to think to imagine from an alien perspective, what kind of technologies would we first encounter? Human beings if were to meet another alien civilization in the next few centuries. What kind of thing would we see?
+ 
+ So you're now at the cutting edge and you see the quick progress that's happening. That was happening throughout the twentieth century that's happening now. With greater degrees of autonomy with robots and that kind of stuff. What do you think we will encounter?
+ 
+ Ryan Graves: I think we're going see ability to manipulate matter like use some manipulate information. Like, I think that's what whether that means being able to pop something on the table that didn't exist or to influence a chemical reaction somewhere, but being able to manipulate and treat matter as if it was information. And so being able to design specific materials being able to move past a lot of the barriers that seem to limit our progress with things such as mini, fusion or even images fusion in general is, you know, a lot of it is is matter based material based and our ability to not manipulate. We can only discover materials in a sense. And so I think that a complete mastery of the physical reality would be one of the key traits of a very
+ 
+ Lex Fridman: intelligent species. Where you're actually working on some... Maybe you can correct me but sort of quantum mechanical simulation to understand materials. So is that do you see sort of the the early steps that we're doing at quantum computing side to start to simulate deeper understand materials, but maybe to engineer to mess materials at the at the very low level the aliens would be able to do and hopefully, humans would be able to do some
+ 
+ Ryan Graves: Yeah. I I think that's, you know, so if we think about how what materials are made of is just a collection of atoms. Each one of those atoms has a lot of data associated with it. So if we wanna kind of calculate how they interact with each other, it requires a massive amount of computational resources so much so that can't be done in a lot of cases with classical computers. And that's where quantum computers come in.
+ 
+ Although we don't have a perfectly functioning quantum computer at this point, One of the things that we're working at at quantum general materials is to to essentially purge that gap between what a classical computer can do as far as stimulating materials, and of course what a fully functioning quantum computer would mean for being able to design materials. And so, you know, having the ability to study matter at very fundamental level and unleashing artificial intelligence and just machine learning on that problem. I think is, in a sense, you know, alien in a way that we're able to advance our science using, you know, process that we may not fully understand with a perhaps a non human based intelligence. In some sense. And so we may find patterns in the the processes.
+ 
+ Right? Well how does our machine learning output? You know, can we we match behaviors with what we're observing with what maybe a machine learning algorithm with output Right? Can we try to classify the intelligence in that manner or perhaps. And so you know, at Gen as, we're looking at these materials.
+ 
+ We're considering what these algorithms could have used for later on. Could we perhaps reverse process and determine what a unique or anomalous material what type of properties potentially could have? And you said Jen matt. Right? Mh.
+ 
+ What's what is Jen med? Jenna is a quantum gender material. So it's the company I worked for. We essentially are working on a couple of verticals. One of them is our quantum chemistry work we're essentially bridging the gap between essentially physics and chemistry.
+ 
+ We're working on those problems and and again, implementing artificial intelligence machine learning into that process so that we can design those materials from the ground up. Additionally, we are what we consider a vertically integrated material science which means we can generate our our own data. And so within the next quarter coming up, we are launching a satellite in the space. They'll have a fairly advanced hyper spectral sensor in there, which is intended to be the first launch. That will help us detect different types of materials using our advanced knowledge of the quantum chemistry.
+ 
+ Lex Fridman: Right? We're gonna be leveraging that experience in order to better analyze that data Interesting. So materials that are strange or novel out there in space.
+ 
+ Ryan Graves: Not necessarily, but we'll be
+ 
+ Lex Fridman: looking back at Earth to be able to detect deposits on earth. Got it. Got it. Getting the greater perspective. From out space to do analysis sort of different materials.
+ 
+ Right. Interesting. Yeah. I was really impressed by the deep mine. I got to hang out deep my every recently and they really impressed me the the possibility of the application as you're saying of machine learning in the context of quantum chemical stimulation.
+ 
+ For materials so to understand materials. Yep. It's it's really really, really interesting. So manipulate people matter would say
+ 
+ Ryan Graves: the next thing is horses right or maybe fields. So, you know, manipulating or managing gravity. Can we, you know, maneuver within fields in some manner that allows us to perhaps move for propellant or another manners. Right? And so I think essentially having a deeper understanding of, you know, different fields and being able to interact with them, I think would be, you know, a potential avenue for, you know, travel advanced travel.
+ 
+ Right? Let's travel. Can we can we quantum entanglement gravity fields together and propeller by, you know, the gravity field of a planet, the master plan and a drive ownership a. You know, is all sorts of interesting things. But Yeah, people look back at people like you and say,
+ 
+ Lex Fridman: well, they used to fly like, with this kind of propel. It seems like to be a very antiquated way of flying. And then we're very impressed with themselves these humans that they could fly like birds. It's like so much energy is used to fly such short distances from that perspective. We only throw so many rocks at the back.
+ 
+ Ryan Graves: Yeah.
+ 
+ Lex Fridman: There needs to be a better way. Exactly. It just seems dumb like
+ 
+ Ryan Graves: these...
+ 
+ Lex Fridman: It's like flint stones or something
+ 
+ Ryan Graves: like that. Good at it. But yeah. Usually limit. Right?
+ 
+ Like, we need to something
+ 
+ Lex Fridman: good. I mean, that that's an interesting sort of trade off. How much do you invest in getting really good at it. I tend to believe the reason why it would be very important and very powerful to put a human on Mars is not necessarily for the exploration fa. But in all the different technologies come from that.
+ 
+ So the in putting our... There's something about putting humans in extreme conditions well we figure out how to make it less extreme, more comfortable. And for that, we invent things like the Dod sort of helping invent the Internet and all the different technologies we've invented. It's almost like an indirect consequence of solving difficult problems. Whether that problem means winning wars or colonizing other planets.
+ 
+ And so I don't think Mars will help us figure out propulsion systems or to crack open physics to where you can travel close to the speed of light or fast than the speed of light, but it will help us figure out how to build some cool technology here I know they think. So it's I'm a big proponent of doing really difficult things. Really difficult engineering things to to see what kind of technologies emerge from them. But Let me ask you this. Do you think Us government is hiding some technology like alien spacecraft technology?
+ 
+ Mh.
+ 
+ Ryan Graves: I have no information either way.
+ 
+ Lex Fridman: And if you did, you probably wouldn't tell me.
+ 
+ Ryan Graves: But my assumptions, you know, how what, like, what is my heart telling me my heart tells me something going on, but I have no evidence for that. Maybe that's me wanting something to go on. Maybe that's a human feeling to want to know in my government control of what some strange unknown thing is.
+ 
+ Lex Fridman: What's your sense if such a thing happened would with this kind of information leak, with this kind information be released by the government. I mean, that's the worry that you have is because when you don't down thing and it's novel, you you wanna hide it so that some kind of enemy doesn't get access to it and use it against you. Mh.
+ 
+ Ryan Graves: I wonder if that is the underlying assumption. I... It's it's the one people always jump to that it's for to, you know, to maintain secrecy of technology and I assume that's part of it. I wonder if there's any other reasons that we would want to not talk about it. I imagine that in such information would have a shock to these you know, social economic system of any country of not the world.
+ 
+ And so I wonder if perhaps that was part of the concern as well, you know, how society can react to it. Maybe we're anti fragile enough now with everything that's going on And with our communication networks that you know, why not now. I don't know.
+ 
+ Ryan Graves: But it's that's something I think about as well. Yeah. The effect on the the mass psyche of of something like this. Mh.
+ 
+ Lex Fridman: That that there's another intelligence out
+ 
+ Ryan Graves: there.
+ 
+ Lex Fridman: With trouble enough to deal with the pandemic. To have something of this
+ 
+ Ryan Graves: scale.
+ 
+ Lex Fridman: Basically having just an inkling of a phenomena that we have no understanding of and could lead a complete destruction of human civilization or a flourishing of it. And what do you do? What is it bureau bureaucracy of government do with that?
+ 
+ Ryan Graves: Especially when they're the ones holding the range of power and such a communication would that power essentially. Some degree.
+ 
+ Lex Fridman: Since you think there's aliens out there. And you're somebody that's thought about war quite a bit. Do you think alien civilizations when we meet them would want war? Mh. Would would would they be a danger to us?
+ 
+ Would they be a friend of us? What's your intuition about intelligences out there?
+ 
+ Ryan Graves: My intuition tells me that two people like yourself and myself or anyone get together. Often the output is greater than individuals. And when we work together, we can typically do things and more impressive and better than if a single person works alone. And now I know that war has driven technological progress perhaps other mechanisms that can do so. But regardless, I wonder, you know, if we truly think about events society that has been perhaps thousands or millions of years ahead of us.
+ 
+ I would imagine that same same truth to be there that people working together, creatures working together is a good thing for the society or its Society as a whole. And if we consider that, as we imagine the society growing and expanding, it a sense the ultimate output of a plan could only be achieved in some senses if everyone is working towards the same goal. And there might be you know, wonders and secrets and things that we can't imagine just simply because of time frames that we we live under and we think in, but if a planet has a single unit and it almost is as an entity itself at a certain level. Right? If everything's working towards the same output, know, I could almost imagine an intelligent species that approached us playing the planet instead of person the person because that's how they've evolved.
+ 
+ And they've assumed any intelligence species would understand that working together is better than not. And so, you know, my heart tells me that at a certain point, you know, love and caring and desire to work together as much more powerful than, you know, the technological progress that war would bring.
+ 
+ Lex Fridman: Also as well. Well, let me jump to the Ai topic that you've done. So you've done research and development efforts focused on multi agent intelligence for collaborative autonomy, machine learning Ai stuff that we've been talking about for combat. For Air to air combat, manned man teaming technologies, all that kind of stuff. What's some interesting ideas in the space that fa you?
+ 
+ Ryan Graves: Randomness, you know, being able to to not predict what the enemies is doing almost no matter what? Because there's a level of ram that's within the tactical envelope. Even the utility of randomness, the utility of randomness in and
+ 
+ Lex Fridman: increasingly like a book you should write.
+ 
+ Ryan Graves: And be good titles. Need my band.
+ 
+ Lex Fridman: Naming your band. Yeah. So... Yeah, can you elaborate that? So like, trying to deeper understand how you can integrate randomness through Ai in
+ 
+ Ryan Graves: the context of combat in order to make yourself... In order to take away the Enemy's ability to try to predict what you're gonna do to disrupt their technological progress cycles so that they don't have a clear target to aim at. And if you don't clear target the. It's hard to hit it. Additionally more distribution of assets and capability.
+ 
+ So imagine being able to digitally model your your weapon or your system or your entire tactical engagement or scenario. Or lot of machine learning to help you better understand the technology that you need to build in order to feet a particular scenario. Right? And I'm talking hardware now, not just the tactic itself. And you know, being able to use large amounts of simulation and machine learning to build individual assets that are small boutique using advanced factoring techniques for mission or for particular battle.
+ 
+ Right? Instead of just having these large things against an enemy, you're building systems and technology for individual cases. What about man and unmanned teaming? So man a machine working together. Is there interesting ideas there?
+ 
+ I approach it from the position that the human should be commanding from the highest level possible. Right? So mission objective based targeting. And so if just for an example, if there's a building here and I want that building to go away. That's the message I wanna communicate.
+ 
+ I don't wanna tell certain vehicles to be in a certain spot. I don't wanna know how much fuel I have. I don't even wanna know what capabilities they have necessarily. I just wanna know that I have the ability to select from a cloud of capabilities and the right assets are gonna arrive such that they deal with the contingencies. Around the targets such as protection systems or Ew and then can prosecute the target to
+ 
+ Ryan Graves: the higher enough probability of satisfaction. That's needed by mission matter. And that's the power of the the human mind is it's able to do some of
+ 
+ Lex Fridman: these strategic calculations, but also ethical calculations, all that kind stuff. Exactly. That's what humans are good at. Does it worry you? A future where web increasingly higher autonomy in our weapon systems in our war.
+ 
+ So you said building. What about telling a set of fully autonomous drones to get rid of all the terrorists in the city. Mh. Multiple buildings, region, that kind... A greater and greater autonomy.
+ 
+ So that... That's a fear. Right?
+ 
+ Ryan Graves: You're viewing it from a... We can cover more perspective, which is fair and a lot of... We I I don't approach from that topic. At least, I don't think of it that way, at least morally. I think that with the advancement of warfare, assuming we have a just and moral leadership if that's the case, then I am an advocate for increased autonomy and technology because I see it as an ability to be more precise.
+ 
+ And if we trust the more leadership of our government, then we would want to be as precise as possible in order to mitigate effects that we don't want. So I know that's not a set fine answer and it leaves us
+ 
+ Lex Fridman: well with
+ 
+ Ryan Graves: bad feelings, but...
+ 
+ Lex Fridman: No. Because having experienced sort
+ 
+ Ryan Graves: of
+ 
+ Lex Fridman: directly seen what it looks like went deliberately or careless wore leads to the death of a large number of civilians as it does in currently Ukraine. The value of precision given ethical leadership becomes a apparent. So there's something distinctly unethical about the the murder of civilians at a time of
+ 
+ Ryan Graves: war.
+ 
+ Lex Fridman: And I think technology helps lessen that. Of course, all death is is terrible, but there's there's something about
+ 
+ Ryan Graves: schools, hospitals, being destroyed with everybody inside being killed... Yeah, It's particularly terrible. It is. And, you know, you approached it from the angle of more autonomy enables a wider, you
+ 
+ Ryan Graves: know, swath of destruction. And that's where we get back into, you know, who who's making the decisions based off of this. And, you know, my hope again, would be that we would have the leadership that would use these things when needed in the precise way as possible to minimize that. And I've seen that firsthand. You know, I've seen that in country.
+ 
+ I've seen not blue forces, but, you know, I've seen truck bombs go off on school buses, you know, driving around Afghanistan. Well, escort con and, you know, it wasn't easy then, and I'm sure it's not any easier now, especially after what you've just seen. Do you have thoughts about the current
+ 
+ Lex Fridman: war in Ukraine, maybe from a military perspective maybe from the Air force perspective. So I can just mention a few things. There's the bar drones that are being used. They're unmanned. I think they have capability to be autonomous, but they're usually remotely controlled.
+ 
+ They're used for reconnaissance, but they're also huge by but you coincide for reconnaissance and I think also to destroy different technologies tanks and so on different targets like this. So there's also the on the Russian side, the the wall in ten. There's the the fighter jets. Mig twenty nine, the ukraine side su twenty five in the russian side. Is there anything kind of stands out to you about this particular aspects of what this war looks like that's unique to what you've experienced?
+ 
+ Ryan Graves: Maybe not unique, but just been absolutely incredible to see the footage. You know? I mean, we're watching war on Twitter, you know, essentially. And to see, you know, these aircraft flying down low, spit flares out getting shot down and, you know, it's incredible to to see this happening, you know, live for everyone to see. So that's just kind of a quick meta comment.
+ 
+ But as far as the actual... you know, I I think these small form factor Ua v where there's just, like, strap weapon to it and flying over and trying to drop it at the right time or any of this these type of commercial applications of technology into tube this ad hoc warfare area is incredibly interesting because it shows, you know, how useful that technology can be outside of the military. Right? Like, these like, like Dg. Right?
+ 
+ Like, there's obviously a lot of technology there being leveraged for other capabilities within, you know, Plc military, or at least we would assume. What happens if that is more widespread. Right? Like, what if we were creating our own drones and they were being used against us. We want to have some type of kill switch or something like that?
+ 
+ Right? So what I think governments gonna have to consider, like, all these tools that are gonna be easily available to just any person could be turned into a tool of war, how do we stop that from being turned against us? You know, especially as we look at, you know, ten years from now when we have a large number of autonomous Ua v delivering packages and doing everything else over our country and any one of those could be potentially eleven if we don't have the proper security. Well, there's we're now in Texas
+ 
+ Lex Fridman: and Texas values it's guns, and it sees guns as among other things a protector of individual freedom. And you could see a future perhaps where... And I've certainly experienced this in the empowering nature of this in Ukraine where you can put the fight for independence into your own hands. By literally strapping explosives to G drones that you purchase on your own salary. I mean that one of the interesting things the voluntary army in Ukraine is that they're basically using their own salary to buy the ammunition to fight for their independence.
+ 
+ This a very kind of ideal that sort of people speak about when they speak about the the second amendment in this country. That it's interesting to see the advanced technology version of that especially in Ukraine, sort of using computer vision technology for surveillance and reconnaissance to try to and and integrate that information to to discover the targets and all that kind of stuff to put that in the hands of civilians as fascinating to see just to sort of fight for their independence. You could say that to fight against authoritarian regime of your own government, all that kind of stuff.
+ 
+ Ryan Graves: Shows you how complicated the worst space in the future is gonna be, you know, evading a land
+ 
+ Ryan Graves: like that where people have, you know, that many different types of resources. Because absolutely change warfare. I mean, hopefully that creates a incentive to start war. To go to war
+ 
+ Lex Fridman: with Yeah. So it changes the nature of Guerrilla warfare.
+ 
+ Ryan Graves: Does. You know. You know, I don't think Putin was expecting to be in that engagement quite long as he has. Of course, But it can show you how you can get caught up. You know, if if if lan wars turn into an capable, q each time due to the complications around the society's ability to access interesting tools.
+ 
+ You know that it could be, you know, it could be a huge demo motivator for aggression.
+ 
+ Lex Fridman: Well, let me ask you about this. Do you think there will always be war in the world? Is this just a part of human nature?
+ 
+ Ryan Graves: I think so. I think I think it is until we... Until we move past resource limitation, there's always gonna be at least that one particular cause of conflict. And then we can also consider all our psychological lizard brain emotions that cause us to act out. Although, you know, or hopefully we have enough things in place to stop that from verizon to the level of war.
+ 
+ But you know, we have own biology or own psychology evolution to combat. And then but there are pragmatic reasons to exert violence sometimes, unfortunately in that one of those cases could be resource limitations. And so your question was, do I think All do war in this world, my, unfortunate answer is perhaps yes, but
+ 
+ Ryan Graves: once there's more than one world and we're less resource constrained then perhaps, be a valuable of sorts for that. I talk to Jo. His podcast. I I I told him
+ 
+ Lex Fridman: bought a song called brothers and arms my dire Straits, And the question I asked them I'd like to ask you the same question is like the song goes do you think were fools to wage war or brothers and arms? And Ja said our enemy is not our brothers and ours that are the enemy me. And so this kind of notion that we're all human, that's a notion... That's a luxury you can have but there is good and bad in this world according to Jo. Mh.
+ 
+ I hear that anger and hate when I was in Ukraine among some people were there was a sense where you could be brothers and there's you can have family, you can have love for from ukraine to Russia. But now that everything changed and generational hate for some people have taken over. So I guess the question is when you think about the enemy, Is there hate there? You acknowledge that they're human, I never had
+ 
+ Ryan Graves: any hate or just content. You know, when I was doing my job, I'll say, but I was also never in a true life for death situation where they were gonna kill me if I didn't kill them. But, you know, I think that environment isn't one born out of hate. You know, being in that type of scenario and you know, a sense it's how to be alive. Right?
+ 
+ I mean, that's the... Our our natural state is be fighting for a survival in a sense. And so I think there's there's great power and strength and clarity perhaps in that and it's not always born out of of hate, but of a necessity, and we can't always control that And I think as we focus on ourselves so much, we only dance on that pin head when we find ourselves fighting for things that we need and we're always taking from someone else at this point. And so as someone that's been in combat and very high above it, I'll say, right, where I didn't feel like I was in particular danger. I I I rationalize it and I made my wife do it knowing that there were people on the other side that were going to die that were on our side, than not.
+ 
+ So it was always a very human thing. It was never a reaction emotional reaction of any sense. So you do... You were able to see the basic it's
+ 
+ Lex Fridman: human versus human. There's some aspect of war that is basically one people fighting each
+ 
+ Ryan Graves: other. Yes. At the end of the day, you know, especially, I would say in aviation tackle aviation, there's almost a kinship ship. With your your end enemies in a sense because you know that you know them in a sense. Right?
+ 
+ You know what they've been through. You know what training they been through. you know where failed. And you know what type of person they are, because it's very unique person that does that job and usually can spot them. I guess it's the kind of respect you have for the craftsmanship
+ 
+ Lex Fridman: ship of the job they've taken on.
+ 
+ Ryan Graves: Certainly, and that person didn't come out his hundred million dollar jet because I pissed them off, You know? It's it's not an emotional response. We're both there. Maybe because we chose to be in some sense, but at the of of someone else and outside of our control and power, And so in a sense for me, it's almost a challenge that we've engaged upon agree, but that's such a romantic version that I have the luxury to have being high in my castle in the jet up there, not on the ground. So I understand that it's a bit more romantic than perhaps you know, someone on the ground experiencing all the horrors down there.
+ 
+ Because everything looks very small from above.
+ 
+ Lex Fridman: And that's another aspect of war with greater autonomy when you're controlling the mission versus, you know, have a gen khan type of intimacy in terms of the actual experience of war we you directly have you murder with a sword versus a gun versus a remotely controlled drone versus a strategic mission assignment an autonomous drone that execute abstract away until it's just a small decision. And my worry is the people without a voice are are completely forgotten and silence in all these calculations. I spoke to a lot of people poor people they feel like they've never really had a voice and and they're too easily forgotten even within the country of Ukraine. It's the the big city versus the world divide. Mh.
+ 
+ You know, it's easy to forget the people that don't have a twitter account and don't that their basic existence is just trying to survive trying to put food on table. They don't have anything else. Anything else and day the ones that truly feel the pain of war of the supply chain going down or the food supplies going down of of a cold winter without power. He's still young. But seen some things.
+ 
+ So let me ask you to put on your wise stage hat and give advice to young people. Whether they're fascinated by technology or fascinated by fighter jets. Whether it they're fascinated by sort of engineering or the way the stars look at night. What advice would you give them? How to have a career that can be proud of or how to have a life you can be proud of?
+ 
+ Ryan Graves: I suggest that they don't fear looking foolish. I spent a large portion of my life considering the laughter or the the comments at my statements as indication that I shouldn't pursue that. And so, you know, I didn't... I kinda woke up to that fact a bit later, but I would encourage, you know, I would advise that that people, you know, trust in themselves and trust the things that they care about. It doesn't matter.
+ 
+ If it's they're good at it. All that matters is that they find something that they can apply love and care to, and they will grow better at it. And almost most
+ 
+ Ryan Graves: likely make the world better because of it. And don't be afraid to look stupid. Don't be afraid to look. Yeah. That's one of the things that I think is you
+ 
+ Lex Fridman: get older. You're expected to be to have it all figured out and so you are afraid to take on new things But I think as long as you always okay looking stupid and having a beginner mind, you can you can get really really far even later on in life. So this isn't just advice for young people. This is his really advice for for
+ 
+ Ryan Graves: everybody.
+ 
+ Lex Fridman: Maybe a dark question, but has there been a difficult time in your life? A really dark place you've gone in your mind that stands out. They had to really overcome.
+ 
+ Ryan Graves: I would suggest that I've been i pretty firm ground for most of my life. I haven't had too many personal tragedies. I'll say that have really defined me. Certainly none that, I would think are outside the norm.
+ 
+ Lex Fridman: So there was no truly low point
+ 
+ Ryan Graves: Actually, I have one. And it's tough for me because I... you know, I've spent most of my like, beating motions and and, you know, high high emotional responses out of my system, Right, because that's what flying is. Right? It's keeping a steady line and and doing what we need to do.
+ 
+ In fact there's been studies that shown reduced adrenaline in production pilots for a number of years after they get out. But getting out of the Navy was difficult for me. You know, and I wasn't expecting it to be. A lot of Vi and macho, of course, in the military, especially fighter community. And we all have our plans made up to get out And none of it really accounts for any type of mental health or anything like that.
+ 
+ It's all very much. Where am I gonna get my paycheck from? Where am I gonna move to? And, you know, whether it's the Navy or just individuals, truly understanding the difference that makes. And when I got out, it...
+ 
+ It was difficult for me. I, you know, I think a lot of guys in that job when they get out, and they almost I least I I had anxiety when I got out because it was I was so used to being highly involved in something that that, you know, just was I was all involved with that when I got out, I didn't know how to fill that space, essentially, you know. And while I wouldn't say it was overly traumatic experience. I think it's one that's not accounted for enough that people that are getting out, you know, so it encourage them to take a serious and
+ 
+ Ryan Graves: actually think about it and respect the change because it it is a big one. Well, if I may say, you found a a place in nature currently, a home is there can you speak to that being a source of happiness for you? Absolutely an escape from the world. Certainly, you know very much is. Was it deliberate that you found it
+ 
+ Ryan Graves: there? That's home for me. So, you know, I moved back up to the the Boston area and my wife and I had an idea after moving about eight or nine times in the navy of kind of what we... What we wanted just generally. And it was all really about the land and not about the house.
+ 
+ You know, We just wanted privacy and to be nearby. And so we end up finding a lot of land, you know, a partial land. We put a house on it. And it provides me with a sense of peace that I think I can only get when I'm in nature a sense of clarity that helps me think helps me relax, maybe sur relaxing helps me think. I don't know.
+ 
+ But being surrounded by nature and birds and animals for for me has always allowed me to... I know feel most in touch with with my own thoughts in for sense. It just provides clarity. And so this little sanctuary, you could say a built allows me to to, you know, interface via a fire line at my house, but feel like of a million miles away. So sometimes, which is the best of both worlds.
+ 
+ Hey. You can just walk outside to escape it all. Yes.
+ 
+ Ryan Graves: To experience life as as hundreds of generations of human species have experienced that. Maybe it's a dichotomy, my desire for the fasteners of technology and experience compared with the most
+ 
+ Lex Fridman: basic baseline that we have. Isn't that strange? How do you how do you square that? Your draw, how draw you are to the cutting edge and still the calm you
+ 
+ Ryan Graves: find in nature. I think it makes sense nature is vastly superior to almost all of
+ 
+ Ryan Graves: our technology perspective it is.
+ 
+ Ryan Graves: And so way it's being surrounded by perfection in the low senses.
+ 
+ Lex Fridman: In the military and in general, have you contacted to your immortality? Have you been afraid of death? What was what's your relationship like with Death?
+ 
+ Ryan Graves: I was willing to accept an oversized amount of risk i'll say one i was Younger an avi. Not not in the jet. But just that was my life. You know, I felt like I was gonna live forever. And going out in the war, you know, strangely didn't really change that because you know, as an avi, Again, we're riding up high on our horse up there.
+ 
+ So there were times when I was in situations that could have resulted in death from from flying or from emergency in the aircraft, but I'll be honest. I never really kinda sat down to think about the... The mortality of it afterwards. I feel like I kinda assigned a check at the beginning. And it was my job perform as well as I could.
+ 
+ And if something happened in that, then I better Dan will be sure I would do my best at the time then. So, you know, I I've maybe didn't personally reflect on it as much as of it. I... One would think, you know because once you get in that machine, it doesn't give you a lot of time to sit back and on your current situation. And that same just like we weren't seeing these out...
+ 
+ Or when we seen these objects off coast, we weren't necessarily, you know, examining them every day. Right? We put them into that bucket because it wasn't something That was gonna kill us right away. And thinking about death when you're so close to it
+ 
+ Lex Fridman: all the time would be debilitating. And would probably make you worse your job. You
+ 
+ Ryan Graves: would?
+ 
+ Lex Fridman: Well, maybe you can think about death when you look out when you got to nature and think like the the the fact that this whole right ends. It's a such a weird thing. And the the old mixed way to new. And that's all throughout nature. And if you just look at the the cruelty of nature, or the beauty of nature however you think about it, the the fact that the the big thing eats the little thing over and over.
+ 
+ And that's just how it progresses and that's how adaptation
+ 
+ Ryan Graves: happens. That is a a requirement for evolution And, you know, whether evolution allows us to see objective reality or not, it still gives you some interesting thoughts about perspectives of
+ 
+ Ryan Graves: death. And especially concerning it's a biological necessity as far as evolution concerned. Yeah, it's weird it's weird that This it's been, like, hundred billion people that lived before us. And
+ 
+ Lex Fridman: then you and I we've forgotten this whole thing we're doing i was is meaningless in that sense. But at the same time it feels deeply meaningful somehow. I guess, that that's the question I wanna ask when you got to nature. Family. What do you think is the meaning of it all?
+ 
+ What's the meaning of
+ 
+ Ryan Graves: life?
+ 
+ Lex Fridman: Or maybe when you put on the night goggles, the the night vision goggles was in local put the stars. Why we're here? I can't speak for everyone, but at least
+ 
+ Ryan Graves: the way I interpret it, you know, or at least, I I feel like I interpret my way here. My job is I feel like my role is just to be curious about the environment in a manner that allows us to understand as much as possible. I think that the human mind, whether it's just the mass inside or skull, you know, whether there's some type of quantum interactions going on, our mind is incredible has incredible ability to output new information in in a universe that you know, some stale of information. Right? Our minds are in some somewhat unique in that we can imagine and perceive things that could never ever have possibly naturally occurred and yet, we can make it happen.
+ 
+ We can instant that with enough belief that is true and it can happen. And so for me, I feel like I just need to encourage that to encourage, you know, interaction with reality. So I said it leaves us a newer and grander you know, interactions with this universe. And all of that starts with a a little bit curiosity.
+ 
+ Lex Fridman: Exactly. Right. You're an incredible person. You've done so many things and there's so much still still ahead of you. Thank you for being brave enough to talk about Ufo and doing it so seriously and thank you for pushing forward and all these fronts in terms of technology.
+ 
+ So from just to fighter just the the the engineering of that to the Ai ml applications in the combat setting that's super interesting and then now quantum I can't wait to see to see what you do next. Thank you so much for staying down and talking to today as an honor. It was my pleasure. Thank you le. Thanks for listening to this conversation with lieutenant Ryan Graves.
+ 
+ To support this podcast, please check out our sponsors in the description. And now, let me leave you some words from Bo a. Bravery comes along as a gradual accumulation of discipline. Thank you for listening and hope to see you next
+ 
+ Ryan Graves: time.

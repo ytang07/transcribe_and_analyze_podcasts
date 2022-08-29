@@ -1,0 +1,254 @@
+PERSON Mag 
+LOC Africa 
+PERSON Mh 
+PERSON Tar 
+LOC Africa 
+ORG Uber 
+PERSON Austin 
+DATE the early days 
+LOC Silicon Valley 
+PERSON Elon 
+ORG tesla 
+PERSON Michael 
+PERSON Nicole 
+PERSON Nikola 
+LOC Africa 
+LOC Africa 
+LOC Africa 
+LOC Africa 
+LOC Africa 
+LOC Africa 
+LOC Africa 
+EVENT World war one 
+LOC Europe 
+LOC Africa 
+DATE the thirties 
+LOC Africa 
+PERSON Bundy 
+LOC Africa 
+ORG United Africa 
+ORG Africa   
+LOC Africa 
+PERSON Vega 
+LOC Africa 
+LOC Sub sahara Africa 
+LOC Turn Africa 
+DATE May 
+DATE today 
+LOC East 
+DATE seven 
+LOC Europe 
+PERSON Grandma 
+LOC Europe 
+LOC Africa 
+LOC Africa 
+DATE last year 
+DATE seven year old 
+LOC Europe 
+LOC Africa 
+LOC Africa 
+LOC Silicon valley 
+DATE the late nineties 
+DATE early two thousands 
+LOC Silicon Valley 
+PERSON Roger 
+PERSON Recall 
+ORG Pepsi 
+LOC Africa 
+DATE two thousand and four 
+LOC Africa 
+DATE today 
+TIME twenty minutes 
+TIME less than few hours 
+MONEY a few hundred dollars 
+ORG Llc 
+DATE today 
+DATE every month 
+TIME five minutes 
+MONEY a one thousand dollars 
+TIME twenty hours 
+TIME forty eight hours 
+DATE two months 
+DATE three months 
+DATE four months 
+DATE five months 
+PERSON Van 
+DATE nine months 
+DATE another three days 
+DATE four days 
+MONEY dollar 
+MONEY that forty cents 
+DATE two years 
+DATE one year 
+LOC the Middle Siberia 
+PERSON Mo mohammed 
+TIME five minutes 
+ORG the heritage foundation 
+LOC Sahara 
+LOC Africa 
+LOC Scandinavia 
+LOC Scandinavia 
+DATE years 
+LOC Africa 
+DATE vi day 
+LOC Africa 
+DATE today 
+LOC Africa 
+LOC Europe 
+DATE the age of twenty five years old 
+LOC Africa 
+LOC Africa 
+LOC Africa 
+LOC Africa 
+LOC Africa 
+PERSON Voila 
+DATE the thirties 
+PERSON Stalin 
+PERSON chris 
+DATE eighty nine 
+LOC Africa 
+LOC Scandinavia 
+LOC Africa 
+LOC Scandinavia 
+DATE today 
+PERSON Mit 
+ORG Mit 
+ORG Mit 
+DATE twenty twenty two 
+DATE fifty years ago 
+DATE a hundred years ago 
+DATE today 
+LOC Africa 
+PERSON Tar 
+PERSON michelin 
+MONEY a million dollars 
+MONEY two million dollars 
+DATE those days 
+MONEY thirty two dollars 
+LOC Europe 
+PERSON Cameron El Wen 
+LOC Midwest 
+LOC Midwest 
+DATE sixty some years ago 
+DATE nineteen forty five 
+DATE nineteen forty five 
+LOC Africa 
+LOC Sahara Africa 
+PERSON Marcus Garvey 
+PERSON Dub dubai 
+PERSON Marcus Garvey 
+LOC Africa 
+DATE nineteen forty five 
+PERSON Garvey 
+PERSON Gan 
+DATE late fifties 
+DATE fifty seven 
+DATE April fourth nineteen sixty 
+PERSON Georgia Yu 
+DATE late fifties 
+DATE early six 
+DATE forty five 
+PERSON Dub 
+DATE seventies 
+DATE late fifty early sixties 
+DATE forty years 
+DATE The first four years 
+LOC Africa 
+DATE sixty seven years 
+DATE those sixty years 
+DATE sixty some years ago 
+PERSON Chris 
+LOC Africa 
+LOC Africa 
+LOC Africa 
+DATE sixty some plus years ago 
+DATE the twentieth century 
+PERSON oprah 
+PERSON Abraham Candy 
+PERSON Robin Dia 
+DATE the days 
+PERSON Cast castillo 
+PERSON Eric Garner 
+DATE twenty sixteen 
+PERSON George 
+DATE four years ago 
+PERSON Ken 
+PERSON Angelo 
+TIME the morning 
+LOC Africa 
+LOC Africa 
+DATE Today 
+PERSON tobias 
+PERSON Van jones 
+PERSON Alice Johnson 
+PERSON Trump 
+PERSON V jones 
+PERSON Kim kardashian 
+PERSON Bishop Omar 
+PERSON Ken 
+PERSON Omar 
+PERSON Lucky 
+PERSON Alice Johnston 
+PERSON Alice johnson 
+DATE every single day 
+PERSON Anton antoine Lucky 
+LOC Africa 
+LOC Africa 
+PERSON Tom 
+PERSON Mack 
+ORG the African Union 
+PERSON Vladimir Putin 
+DATE June third 
+LOC Africa 
+LOC Africa 
+LOC Africa 
+DATE today 
+ORG the African Union 
+LOC Europe 
+LOC Europe 
+LOC Africa 
+LOC Africa 
+LOC Africa 
+PERSON Willie 
+DATE the twenty first century 
+LOC Africa 
+LOC Africa 
+DATE the next ten years 
+DATE the next fifty years 
+LOC Africa 
+DATE many years later 
+DATE twenty fifty 
+PERSON George 
+DATE today 
+ORG Atlas 
+LOC Africa 
+PERSON Paul 
+LOC Africa 
+ORG the asian Tigers 
+DATE a century 
+PERSON Steve 
+DATE years 
+DATE three days 
+TIME around five zero six 
+PERSON Michael 
+PERSON Michael Str 
+PERSON Michael 
+DATE a few years ago 
+DATE twenty first century 
+PERSON Michael 
+PERSON Michael 
+PERSON John Mack 
+PERSON Michael 
+TIME the twenty minutes 
+MONEY thousands hundred 
+PERSON Michael 
+PERSON Michael 
+LOC Africa 
+DATE today 
+DATE today 
+LOC Africa 
+PERSON Mike 
+TIME hours 
+DATE every single day 
+PERSON Nelson 
+PERSON mandela 
