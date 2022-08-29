@@ -14,8 +14,6 @@ options = {
 
 async def main():
     podcasts = os.listdir("./lex/audio")
-    # skip the transcripts directory/first entry
-    podcasts = ["Joe Rogan - Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom _ Lex Fridman Podcast #300.mp3"]
     for podcast in podcasts:
         if "Bishop Robert Barron" in podcast:
             continue

@@ -24,7 +24,7 @@ def mcp(text: str, filename: str):
     for text in texts:
         body = {
             "text": text,
-            "num_phrases": 10
+            "num_phrases": 5
         }
         start = time.time()
         res = requests.post(url="https://app.thetextapi.com/text/most_common_phrases", headers=headers, json=body)
@@ -80,8 +80,7 @@ def summarize(text: str, filename: str):
     summaries = []
     for text in texts:
         body = {
-            "text": text,
-            "num_phrases": 10
+            "text": text
         }
         start = time.time()
         res = requests.post(url="https://app.thetextapi.com/text/summarize", headers=headers, json=body)
