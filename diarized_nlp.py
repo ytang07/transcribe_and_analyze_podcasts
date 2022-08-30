@@ -5,7 +5,6 @@ import os
 from text_analysis import headers # gotta comment out main() in text_analytics to do this
 
 # Re-run MCP on both
-# Summarize Guest
 def nlp():
     for filename in os.listdir("lex/pretty_scripts"):
         print(f"Current File: {filename}")

@@ -1,0 +1,5 @@
+deepgram-sdk
+requests
+matplotlib
+youtube_dl
+ffmpeg-python

@@ -1,5 +1,4 @@
 import json
-from locale import currency 
 import os
 
 def divide_times():
@@ -29,7 +28,7 @@ def divide_times():
     with open("./lex/time_speaking.json", "w") as f:
         json.dump(times, f)
 
-# divide_times()
+divide_times()
 
 def words_said():
     word_split = {}
