@@ -1,0 +1,33 @@
+{
+  "metadata":{
+    "transaction_key":"string",
+    "request_id":"string",
+    "sha256":"string",
+    "created":"string",
+    "duration":0,
+    "channels":0,
+    "models":[],
+    "model_info": {}
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives":[
+            {
+                "transcript": "string",
+                "confidence": "float",
+                "words": [
+                    {
+                        "word": "string",
+                        "start": "start time in seconds",
+                        "end": "end time in seconds",
+                        "confidence": "float",
+                        "punctuated_word": "string"
+                    }
+                ]
+            }
+        ]
+      }
+    ]
+  }
+}
