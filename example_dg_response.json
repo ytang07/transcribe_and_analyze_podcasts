@@ -24,7 +24,24 @@
                         "confidence": "float",
                         "punctuated_word": "string"
                     }
-                ]
+                ],
+                "paragraphs": {
+                    "transcript": "string",
+                    "paragraphs": [
+                        {
+                            "sentences": [
+                                {
+                                    "text": "string",
+                                    "start": "start time in seconds",
+                                    "end": "end time in seconds"
+                                }
+                            ],
+                            "num_words": "int",
+                            "start": "start time in seconds",
+                            "end": "end time in seconds"
+                        }
+                    ]
+                }
             }
         ]
       }
